@@ -11,7 +11,7 @@ npm 설치
 <pre><code> npm install </code></pre>
 
 해당 ip 주소 설정(optional)
-<pre><code> www/assets/js/common.js -> homeurl, apiulr 변경 </code></pre>
+<pre><code> www/assets/js/common.js -> homeurl, apiurl 변경 </code></pre>
 
 서버 실행
 <pre><code> node server.js </code></pre>
