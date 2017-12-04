@@ -2954,3 +2954,153 @@ printf("Value entered x is %d\n", x);
 17/12/05 01:03:39.320 [pid:51501] - debug: [runtime] 3ms
 17/12/05 01:03:39.320 [pid:51501] - debug: ---------- client disconnection ------------
 17/12/05 01:03:39.320 [pid:51501] - debug: 
+17/12/05 01:08:43.823 [pid:51911] - debug: ----------------------
+17/12/05 01:08:43.824 [pid:51911] - debug: |Start Express Server|
+17/12/05 01:08:43.824 [pid:51911] - debug: ----------------------
+17/12/05 01:08:43.825 [pid:51911] - debug: Socket IO server has been started
+17/12/05 01:08:43.840 [pid:51911] - debug: Connected to mongod server
+17/12/05 01:08:49.645 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:49.645 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:49.646 [pid:51911] - debug: [http GET] http://localhost:3000/fileManager.html
+17/12/05 01:08:49.662 [pid:51911] - debug: [runtime] 18ms
+17/12/05 01:08:49.663 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:49.663 [pid:51911] - debug: 
+17/12/05 01:08:50.008 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:50.009 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:50.009 [pid:51911] - debug: [http GET] http://localhost:3000/session?_=1512403729847
+17/12/05 01:08:50.014 [pid:51911] - debug: [STATUS 200] OK
+17/12/05 01:08:50.018 [pid:51911] - debug: [runtime] 11ms
+17/12/05 01:08:50.018 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:50.018 [pid:51911] - debug: 
+17/12/05 01:08:50.067 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:50.067 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:50.068 [pid:51911] - debug: [http GET] http://localhost:3000/fileManager/f_read?_id=5a256df0f456acc92d3d251a&_=1512403729848
+17/12/05 01:08:50.082 [pid:51911] - debug: [HTTP GET PARAMS] _id=5a256df0f456acc92d3d251a
+17/12/05 01:08:50.088 [pid:51911] - debug: [STATUS 200] { _id: 5a256df0f456acc92d3d251a,
+  project: '/Users/janghyunil/Downloads/Assignment/Assignment/server/_files/upload/hyunil/projectnew.zip' }
+17/12/05 01:08:50.090 [pid:51911] - debug: [runtime] 23ms
+17/12/05 01:08:50.090 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:50.091 [pid:51911] - debug: 
+17/12/05 01:08:50.099 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:50.100 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:50.100 [pid:51911] - debug: [http POST] http://localhost:3000/connectors/jqueryFileTree
+17/12/05 01:08:50.127 [pid:51911] - debug: [runtime] 28ms
+17/12/05 01:08:50.127 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:50.136 [pid:51911] - debug: 
+17/12/05 01:08:50.168 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:50.169 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:50.169 [pid:51911] - debug: [http GET] http://localhost:3000/topbar.html
+17/12/05 01:08:50.171 [pid:51911] - debug: [runtime] 3ms
+17/12/05 01:08:50.172 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:50.172 [pid:51911] - debug: 
+17/12/05 01:08:55.499 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:55.499 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:55.499 [pid:51911] - debug: [http GET] http://localhost:3000/login.html
+17/12/05 01:08:55.502 [pid:51911] - debug: [runtime] 3ms
+17/12/05 01:08:55.502 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:55.502 [pid:51911] - debug: 
+17/12/05 01:08:55.705 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:55.705 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:55.705 [pid:51911] - debug: [http GET] http://localhost:3000/session?_=1512403735658
+17/12/05 01:08:55.707 [pid:51911] - debug: [STATUS 200] OK
+17/12/05 01:08:55.709 [pid:51911] - debug: [runtime] 4ms
+17/12/05 01:08:55.709 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:55.709 [pid:51911] - debug: 
+17/12/05 01:08:55.815 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:55.816 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:55.817 [pid:51911] - debug: [http GET] http://localhost:3000/topbar.html
+17/12/05 01:08:55.820 [pid:51911] - debug: [runtime] 6ms
+17/12/05 01:08:55.820 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:55.820 [pid:51911] - debug: 
+17/12/05 01:08:57.726 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:57.727 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:57.727 [pid:51911] - debug: [http GET] http://localhost:3000/fileManager.html
+17/12/05 01:08:57.730 [pid:51911] - debug: [runtime] 5ms
+17/12/05 01:08:57.730 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:57.730 [pid:51911] - debug: 
+17/12/05 01:08:58.082 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:58.082 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:58.086 [pid:51911] - debug: [http GET] http://localhost:3000/session?_=1512403737894
+17/12/05 01:08:58.089 [pid:51911] - debug: [STATUS 200] OK
+17/12/05 01:08:58.091 [pid:51911] - debug: [runtime] 10ms
+17/12/05 01:08:58.091 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:58.091 [pid:51911] - debug: 
+17/12/05 01:08:58.140 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:58.141 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:58.141 [pid:51911] - debug: [http GET] http://localhost:3000/fileManager/f_read?_id=5a256df0f456acc92d3d251a&_=1512403737895
+17/12/05 01:08:58.143 [pid:51911] - debug: [HTTP GET PARAMS] _id=5a256df0f456acc92d3d251a
+17/12/05 01:08:58.145 [pid:51911] - debug: [STATUS 200] { _id: 5a256df0f456acc92d3d251a,
+  project: '/Users/janghyunil/Downloads/Assignment/Assignment/server/_files/upload/hyunil/projectnew.zip' }
+17/12/05 01:08:58.148 [pid:51911] - debug: [runtime] 8ms
+17/12/05 01:08:58.148 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:58.149 [pid:51911] - debug: 
+17/12/05 01:08:58.160 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:58.161 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:58.162 [pid:51911] - debug: [http POST] http://localhost:3000/connectors/jqueryFileTree
+17/12/05 01:08:58.167 [pid:51911] - debug: [runtime] 7ms
+17/12/05 01:08:58.167 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:58.167 [pid:51911] - debug: 
+17/12/05 01:08:58.204 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:58.204 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:58.205 [pid:51911] - debug: [http GET] http://localhost:3000/topbar.html
+17/12/05 01:08:58.207 [pid:51911] - debug: [runtime] 3ms
+17/12/05 01:08:58.207 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:58.207 [pid:51911] - debug: 
+17/12/05 01:08:59.468 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:08:59.468 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:08:59.469 [pid:51911] - debug: [http POST] http://localhost:3000/connectors/jqueryFileTree
+17/12/05 01:08:59.473 [pid:51911] - debug: [runtime] 4ms
+17/12/05 01:08:59.473 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:08:59.474 [pid:51911] - debug: 
+17/12/05 01:09:00.319 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:09:00.319 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:09:00.320 [pid:51911] - debug: [http POST] http://localhost:3000/connectors/jqueryFileTree
+17/12/05 01:09:00.324 [pid:51911] - debug: [runtime] 5ms
+17/12/05 01:09:00.324 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:09:00.324 [pid:51911] - debug: 
+17/12/05 01:09:01.199 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:09:01.199 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:09:01.199 [pid:51911] - debug: [http POST] http://localhost:3000/connectors/jqueryFileTree
+17/12/05 01:09:01.203 [pid:51911] - debug: [runtime] 5ms
+17/12/05 01:09:01.204 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:09:01.204 [pid:51911] - debug: 
+17/12/05 01:09:02.127 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:09:02.127 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:09:02.128 [pid:51911] - debug: [http GET] http://localhost:3000/fileManager/read?file=/Users/janghyunil/Downloads/Assignment/Assignment/server/_files/upload/hyunil/projectnew/project/hey/main.c&_=1512403737896
+17/12/05 01:09:02.130 [pid:51911] - debug: [HTTP GET PARAMS] file=/Users/janghyunil/Downloads/Assignment/Assignment/server/_files/upload/hyunil/projectnew/project/hey/main.c
+17/12/05 01:09:02.131 [pid:51911] - debug: [STATUS 200] #define _CRT_SECURE_NO_WARNINGS    // 보안 경고로 인한 컴파일 에러 방지
+#include <stdio.h>
+
+int main() {
+int x;
+
+printf("Enter x : ");
+fflush(stdout);
+scanf("%d", &x);
+
+
+
+printf("Value entered x is %d\n", x);
+  return 0;
+}
+17/12/05 01:09:02.132 [pid:51911] - debug: [runtime] 5ms
+17/12/05 01:09:02.132 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:09:02.133 [pid:51911] - debug: 
+17/12/05 01:09:03.077 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:09:03.077 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:09:03.078 [pid:51911] - debug: [http GET] http://localhost:3000/fileManager/checkInput?path=/Users/janghyunil/Downloads/Assignment/Assignment/server/_files/upload/hyunil/projectnew/project/hey/main.c&_=1512403737897
+17/12/05 01:09:03.080 [pid:51911] - debug: [HTTP GET PARAMS] path=/Users/janghyunil/Downloads/Assignment/Assignment/server/_files/upload/hyunil/projectnew/project/hey/main.c
+17/12/05 01:09:03.082 [pid:51911] - debug: [STATUS 200] OK
+17/12/05 01:09:03.083 [pid:51911] - debug: [runtime] 6ms
+17/12/05 01:09:03.084 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:09:03.084 [pid:51911] - debug: 
+17/12/05 01:09:04.207 [pid:51911] - debug: ------------ client connection ------------
+17/12/05 01:09:04.207 [pid:51911] - debug: [client] ::1 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/12/05 01:09:04.207 [pid:51911] - debug: [http GET] http://localhost:3000/fileManager/buildC?path=/Users/janghyunil/Downloads/Assignment/Assignment/server/_files/upload/hyunil/projectnew/project/hey/main.c&inputData[]=10&_=1512403737898
+17/12/05 01:09:04.210 [pid:51911] - debug: [HTTP GET PARAMS] path=/Users/janghyunil/Downloads/Assignment/Assignment/server/_files/upload/hyunil/projectnew/project/hey/main.c
+17/12/05 01:09:04.210 [pid:51911] - debug: [HTTP GET PARAMS] inputData=10
+17/12/05 01:09:06.734 [pid:51911] - debug: [STATUS 200] Enter x : Value entered x is 10
+
+17/12/05 01:09:06.737 [pid:51911] - debug: [runtime] 2530ms
+17/12/05 01:09:06.738 [pid:51911] - debug: ---------- client disconnection ------------
+17/12/05 01:09:06.741 [pid:51911] - debug: 
