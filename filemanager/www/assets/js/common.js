@@ -1,7 +1,5 @@
 // var homeurl = 'http://192.168.0.49:3000';
 // var apiurl = 'http://192.168.0.49:3000';
-//var homeurl = 'http://jobinterview.run.goorm.io';
-//var apiurl = 'http://jobinterview.run.goorm.io';
 var homeurl = 'http://localhost:3000';
 var apiurl = 'http://localhost:3000';
 
