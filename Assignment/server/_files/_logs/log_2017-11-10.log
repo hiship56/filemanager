@@ -1,0 +1,1716 @@
+17/11/10 06:15:24.093 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:15:24.095 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:15:24.095 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/main.html
+17/11/10 06:15:24.171 [pid:121] - debug: [runtime] 83ms
+17/11/10 06:15:24.172 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:15:24.172 [pid:121] - debug: 
+17/11/10 06:15:24.264 [pid:121] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 06:15:24.618 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:15:24.618 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:15:24.620 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:15:24.624 [pid:121] - debug: [runtime] 7ms
+17/11/10 06:15:24.625 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:15:24.625 [pid:121] - debug: 
+17/11/10 06:19:16.754 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:19:16.754 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:19:16.755 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:19:16.764 [pid:121] - debug: [runtime] 11ms
+17/11/10 06:19:16.764 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:19:16.765 [pid:121] - debug: 
+17/11/10 06:19:17.182 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:19:17.182 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:19:17.183 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:19:17.188 [pid:121] - debug: [runtime] 7ms
+17/11/10 06:19:17.189 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:19:17.189 [pid:121] - debug: 
+17/11/10 06:19:26.485 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:19:26.486 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:19:26.486 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:19:26.489 [pid:121] - debug: [runtime] 4ms
+17/11/10 06:19:26.489 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:19:26.490 [pid:121] - debug: 
+17/11/10 06:19:26.953 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:19:26.954 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:19:26.955 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:19:26.957 [pid:121] - debug: [runtime] 5ms
+17/11/10 06:19:26.957 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:19:26.958 [pid:121] - debug: 
+17/11/10 06:21:57.135 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:21:57.135 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:21:57.135 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:21:57.160 [pid:121] - debug: [runtime] 26ms
+17/11/10 06:21:57.164 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:21:57.164 [pid:121] - debug: 
+17/11/10 06:21:57.612 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:21:57.612 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:21:57.613 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:21:57.615 [pid:121] - debug: [runtime] 4ms
+17/11/10 06:21:57.615 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:21:57.615 [pid:121] - debug: 
+17/11/10 06:22:01.158 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:22:01.158 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:22:01.159 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/
+17/11/10 06:22:01.161 [pid:121] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 06:22:01.162 [pid:121] - debug: [runtime] 4ms
+17/11/10 06:22:01.163 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:22:01.163 [pid:121] - debug: 
+17/11/10 06:32:31.551 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:32:31.559 [pid:121] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:32:31.560 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:32:31.564 [pid:121] - debug: [runtime] 14ms
+17/11/10 06:32:31.565 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:32:31.566 [pid:121] - debug: 
+17/11/10 06:32:32.064 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:32:32.065 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:32:32.065 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:32:32.079 [pid:121] - debug: [runtime] 5ms
+17/11/10 06:32:32.081 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:32:32.083 [pid:121] - debug: 
+17/11/10 06:35:12.863 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:35:12.867 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:35:12.868 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:35:12.873 [pid:121] - debug: [runtime] 11ms
+17/11/10 06:35:12.874 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:35:12.875 [pid:121] - debug: 
+17/11/10 06:35:13.357 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:35:13.357 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:35:13.358 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:35:13.360 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:35:13.361 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:35:13.361 [pid:121] - debug: 
+17/11/10 06:35:28.944 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:35:28.945 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:35:28.945 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:35:28.961 [pid:121] - debug: [runtime] 16ms
+17/11/10 06:35:28.961 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:35:28.961 [pid:121] - debug: 
+17/11/10 06:35:29.423 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:35:29.423 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:35:29.424 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:35:29.426 [pid:121] - debug: [runtime] 2ms
+17/11/10 06:35:29.426 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:35:29.426 [pid:121] - debug: 
+17/11/10 06:36:06.461 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:36:06.461 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:36:06.461 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:36:06.463 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:36:06.464 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:36:06.464 [pid:121] - debug: 
+17/11/10 06:36:06.937 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:36:06.938 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:36:06.938 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:36:06.940 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:36:06.940 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:36:06.941 [pid:121] - debug: 
+17/11/10 06:36:51.870 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:36:51.870 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:36:51.959 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:36:51.965 [pid:121] - debug: [runtime] 94ms
+17/11/10 06:36:51.965 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:36:51.966 [pid:121] - debug: 
+17/11/10 06:36:52.408 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:36:52.408 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:36:52.408 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:36:52.410 [pid:121] - debug: [runtime] 2ms
+17/11/10 06:36:52.410 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:36:52.410 [pid:121] - debug: 
+17/11/10 06:37:01.964 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:37:01.964 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:37:01.964 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:37:02.061 [pid:121] - debug: [runtime] 97ms
+17/11/10 06:37:02.061 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:37:02.061 [pid:121] - debug: 
+17/11/10 06:37:03.069 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:37:03.069 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:37:03.069 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:37:03.071 [pid:121] - debug: [runtime] 2ms
+17/11/10 06:37:03.071 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:37:03.072 [pid:121] - debug: 
+17/11/10 06:38:03.250 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:03.250 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:03.251 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:38:03.270 [pid:121] - debug: [runtime] 11ms
+17/11/10 06:38:03.274 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:03.274 [pid:121] - debug: 
+17/11/10 06:38:03.720 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:03.721 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:03.721 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:38:03.722 [pid:121] - debug: [runtime] 2ms
+17/11/10 06:38:03.723 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:03.723 [pid:121] - debug: 
+17/11/10 06:38:17.874 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:17.874 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:17.878 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:38:17.882 [pid:121] - debug: [runtime] 8ms
+17/11/10 06:38:17.882 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:17.883 [pid:121] - debug: 
+17/11/10 06:38:18.356 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:18.356 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:18.356 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:38:18.358 [pid:121] - debug: [runtime] 2ms
+17/11/10 06:38:18.358 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:18.358 [pid:121] - debug: 
+17/11/10 06:38:25.872 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:25.873 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:25.873 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:38:25.875 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:38:25.959 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:25.959 [pid:121] - debug: 
+17/11/10 06:38:26.352 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:26.352 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:26.352 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:38:26.354 [pid:121] - debug: [runtime] 1ms
+17/11/10 06:38:26.354 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:26.354 [pid:121] - debug: 
+17/11/10 06:38:36.082 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:36.084 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:36.084 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:38:36.165 [pid:121] - debug: [runtime] 83ms
+17/11/10 06:38:36.166 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:36.166 [pid:121] - debug: 
+17/11/10 06:38:36.622 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:36.623 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:36.623 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:38:36.625 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:38:36.625 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:36.626 [pid:121] - debug: 
+17/11/10 06:38:45.318 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:45.318 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:45.318 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:38:45.362 [pid:121] - debug: [runtime] 45ms
+17/11/10 06:38:45.364 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:45.365 [pid:121] - debug: 
+17/11/10 06:38:45.817 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:38:45.817 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:38:45.817 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:38:45.820 [pid:121] - debug: [runtime] 2ms
+17/11/10 06:38:45.820 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:38:45.821 [pid:121] - debug: 
+17/11/10 06:40:57.504 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:40:57.504 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:40:57.504 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:40:57.506 [pid:121] - debug: [runtime] 2ms
+17/11/10 06:40:57.507 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:40:57.507 [pid:121] - debug: 
+17/11/10 06:40:57.956 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:40:57.956 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:40:57.959 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:40:57.967 [pid:121] - debug: [runtime] 11ms
+17/11/10 06:40:57.967 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:40:57.967 [pid:121] - debug: 
+17/11/10 06:41:07.819 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:41:07.819 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:41:07.820 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:41:07.823 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:41:07.823 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:41:07.823 [pid:121] - debug: 
+17/11/10 06:41:08.285 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:41:08.286 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:41:08.286 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:41:08.289 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:41:08.290 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:41:08.290 [pid:121] - debug: 
+17/11/10 06:41:17.009 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:41:17.010 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:41:17.010 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:41:17.064 [pid:121] - debug: [runtime] 55ms
+17/11/10 06:41:17.064 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:41:17.065 [pid:121] - debug: 
+17/11/10 06:41:17.679 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:41:17.679 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:41:17.680 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:41:17.682 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:41:17.682 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:41:17.682 [pid:121] - debug: 
+17/11/10 06:42:00.546 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:42:00.547 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:42:00.547 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/10 06:42:00.551 [pid:121] - debug: [runtime] 4ms
+17/11/10 06:42:00.551 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:42:00.552 [pid:121] - debug: 
+17/11/10 06:42:01.030 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:42:01.031 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:42:01.031 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:42:01.040 [pid:121] - debug: [runtime] 10ms
+17/11/10 06:42:01.041 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:42:01.041 [pid:121] - debug: 
+17/11/10 06:42:39.907 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:42:39.907 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:42:39.907 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/10 06:42:39.909 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:42:39.910 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:42:39.910 [pid:121] - debug: 
+17/11/10 06:42:40.329 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:42:40.329 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:42:40.329 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:42:40.332 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:42:40.333 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:42:40.335 [pid:121] - debug: 
+17/11/10 06:42:50.998 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:42:50.998 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:42:50.998 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/10 06:42:51.060 [pid:121] - debug: [runtime] 62ms
+17/11/10 06:42:51.060 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:42:51.060 [pid:121] - debug: 
+17/11/10 06:42:51.524 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:42:51.525 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:42:51.525 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:42:51.527 [pid:121] - debug: [runtime] 2ms
+17/11/10 06:42:51.527 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:42:51.527 [pid:121] - debug: 
+17/11/10 06:42:57.603 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:42:57.604 [pid:121] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:42:57.605 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 06:42:57.606 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:42:57.607 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:42:57.607 [pid:121] - debug: 
+17/11/10 06:42:58.064 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:42:58.159 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:42:58.159 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:42:58.162 [pid:121] - debug: [runtime] 97ms
+17/11/10 06:42:58.162 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:42:58.163 [pid:121] - debug: 
+17/11/10 06:43:03.867 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:43:03.867 [pid:121] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:43:03.867 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/
+17/11/10 06:43:03.869 [pid:121] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 06:43:03.871 [pid:121] - debug: [runtime] 4ms
+17/11/10 06:43:03.871 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:43:03.871 [pid:121] - debug: 
+17/11/10 06:55:38.540 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:55:38.540 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:55:38.540 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/
+17/11/10 06:55:38.563 [pid:121] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 06:55:38.564 [pid:121] - debug: [runtime] 24ms
+17/11/10 06:55:38.564 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:55:38.564 [pid:121] - debug: 
+17/11/10 06:55:46.544 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:55:46.544 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:55:46.544 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/
+17/11/10 06:55:46.546 [pid:121] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 06:55:46.548 [pid:121] - debug: [runtime] 4ms
+17/11/10 06:55:46.548 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:55:46.548 [pid:121] - debug: 
+17/11/10 06:56:01.057 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:56:01.057 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:56:01.057 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 06:56:01.060 [pid:121] - debug: [runtime] 4ms
+17/11/10 06:56:01.061 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:56:01.061 [pid:121] - debug: 
+17/11/10 06:56:01.159 [pid:121] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 06:56:01.553 [pid:121] - debug: ------------ client connection ------------
+17/11/10 06:56:01.554 [pid:121] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 06:56:01.554 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 06:56:01.556 [pid:121] - debug: [runtime] 3ms
+17/11/10 06:56:01.556 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 06:56:01.556 [pid:121] - debug: 
+17/11/10 07:05:51.180 [pid:121] - debug: ------------ client connection ------------
+17/11/10 07:05:51.180 [pid:121] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:05:51.181 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 07:05:51.183 [pid:121] - debug: [runtime] 3ms
+17/11/10 07:05:51.183 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 07:05:51.184 [pid:121] - debug: 
+17/11/10 07:05:51.305 [pid:121] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 07:05:51.600 [pid:121] - debug: ------------ client connection ------------
+17/11/10 07:05:51.600 [pid:121] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:05:51.601 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 07:05:51.602 [pid:121] - debug: [runtime] 2ms
+17/11/10 07:05:51.602 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 07:05:51.603 [pid:121] - debug: 
+17/11/10 07:06:21.150 [pid:121] - debug: ------------ client connection ------------
+17/11/10 07:06:21.150 [pid:121] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:06:21.151 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 07:06:21.153 [pid:121] - debug: [runtime] 2ms
+17/11/10 07:06:21.153 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 07:06:21.153 [pid:121] - debug: 
+17/11/10 07:06:21.236 [pid:121] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 07:06:21.633 [pid:121] - debug: ------------ client connection ------------
+17/11/10 07:06:21.633 [pid:121] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:06:21.633 [pid:121] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 07:06:21.634 [pid:121] - debug: [runtime] 1ms
+17/11/10 07:06:21.635 [pid:121] - debug: ---------- client disconnection ------------
+17/11/10 07:06:21.635 [pid:121] - debug: 
+17/11/10 07:26:00.070 [pid:241] - debug: ------------ client connection ------------
+17/11/10 07:26:00.072 [pid:241] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:26:00.073 [pid:241] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 07:26:00.165 [pid:241] - debug: [runtime] 99ms
+17/11/10 07:26:00.165 [pid:241] - debug: ---------- client disconnection ------------
+17/11/10 07:26:00.166 [pid:241] - debug: 
+17/11/10 07:26:00.256 [pid:241] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 07:26:00.605 [pid:241] - debug: ------------ client connection ------------
+17/11/10 07:26:00.606 [pid:241] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:26:00.606 [pid:241] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 07:26:00.616 [pid:241] - debug: [runtime] 11ms
+17/11/10 07:26:00.617 [pid:241] - debug: ---------- client disconnection ------------
+17/11/10 07:26:00.617 [pid:241] - debug: 
+17/11/10 07:27:45.694 [pid:241] - debug: ------------ client connection ------------
+17/11/10 07:27:45.694 [pid:241] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:27:45.695 [pid:241] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 07:27:45.697 [pid:241] - debug: [runtime] 2ms
+17/11/10 07:27:45.697 [pid:241] - debug: ---------- client disconnection ------------
+17/11/10 07:27:45.697 [pid:241] - debug: 
+17/11/10 07:27:45.796 [pid:241] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 07:27:46.175 [pid:241] - debug: ------------ client connection ------------
+17/11/10 07:27:46.175 [pid:241] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:27:46.176 [pid:241] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 07:27:46.178 [pid:241] - debug: [runtime] 3ms
+17/11/10 07:27:46.178 [pid:241] - debug: ---------- client disconnection ------------
+17/11/10 07:27:46.178 [pid:241] - debug: 
+17/11/10 07:27:47.939 [pid:241] - debug: ------------ client connection ------------
+17/11/10 07:27:47.939 [pid:241] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:27:47.940 [pid:241] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 07:27:47.941 [pid:241] - debug: [runtime] 2ms
+17/11/10 07:27:47.942 [pid:241] - debug: ---------- client disconnection ------------
+17/11/10 07:27:47.942 [pid:241] - debug: 
+17/11/10 07:27:48.037 [pid:241] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 07:27:48.378 [pid:241] - debug: ------------ client connection ------------
+17/11/10 07:27:48.378 [pid:241] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:27:48.379 [pid:241] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 07:27:48.381 [pid:241] - debug: [runtime] 2ms
+17/11/10 07:27:48.381 [pid:241] - debug: ---------- client disconnection ------------
+17/11/10 07:27:48.381 [pid:241] - debug: 
+17/11/10 07:27:53.786 [pid:241] - debug: ------------ client connection ------------
+17/11/10 07:27:53.786 [pid:241] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:27:53.859 [pid:241] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 07:27:53.862 [pid:241] - debug: [runtime] 77ms
+17/11/10 07:27:53.863 [pid:241] - debug: ---------- client disconnection ------------
+17/11/10 07:27:53.863 [pid:241] - debug: 
+17/11/10 07:27:53.963 [pid:241] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 07:27:54.289 [pid:241] - debug: ------------ client connection ------------
+17/11/10 07:27:54.290 [pid:241] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 07:27:54.291 [pid:241] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 07:27:54.297 [pid:241] - debug: [runtime] 9ms
+17/11/10 07:27:54.297 [pid:241] - debug: ---------- client disconnection ------------
+17/11/10 07:27:54.298 [pid:241] - debug: 
+17/11/10 11:39:10.466 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:10.468 [pid:162] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:10.469 [pid:162] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:39:10.501 [pid:162] - debug: [runtime] 40ms
+17/11/10 11:39:10.502 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:10.502 [pid:162] - debug: 
+17/11/10 11:39:10.949 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:10.950 [pid:162] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:10.951 [pid:162] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:39:10.954 [pid:162] - debug: [runtime] 4ms
+17/11/10 11:39:10.955 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:10.956 [pid:162] - debug: 
+17/11/10 11:39:16.152 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:16.161 [pid:162] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:16.162 [pid:162] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/10 11:39:16.202 [pid:162] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/10 11:39:16.203 [pid:162] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/10 11:39:16.284 [pid:162] - debug: [STATUS 200] OK
+17/11/10 11:39:16.296 [pid:162] - debug: [runtime] 145ms
+17/11/10 11:39:16.296 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:16.296 [pid:162] - debug: 
+17/11/10 11:39:17.621 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:17.621 [pid:162] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:17.621 [pid:162] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:39:17.683 [pid:162] - debug: [runtime] 69ms
+17/11/10 11:39:17.683 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:17.683 [pid:162] - debug: 
+17/11/10 11:39:18.108 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:18.109 [pid:162] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:18.109 [pid:162] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:39:18.113 [pid:162] - debug: [runtime] 5ms
+17/11/10 11:39:18.113 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:18.113 [pid:162] - debug: 
+17/11/10 11:39:19.914 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:19.915 [pid:162] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:19.915 [pid:162] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:39:19.989 [pid:162] - debug: [runtime] 75ms
+17/11/10 11:39:19.989 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:19.989 [pid:162] - debug: 
+17/11/10 11:39:20.095 [pid:162] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:39:20.292 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:20.292 [pid:162] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:20.293 [pid:162] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510313960122
+17/11/10 11:39:20.297 [pid:162] - debug: [STATUS 200] OK
+17/11/10 11:39:20.303 [pid:162] - debug: [runtime] 10ms
+17/11/10 11:39:20.303 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:20.303 [pid:162] - debug: 
+17/11/10 11:39:22.446 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:22.446 [pid:162] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:22.446 [pid:162] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:39:22.451 [pid:162] - debug: [runtime] 6ms
+17/11/10 11:39:22.451 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:22.452 [pid:162] - debug: 
+17/11/10 11:39:22.863 [pid:162] - debug: ------------ client connection ------------
+17/11/10 11:39:22.863 [pid:162] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:39:22.864 [pid:162] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:39:22.884 [pid:162] - debug: [runtime] 22ms
+17/11/10 11:39:22.884 [pid:162] - debug: ---------- client disconnection ------------
+17/11/10 11:39:22.885 [pid:162] - debug: 
+17/11/10 11:43:20.070 [pid:178] - debug: ------------ client connection ------------
+17/11/10 11:43:20.072 [pid:178] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:43:20.073 [pid:178] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:43:20.099 [pid:178] - debug: [runtime] 34ms
+17/11/10 11:43:20.100 [pid:178] - debug: ---------- client disconnection ------------
+17/11/10 11:43:20.100 [pid:178] - debug: 
+17/11/10 11:43:21.151 [pid:178] - debug: ------------ client connection ------------
+17/11/10 11:43:21.152 [pid:178] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:43:21.153 [pid:178] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:43:21.160 [pid:178] - debug: [runtime] 8ms
+17/11/10 11:43:21.161 [pid:178] - debug: ---------- client disconnection ------------
+17/11/10 11:43:21.161 [pid:178] - debug: 
+17/11/10 11:43:26.985 [pid:178] - debug: ------------ client connection ------------
+17/11/10 11:43:26.986 [pid:178] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:43:26.986 [pid:178] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/10 11:43:27.084 [pid:178] - error: [STATUS 400-Bad Request] 이미 로그인 중입니다.
+17/11/10 11:43:27.088 [pid:178] - debug: [runtime] 102ms
+17/11/10 11:43:27.088 [pid:178] - debug: ---------- client disconnection ------------
+17/11/10 11:43:27.088 [pid:178] - debug: 
+17/11/10 11:43:29.281 [pid:178] - debug: ------------ client connection ------------
+17/11/10 11:43:29.282 [pid:178] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:43:29.282 [pid:178] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:43:29.287 [pid:178] - debug: [runtime] 6ms
+17/11/10 11:43:29.287 [pid:178] - debug: ---------- client disconnection ------------
+17/11/10 11:43:29.287 [pid:178] - debug: 
+17/11/10 11:43:29.353 [pid:178] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:43:29.594 [pid:178] - debug: ------------ client connection ------------
+17/11/10 11:43:29.595 [pid:178] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:43:29.595 [pid:178] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314209416
+17/11/10 11:43:29.683 [pid:178] - debug: [STATUS 200] OK
+17/11/10 11:43:29.685 [pid:178] - debug: [runtime] 91ms
+17/11/10 11:43:29.685 [pid:178] - debug: ---------- client disconnection ------------
+17/11/10 11:43:29.686 [pid:178] - debug: 
+17/11/10 11:43:29.720 [pid:178] - debug: ------------ client connection ------------
+17/11/10 11:43:29.720 [pid:178] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:43:29.720 [pid:178] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:43:29.723 [pid:178] - debug: [runtime] 3ms
+17/11/10 11:43:29.724 [pid:178] - debug: ---------- client disconnection ------------
+17/11/10 11:43:29.724 [pid:178] - debug: 
+17/11/10 11:43:31.555 [pid:178] - debug: ------------ client connection ------------
+17/11/10 11:43:31.555 [pid:178] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:43:31.555 [pid:178] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:43:31.583 [pid:178] - debug: [runtime] 29ms
+17/11/10 11:43:31.584 [pid:178] - debug: ---------- client disconnection ------------
+17/11/10 11:43:31.584 [pid:178] - debug: 
+17/11/10 11:43:32.060 [pid:178] - debug: ------------ client connection ------------
+17/11/10 11:43:32.060 [pid:178] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:43:32.061 [pid:178] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:43:32.068 [pid:178] - debug: [runtime] 8ms
+17/11/10 11:43:32.068 [pid:178] - debug: ---------- client disconnection ------------
+17/11/10 11:43:32.068 [pid:178] - debug: 
+17/11/10 11:45:50.797 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:45:50.799 [pid:193] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:45:50.800 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:45:50.894 [pid:193] - debug: [runtime] 102ms
+17/11/10 11:45:50.895 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:45:50.895 [pid:193] - debug: 
+17/11/10 11:45:51.902 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:45:51.904 [pid:193] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:45:51.905 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:45:51.912 [pid:193] - debug: [runtime] 9ms
+17/11/10 11:45:51.913 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:45:51.913 [pid:193] - debug: 
+17/11/10 11:45:55.295 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:45:55.295 [pid:193] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:45:55.296 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:45:55.383 [pid:193] - debug: [runtime] 88ms
+17/11/10 11:45:55.384 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:45:55.384 [pid:193] - debug: 
+17/11/10 11:45:55.470 [pid:193] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:45:55.783 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:45:55.785 [pid:193] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:45:55.786 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314355512
+17/11/10 11:45:55.789 [pid:193] - debug: [STATUS 200] OK
+17/11/10 11:45:55.791 [pid:193] - debug: [runtime] 8ms
+17/11/10 11:45:55.791 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:45:55.791 [pid:193] - debug: 
+17/11/10 11:45:55.865 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:45:55.866 [pid:193] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:45:55.866 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:45:55.870 [pid:193] - debug: [runtime] 5ms
+17/11/10 11:45:55.870 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:45:55.871 [pid:193] - debug: 
+17/11/10 11:45:57.444 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:45:57.445 [pid:193] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:45:57.445 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:45:57.448 [pid:193] - debug: [runtime] 4ms
+17/11/10 11:45:57.448 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:45:57.449 [pid:193] - debug: 
+17/11/10 11:45:57.960 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:45:57.960 [pid:193] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:45:57.961 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:45:57.964 [pid:193] - debug: [runtime] 4ms
+17/11/10 11:45:57.965 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:45:57.965 [pid:193] - debug: 
+17/11/10 11:46:02.402 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:46:02.402 [pid:193] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:46:02.402 [pid:193] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/10 11:46:02.422 [pid:193] - error: [STATUS 400-Bad Request] 이미 로그인 중입니다.
+17/11/10 11:46:02.427 [pid:193] - debug: [runtime] 24ms
+17/11/10 11:46:02.427 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:46:02.427 [pid:193] - debug: 
+17/11/10 11:46:15.168 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:46:15.168 [pid:193] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:46:15.168 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:46:15.171 [pid:193] - debug: [runtime] 3ms
+17/11/10 11:46:15.171 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:46:15.172 [pid:193] - debug: 
+17/11/10 11:46:15.263 [pid:193] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:46:15.490 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:46:15.490 [pid:193] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:46:15.491 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314375310
+17/11/10 11:46:15.492 [pid:193] - debug: [STATUS 200] OK
+17/11/10 11:46:15.494 [pid:193] - debug: [runtime] 3ms
+17/11/10 11:46:15.494 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:46:15.494 [pid:193] - debug: 
+17/11/10 11:46:20.738 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:46:20.741 [pid:193] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:46:20.742 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:46:20.890 [pid:193] - debug: [runtime] 155ms
+17/11/10 11:46:20.890 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:46:20.891 [pid:193] - debug: 
+17/11/10 11:46:21.524 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:46:21.525 [pid:193] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:46:21.525 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:46:21.582 [pid:193] - debug: [runtime] 57ms
+17/11/10 11:46:21.582 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:46:21.582 [pid:193] - debug: 
+17/11/10 11:47:39.679 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:47:39.680 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:47:39.680 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:47:39.684 [pid:193] - debug: [runtime] 5ms
+17/11/10 11:47:39.685 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:47:39.685 [pid:193] - debug: 
+17/11/10 11:47:40.135 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:47:40.136 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:47:40.136 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:47:40.183 [pid:193] - debug: [runtime] 47ms
+17/11/10 11:47:40.183 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:47:40.183 [pid:193] - debug: 
+17/11/10 11:47:41.105 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:47:41.106 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:47:41.106 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:47:41.187 [pid:193] - debug: [runtime] 81ms
+17/11/10 11:47:41.187 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:47:41.188 [pid:193] - debug: 
+17/11/10 11:47:41.307 [pid:193] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:47:41.536 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:47:41.537 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:47:41.537 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314461333
+17/11/10 11:47:41.539 [pid:193] - debug: [STATUS 200] OK
+17/11/10 11:47:41.540 [pid:193] - debug: [runtime] 4ms
+17/11/10 11:47:41.540 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:47:41.541 [pid:193] - debug: 
+17/11/10 11:47:45.498 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:47:45.499 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:47:45.499 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:47:45.582 [pid:193] - debug: [runtime] 84ms
+17/11/10 11:47:45.583 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:47:45.583 [pid:193] - debug: 
+17/11/10 11:47:46.082 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:47:46.181 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:47:46.182 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:47:46.191 [pid:193] - debug: [runtime] 106ms
+17/11/10 11:47:46.192 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:47:46.192 [pid:193] - debug: 
+17/11/10 11:48:18.023 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:48:18.023 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:48:18.024 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:48:18.026 [pid:193] - debug: [runtime] 3ms
+17/11/10 11:48:18.026 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:48:18.027 [pid:193] - debug: 
+17/11/10 11:48:18.512 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:48:18.512 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:48:18.513 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:48:18.515 [pid:193] - debug: [runtime] 3ms
+17/11/10 11:48:18.515 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:48:18.516 [pid:193] - debug: 
+17/11/10 11:48:19.176 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:48:19.177 [pid:193] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:48:19.178 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:48:19.182 [pid:193] - debug: [runtime] 6ms
+17/11/10 11:48:19.184 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:48:19.188 [pid:193] - debug: 
+17/11/10 11:48:19.298 [pid:193] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:48:19.609 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:48:19.610 [pid:193] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:48:19.610 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314499324
+17/11/10 11:48:19.611 [pid:193] - debug: [STATUS 200] OK
+17/11/10 11:48:19.613 [pid:193] - debug: [runtime] 3ms
+17/11/10 11:48:19.613 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:48:19.613 [pid:193] - debug: 
+17/11/10 11:48:23.310 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:48:23.310 [pid:193] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:48:23.310 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:48:23.314 [pid:193] - debug: [runtime] 4ms
+17/11/10 11:48:23.314 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:48:23.314 [pid:193] - debug: 
+17/11/10 11:48:23.776 [pid:193] - debug: ------------ client connection ------------
+17/11/10 11:48:23.776 [pid:193] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:48:23.777 [pid:193] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:48:23.779 [pid:193] - debug: [runtime] 4ms
+17/11/10 11:48:23.779 [pid:193] - debug: ---------- client disconnection ------------
+17/11/10 11:48:23.780 [pid:193] - debug: 
+17/11/10 11:49:01.091 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:01.092 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:01.093 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:49:01.188 [pid:209] - debug: [runtime] 102ms
+17/11/10 11:49:01.188 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:01.189 [pid:209] - debug: 
+17/11/10 11:49:01.279 [pid:209] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:49:01.533 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:01.534 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:01.535 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314541325
+17/11/10 11:49:01.543 [pid:209] - debug: [STATUS 200] OK
+17/11/10 11:49:01.549 [pid:209] - debug: [runtime] 15ms
+17/11/10 11:49:01.550 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:01.550 [pid:209] - debug: 
+17/11/10 11:49:03.490 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:03.490 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:03.490 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:49:03.493 [pid:209] - debug: [runtime] 4ms
+17/11/10 11:49:03.494 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:03.494 [pid:209] - debug: 
+17/11/10 11:49:18.513 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:18.513 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:18.513 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:49:18.520 [pid:209] - debug: [runtime] 8ms
+17/11/10 11:49:18.520 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:18.521 [pid:209] - debug: 
+17/11/10 11:49:18.623 [pid:209] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:49:18.945 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:18.945 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:18.946 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314558695
+17/11/10 11:49:18.948 [pid:209] - debug: [STATUS 200] OK
+17/11/10 11:49:18.949 [pid:209] - debug: [runtime] 4ms
+17/11/10 11:49:18.950 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:18.950 [pid:209] - debug: 
+17/11/10 11:49:25.618 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:25.618 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:25.619 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:49:25.623 [pid:209] - debug: [runtime] 4ms
+17/11/10 11:49:25.623 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:25.623 [pid:209] - debug: 
+17/11/10 11:49:51.283 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:51.283 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:51.284 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/10 11:49:51.290 [pid:209] - debug: [runtime] 6ms
+17/11/10 11:49:51.290 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:51.290 [pid:209] - debug: 
+17/11/10 11:49:51.755 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:51.755 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:51.755 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:49:51.758 [pid:209] - debug: [runtime] 2ms
+17/11/10 11:49:51.758 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:51.758 [pid:209] - debug: 
+17/11/10 11:49:52.723 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:52.723 [pid:209] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:52.724 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:49:52.782 [pid:209] - debug: [runtime] 59ms
+17/11/10 11:49:52.782 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:52.782 [pid:209] - debug: 
+17/11/10 11:49:52.829 [pid:209] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:49:53.050 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:53.051 [pid:209] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:53.052 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314592868
+17/11/10 11:49:53.056 [pid:209] - debug: [STATUS 200] OK
+17/11/10 11:49:53.059 [pid:209] - debug: [runtime] 9ms
+17/11/10 11:49:53.060 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:53.064 [pid:209] - debug: 
+17/11/10 11:49:53.185 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:49:53.186 [pid:209] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:49:53.186 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:49:53.283 [pid:209] - debug: [runtime] 98ms
+17/11/10 11:49:53.284 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:49:53.284 [pid:209] - debug: 
+17/11/10 11:50:06.494 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:50:06.507 [pid:209] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:50:06.508 [pid:209] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 11:50:06.520 [pid:209] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 11:50:06.526 [pid:209] - error:  ReferenceError: File is not defined
+    at f_save (/workspace/Assignment/server/controllers/fileManager.js:116:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/10 11:50:06.584 [pid:209] - debug: [runtime] 90ms
+17/11/10 11:50:06.584 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:50:06.585 [pid:209] - debug: 
+17/11/10 11:50:21.188 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:50:21.188 [pid:209] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:50:21.189 [pid:209] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314620994
+17/11/10 11:50:21.191 [pid:209] - debug: [STATUS 200] OK
+17/11/10 11:50:21.193 [pid:209] - debug: [runtime] 5ms
+17/11/10 11:50:21.194 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:50:21.195 [pid:209] - debug: 
+17/11/10 11:50:27.393 [pid:209] - debug: ------------ client connection ------------
+17/11/10 11:50:27.394 [pid:209] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:50:27.394 [pid:209] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 11:50:27.482 [pid:209] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 11:50:27.483 [pid:209] - error:  ReferenceError: File is not defined
+    at f_save (/workspace/Assignment/server/controllers/fileManager.js:116:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/10 11:50:27.487 [pid:209] - debug: [runtime] 94ms
+17/11/10 11:50:27.488 [pid:209] - debug: ---------- client disconnection ------------
+17/11/10 11:50:27.488 [pid:209] - debug: 
+17/11/10 11:51:30.325 [pid:225] - debug: ------------ client connection ------------
+17/11/10 11:51:30.327 [pid:225] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:51:30.328 [pid:225] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314690118
+17/11/10 11:51:30.388 [pid:225] - debug: [STATUS 200] OK
+17/11/10 11:51:30.397 [pid:225] - debug: [runtime] 77ms
+17/11/10 11:51:30.397 [pid:225] - debug: ---------- client disconnection ------------
+17/11/10 11:51:30.398 [pid:225] - debug: 
+17/11/10 11:51:31.593 [pid:225] - debug: ------------ client connection ------------
+17/11/10 11:51:31.594 [pid:225] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:51:31.595 [pid:225] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 11:51:31.603 [pid:225] - debug: [runtime] 9ms
+17/11/10 11:51:31.603 [pid:225] - debug: ---------- client disconnection ------------
+17/11/10 11:51:31.603 [pid:225] - debug: 
+17/11/10 11:51:31.703 [pid:225] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 11:51:31.986 [pid:225] - debug: ------------ client connection ------------
+17/11/10 11:51:31.987 [pid:225] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:51:31.989 [pid:225] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314691721
+17/11/10 11:51:31.992 [pid:225] - debug: [STATUS 200] OK
+17/11/10 11:51:31.994 [pid:225] - debug: [runtime] 8ms
+17/11/10 11:51:31.995 [pid:225] - debug: ---------- client disconnection ------------
+17/11/10 11:51:31.995 [pid:225] - debug: 
+17/11/10 11:51:32.180 [pid:225] - debug: ------------ client connection ------------
+17/11/10 11:51:32.181 [pid:225] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:51:32.181 [pid:225] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 11:51:32.186 [pid:225] - debug: [runtime] 5ms
+17/11/10 11:51:32.186 [pid:225] - debug: ---------- client disconnection ------------
+17/11/10 11:51:32.186 [pid:225] - debug: 
+17/11/10 11:51:35.831 [pid:225] - debug: ------------ client connection ------------
+17/11/10 11:51:35.831 [pid:225] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:51:35.831 [pid:225] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 11:51:35.919 [pid:225] - debug: {"fieldname":"file","originalname":"msg.js","encoding":"7bit","mimetype":"text/javascript"}
+17/11/10 11:51:35.926 [pid:225] - debug:  
+[ { fieldname: 'file',
+    originalname: 'msg.js',
+    encoding: '7bit',
+    mimetype: 'text/javascript',
+    webpath: '/upload/1510314695919.js',
+    destination: '/workspace/Assignment/server/_files/upload',
+    filename: '1510314695919.js',
+    path: '/workspace/Assignment/server/_files/upload/1510314695919.js',
+    size: 3972 } ]
+17/11/10 11:51:35.933 [pid:225] - debug: [STATUS 200] OK
+17/11/10 11:51:35.984 [pid:225] - debug: [runtime] 153ms
+17/11/10 11:51:35.984 [pid:225] - debug: ---------- client disconnection ------------
+17/11/10 11:51:35.984 [pid:225] - debug: 
+17/11/10 11:52:18.122 [pid:225] - debug: ------------ client connection ------------
+17/11/10 11:52:18.122 [pid:225] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 11:52:18.122 [pid:225] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510314737946
+17/11/10 11:52:18.182 [pid:225] - debug: [STATUS 200] OK
+17/11/10 11:52:18.184 [pid:225] - debug: [runtime] 63ms
+17/11/10 11:52:18.185 [pid:225] - debug: ---------- client disconnection ------------
+17/11/10 11:52:18.186 [pid:225] - debug: 
+17/11/10 12:02:33.197 [pid:239] - debug: ------------ client connection ------------
+17/11/10 12:02:33.198 [pid:239] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:02:33.199 [pid:239] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 12:02:33.297 [pid:239] - debug: [runtime] 105ms
+17/11/10 12:02:33.298 [pid:239] - debug: ---------- client disconnection ------------
+17/11/10 12:02:33.298 [pid:239] - debug: 
+17/11/10 12:02:33.401 [pid:239] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 12:02:33.882 [pid:239] - debug: ------------ client connection ------------
+17/11/10 12:02:33.884 [pid:239] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:02:33.888 [pid:239] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510315353567
+17/11/10 12:02:33.893 [pid:239] - debug: [STATUS 200] OK
+17/11/10 12:02:33.984 [pid:239] - debug: [runtime] 100ms
+17/11/10 12:02:33.985 [pid:239] - debug: ---------- client disconnection ------------
+17/11/10 12:02:33.985 [pid:239] - debug: 
+17/11/10 12:02:34.326 [pid:239] - debug: ------------ client connection ------------
+17/11/10 12:02:34.327 [pid:239] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:02:34.327 [pid:239] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 12:02:34.331 [pid:239] - debug: [runtime] 5ms
+17/11/10 12:02:34.332 [pid:239] - debug: ---------- client disconnection ------------
+17/11/10 12:02:34.332 [pid:239] - debug: 
+17/11/10 12:02:37.276 [pid:239] - debug: ------------ client connection ------------
+17/11/10 12:02:37.277 [pid:239] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:02:37.281 [pid:239] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 12:02:37.297 [pid:239] - debug: 
+17/11/10 12:02:37.300 [pid:239] - debug: [STATUS 200] OK
+17/11/10 12:02:37.315 [pid:239] - debug: [runtime] 39ms
+17/11/10 12:02:37.316 [pid:239] - debug: ---------- client disconnection ------------
+17/11/10 12:02:37.316 [pid:239] - debug: 
+17/11/10 12:02:48.632 [pid:239] - debug: ------------ client connection ------------
+17/11/10 12:02:48.633 [pid:239] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:02:48.633 [pid:239] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 12:02:48.639 [pid:239] - debug: {"fieldname":"file","originalname":"msg.js","encoding":"7bit","mimetype":"text/javascript"}
+17/11/10 12:02:48.644 [pid:239] - debug:  
+[ { fieldname: 'file',
+    originalname: 'msg.js',
+    encoding: '7bit',
+    mimetype: 'text/javascript',
+    webpath: '/upload/1510315368639.js',
+    destination: '/workspace/Assignment/server/_files/upload',
+    filename: '1510315368639.js',
+    path: '/workspace/Assignment/server/_files/upload/1510315368639.js',
+    size: 3972 } ]
+17/11/10 12:02:48.648 [pid:239] - debug: [STATUS 200] OK
+17/11/10 12:02:48.651 [pid:239] - debug: [runtime] 19ms
+17/11/10 12:02:48.652 [pid:239] - debug: ---------- client disconnection ------------
+17/11/10 12:02:48.652 [pid:239] - debug: 
+17/11/10 12:03:56.445 [pid:239] - debug: ------------ client connection ------------
+17/11/10 12:03:56.446 [pid:239] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:03:56.446 [pid:239] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 12:03:56.451 [pid:239] - debug: {"fieldname":"file","originalname":"lightbox.js","encoding":"7bit","mimetype":"text/javascript"}
+17/11/10 12:03:56.453 [pid:239] - debug:  
+[ { fieldname: 'file',
+    originalname: 'lightbox.js',
+    encoding: '7bit',
+    mimetype: 'text/javascript',
+    webpath: '/upload/1510315436451.js',
+    destination: '/workspace/Assignment/server/_files/upload',
+    filename: '1510315436451.js',
+    path: '/workspace/Assignment/server/_files/upload/1510315436451.js',
+    size: 18250 } ]
+17/11/10 12:03:56.454 [pid:239] - debug: [STATUS 200] OK
+17/11/10 12:03:56.492 [pid:239] - debug: [runtime] 47ms
+17/11/10 12:03:56.493 [pid:239] - debug: ---------- client disconnection ------------
+17/11/10 12:03:56.493 [pid:239] - debug: 
+17/11/10 12:04:00.839 [pid:239] - debug: ------------ client connection ------------
+17/11/10 12:04:00.840 [pid:239] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:04:00.840 [pid:239] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 12:04:00.844 [pid:239] - debug: {"fieldname":"file","originalname":"lightbox.js","encoding":"7bit","mimetype":"text/javascript"}
+17/11/10 12:04:00.887 [pid:239] - debug:  
+[ { fieldname: 'file',
+    originalname: 'lightbox.js',
+    encoding: '7bit',
+    mimetype: 'text/javascript',
+    webpath: '/upload/1510315440844.js',
+    destination: '/workspace/Assignment/server/_files/upload',
+    filename: '1510315440844.js',
+    path: '/workspace/Assignment/server/_files/upload/1510315440844.js',
+    size: 18250 } ]
+17/11/10 12:04:00.890 [pid:239] - debug: [STATUS 200] OK
+17/11/10 12:04:00.896 [pid:239] - debug: [runtime] 56ms
+17/11/10 12:04:00.896 [pid:239] - debug: ---------- client disconnection ------------
+17/11/10 12:04:00.897 [pid:239] - debug: 
+17/11/10 12:06:25.334 [pid:255] - debug: ------------ client connection ------------
+17/11/10 12:06:25.336 [pid:255] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:06:25.337 [pid:255] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 12:06:25.395 [pid:255] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 12:06:25.396 [pid:255] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 12:06:25.406 [pid:255] - debug: [runtime] 77ms
+17/11/10 12:06:25.407 [pid:255] - debug: ---------- client disconnection ------------
+17/11/10 12:06:25.407 [pid:255] - debug: 
+17/11/10 12:07:06.282 [pid:255] - debug: ------------ client connection ------------
+17/11/10 12:07:06.283 [pid:255] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 12:07:06.285 [pid:255] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 12:07:06.298 [pid:255] - debug: {"fieldname":"file","originalname":"lightbox.js","encoding":"7bit","mimetype":"text/javascript"}
+17/11/10 12:07:06.300 [pid:255] - debug: {"fieldname":"file","originalname":"msg.js","encoding":"7bit","mimetype":"text/javascript"}
+17/11/10 12:07:06.307 [pid:255] - debug:  
+[ { fieldname: 'file',
+    originalname: 'lightbox.js',
+    encoding: '7bit',
+    mimetype: 'text/javascript',
+    webpath: '/upload/1510315626299.js',
+    destination: '/workspace/Assignment/server/_files/upload',
+    filename: '1510315626299.js',
+    path: '/workspace/Assignment/server/_files/upload/1510315626299.js',
+    size: 18250 },
+  { fieldname: 'file',
+    originalname: 'msg.js',
+    encoding: '7bit',
+    mimetype: 'text/javascript',
+    webpath: '/upload/1510315626300.js',
+    destination: '/workspace/Assignment/server/_files/upload',
+    filename: '1510315626300.js',
+    path: '/workspace/Assignment/server/_files/upload/1510315626300.js',
+    size: 3972 } ]
+17/11/10 12:07:06.387 [pid:255] - debug: [STATUS 200] OK
+17/11/10 12:07:06.405 [pid:255] - debug: [runtime] 123ms
+17/11/10 12:07:06.405 [pid:255] - debug: ---------- client disconnection ------------
+17/11/10 12:07:06.405 [pid:255] - debug: 
+17/11/10 13:14:43.244 [pid:111] - debug: ------------ client connection ------------
+17/11/10 13:14:43.247 [pid:111] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:14:43.247 [pid:111] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 13:14:43.395 [pid:111] - debug: [runtime] 161ms
+17/11/10 13:14:43.398 [pid:111] - debug: ---------- client disconnection ------------
+17/11/10 13:14:43.398 [pid:111] - debug: 
+17/11/10 13:14:43.522 [pid:111] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 13:14:43.820 [pid:111] - debug: ------------ client connection ------------
+17/11/10 13:14:43.821 [pid:111] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:14:43.822 [pid:111] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510319683877
+17/11/10 13:14:43.827 [pid:111] - debug: [STATUS 200] OK
+17/11/10 13:14:43.830 [pid:111] - debug: [runtime] 11ms
+17/11/10 13:14:43.831 [pid:111] - debug: ---------- client disconnection ------------
+17/11/10 13:14:43.831 [pid:111] - debug: 
+17/11/10 13:14:44.193 [pid:111] - debug: ------------ client connection ------------
+17/11/10 13:14:44.193 [pid:111] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:14:44.194 [pid:111] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 13:14:44.198 [pid:111] - debug: [runtime] 6ms
+17/11/10 13:14:44.198 [pid:111] - debug: ---------- client disconnection ------------
+17/11/10 13:14:44.199 [pid:111] - debug: 
+17/11/10 13:15:03.932 [pid:111] - debug: ------------ client connection ------------
+17/11/10 13:15:03.981 [pid:111] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:15:03.983 [pid:111] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 13:15:04.010 [pid:111] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 13:15:04.013 [pid:111] - error:  TypeError: Cannot read property 'fields' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 13:15:04.019 [pid:111] - debug: [runtime] 86ms
+17/11/10 13:15:04.019 [pid:111] - debug: ---------- client disconnection ------------
+17/11/10 13:15:04.019 [pid:111] - debug: 
+17/11/10 13:32:15.568 [pid:127] - debug: ------------ client connection ------------
+17/11/10 13:32:15.569 [pid:127] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:32:15.570 [pid:127] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 13:32:15.686 [pid:127] - debug: [runtime] 124ms
+17/11/10 13:32:15.687 [pid:127] - debug: ---------- client disconnection ------------
+17/11/10 13:32:15.687 [pid:127] - debug: 
+17/11/10 13:32:15.819 [pid:127] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 13:32:16.123 [pid:127] - debug: ------------ client connection ------------
+17/11/10 13:32:16.128 [pid:127] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:32:16.129 [pid:127] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510320736178
+17/11/10 13:32:16.201 [pid:127] - debug: [STATUS 200] OK
+17/11/10 13:32:16.212 [pid:127] - debug: [runtime] 94ms
+17/11/10 13:32:16.213 [pid:127] - debug: ---------- client disconnection ------------
+17/11/10 13:32:16.213 [pid:127] - debug: 
+17/11/10 13:32:16.409 [pid:127] - debug: ------------ client connection ------------
+17/11/10 13:32:16.409 [pid:127] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:32:16.410 [pid:127] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 13:32:16.415 [pid:127] - debug: [runtime] 7ms
+17/11/10 13:32:16.415 [pid:127] - debug: ---------- client disconnection ------------
+17/11/10 13:32:16.416 [pid:127] - debug: 
+17/11/10 13:32:28.452 [pid:127] - debug: ------------ client connection ------------
+17/11/10 13:32:28.453 [pid:127] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:32:28.453 [pid:127] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 13:32:28.461 [pid:127] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 13:32:28.463 [pid:127] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 13:32:28.465 [pid:127] - debug: [runtime] 13ms
+17/11/10 13:32:28.465 [pid:127] - debug: ---------- client disconnection ------------
+17/11/10 13:32:28.465 [pid:127] - debug: 
+17/11/10 13:38:29.713 [pid:142] - debug: ------------ client connection ------------
+17/11/10 13:38:29.714 [pid:142] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:38:29.715 [pid:142] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 13:38:29.804 [pid:142] - debug: [runtime] 96ms
+17/11/10 13:38:29.805 [pid:142] - debug: ---------- client disconnection ------------
+17/11/10 13:38:29.805 [pid:142] - debug: 
+17/11/10 13:38:29.999 [pid:142] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 13:38:30.317 [pid:142] - debug: ------------ client connection ------------
+17/11/10 13:38:30.318 [pid:142] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:38:30.319 [pid:142] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510321110355
+17/11/10 13:38:30.324 [pid:142] - debug: [STATUS 200] OK
+17/11/10 13:38:30.394 [pid:142] - debug: [runtime] 74ms
+17/11/10 13:38:30.395 [pid:142] - debug: ---------- client disconnection ------------
+17/11/10 13:38:30.396 [pid:142] - debug: 
+17/11/10 13:38:30.671 [pid:142] - debug: ------------ client connection ------------
+17/11/10 13:38:30.671 [pid:142] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:38:30.672 [pid:142] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 13:38:30.678 [pid:142] - debug: [runtime] 7ms
+17/11/10 13:38:30.678 [pid:142] - debug: ---------- client disconnection ------------
+17/11/10 13:38:30.678 [pid:142] - debug: 
+17/11/10 13:38:39.002 [pid:142] - debug: ------------ client connection ------------
+17/11/10 13:38:39.003 [pid:142] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:38:39.003 [pid:142] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 13:38:39.090 [pid:142] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 13:38:39.101 [pid:142] - error:  TypeError: Cannot read property 'single' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 13:38:39.110 [pid:142] - debug: [runtime] 107ms
+17/11/10 13:38:39.110 [pid:142] - debug: ---------- client disconnection ------------
+17/11/10 13:38:39.110 [pid:142] - debug: 
+17/11/10 13:40:14.906 [pid:158] - debug: ------------ client connection ------------
+17/11/10 13:40:14.910 [pid:158] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:40:14.911 [pid:158] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 13:40:15.032 [pid:158] - debug: [runtime] 143ms
+17/11/10 13:40:15.033 [pid:158] - debug: ---------- client disconnection ------------
+17/11/10 13:40:15.035 [pid:158] - debug: 
+17/11/10 13:40:15.191 [pid:158] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 13:40:15.527 [pid:158] - debug: ------------ client connection ------------
+17/11/10 13:40:15.528 [pid:158] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:40:15.530 [pid:158] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510321215562
+17/11/10 13:40:15.547 [pid:158] - debug: [STATUS 200] OK
+17/11/10 13:40:15.655 [pid:158] - debug: [runtime] 117ms
+17/11/10 13:40:15.659 [pid:158] - debug: ---------- client disconnection ------------
+17/11/10 13:40:15.660 [pid:158] - debug: 
+17/11/10 13:40:15.850 [pid:158] - debug: ------------ client connection ------------
+17/11/10 13:40:15.850 [pid:158] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:40:15.851 [pid:158] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 13:40:15.859 [pid:158] - debug: [runtime] 9ms
+17/11/10 13:40:15.859 [pid:158] - debug: ---------- client disconnection ------------
+17/11/10 13:40:15.860 [pid:158] - debug: 
+17/11/10 13:40:25.044 [pid:158] - debug: ------------ client connection ------------
+17/11/10 13:40:25.045 [pid:158] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:40:25.045 [pid:158] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 13:40:25.053 [pid:158] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 13:40:25.054 [pid:158] - error:  TypeError: Cannot read property 'single' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 13:40:25.057 [pid:158] - debug: [runtime] 13ms
+17/11/10 13:40:25.058 [pid:158] - debug: ---------- client disconnection ------------
+17/11/10 13:40:25.058 [pid:158] - debug: 
+17/11/10 13:41:17.577 [pid:174] - debug: ------------ client connection ------------
+17/11/10 13:41:17.579 [pid:174] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:41:17.580 [pid:174] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 13:41:17.697 [pid:174] - debug: [runtime] 123ms
+17/11/10 13:41:17.698 [pid:174] - debug: ---------- client disconnection ------------
+17/11/10 13:41:17.700 [pid:174] - debug: 
+17/11/10 13:41:17.794 [pid:174] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 13:41:18.123 [pid:174] - debug: ------------ client connection ------------
+17/11/10 13:41:18.124 [pid:174] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:41:18.125 [pid:174] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510321278155
+17/11/10 13:41:18.135 [pid:174] - debug: [STATUS 200] OK
+17/11/10 13:41:18.143 [pid:174] - debug: [runtime] 19ms
+17/11/10 13:41:18.144 [pid:174] - debug: ---------- client disconnection ------------
+17/11/10 13:41:18.145 [pid:174] - debug: 
+17/11/10 13:41:18.423 [pid:174] - debug: ------------ client connection ------------
+17/11/10 13:41:18.424 [pid:174] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:41:18.424 [pid:174] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 13:41:18.429 [pid:174] - debug: [runtime] 6ms
+17/11/10 13:41:18.429 [pid:174] - debug: ---------- client disconnection ------------
+17/11/10 13:41:18.430 [pid:174] - debug: 
+17/11/10 13:41:28.792 [pid:174] - debug: ------------ client connection ------------
+17/11/10 13:41:28.793 [pid:174] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:41:28.793 [pid:174] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 13:41:28.814 [pid:174] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 13:41:28.816 [pid:174] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 13:41:28.821 [pid:174] - debug: [runtime] 29ms
+17/11/10 13:41:28.822 [pid:174] - debug: ---------- client disconnection ------------
+17/11/10 13:41:28.822 [pid:174] - debug: 
+17/11/10 13:49:37.552 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:49:37.553 [pid:190] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:49:37.554 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 13:49:37.687 [pid:190] - debug: [runtime] 75ms
+17/11/10 13:49:37.688 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:49:37.689 [pid:190] - debug: 
+17/11/10 13:49:37.717 [pid:190] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 13:49:38.135 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:49:38.186 [pid:190] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:49:38.188 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510321778164
+17/11/10 13:49:38.196 [pid:190] - debug: [STATUS 200] OK
+17/11/10 13:49:38.209 [pid:190] - debug: [runtime] 73ms
+17/11/10 13:49:38.210 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:49:38.210 [pid:190] - debug: 
+17/11/10 13:49:38.423 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:49:38.423 [pid:190] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:49:38.424 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 13:49:38.427 [pid:190] - debug: [runtime] 5ms
+17/11/10 13:49:38.428 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:49:38.428 [pid:190] - debug: 
+17/11/10 13:49:49.233 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:49:49.233 [pid:190] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:49:49.233 [pid:190] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 13:49:49.289 [pid:190] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 13:49:49.294 [pid:190] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 13:49:49.299 [pid:190] - debug: [runtime] 67ms
+17/11/10 13:49:49.300 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:49:49.302 [pid:190] - debug: 
+17/11/10 13:51:20.976 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:51:20.976 [pid:190] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:51:20.977 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 13:51:21.007 [pid:190] - debug: [runtime] 31ms
+17/11/10 13:51:21.007 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:51:21.010 [pid:190] - debug: 
+17/11/10 13:51:21.082 [pid:190] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 13:51:21.300 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:51:21.301 [pid:190] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:51:21.302 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510321881489
+17/11/10 13:51:21.304 [pid:190] - debug: [STATUS 200] OK
+17/11/10 13:51:21.306 [pid:190] - debug: [runtime] 6ms
+17/11/10 13:51:21.307 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:51:21.307 [pid:190] - debug: 
+17/11/10 13:51:21.497 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:51:21.497 [pid:190] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:51:21.498 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 13:51:21.595 [pid:190] - debug: [runtime] 93ms
+17/11/10 13:51:21.597 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:51:21.599 [pid:190] - debug: 
+17/11/10 13:51:29.971 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:51:29.972 [pid:190] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:51:29.972 [pid:190] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 13:51:29.975 [pid:190] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 13:51:29.975 [pid:190] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 13:51:29.977 [pid:190] - debug: [runtime] 7ms
+17/11/10 13:51:29.977 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:51:29.977 [pid:190] - debug: 
+17/11/10 13:59:40.777 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:59:40.777 [pid:190] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:59:40.778 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 13:59:40.780 [pid:190] - debug: [runtime] 3ms
+17/11/10 13:59:40.781 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:59:40.781 [pid:190] - debug: 
+17/11/10 13:59:40.872 [pid:190] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 13:59:41.101 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:59:41.102 [pid:190] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:59:41.107 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510322381250
+17/11/10 13:59:41.112 [pid:190] - debug: [STATUS 200] OK
+17/11/10 13:59:41.113 [pid:190] - debug: [runtime] 12ms
+17/11/10 13:59:41.114 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:59:41.114 [pid:190] - debug: 
+17/11/10 13:59:41.492 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:59:41.494 [pid:190] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:59:41.494 [pid:190] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 13:59:41.498 [pid:190] - debug: [runtime] 6ms
+17/11/10 13:59:41.499 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:59:41.500 [pid:190] - debug: 
+17/11/10 13:59:51.557 [pid:190] - debug: ------------ client connection ------------
+17/11/10 13:59:51.557 [pid:190] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 13:59:51.558 [pid:190] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 13:59:51.570 [pid:190] - debug: {"fieldname":"file","originalname":"recipe_search.js","encoding":"7bit","mimetype":"text/javascript"}
+17/11/10 13:59:51.576 [pid:190] - debug:  
+[ { fieldname: 'file',
+    originalname: 'recipe_search.js',
+    encoding: '7bit',
+    mimetype: 'text/javascript',
+    webpath: '/upload/1510322391570.js',
+    destination: '/workspace/Assignment/server/_files/upload',
+    filename: '1510322391570.js',
+    path: '/workspace/Assignment/server/_files/upload/1510322391570.js',
+    size: 3333 } ]
+17/11/10 13:59:51.591 [pid:190] - debug: [STATUS 200] OK
+17/11/10 13:59:51.610 [pid:190] - debug: [runtime] 54ms
+17/11/10 13:59:51.610 [pid:190] - debug: ---------- client disconnection ------------
+17/11/10 13:59:51.610 [pid:190] - debug: 
+17/11/10 14:15:05.685 [pid:205] - debug: ------------ client connection ------------
+17/11/10 14:15:05.687 [pid:205] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:15:05.688 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 14:15:05.714 [pid:205] - debug: [runtime] 34ms
+17/11/10 14:15:05.714 [pid:205] - debug: ---------- client disconnection ------------
+17/11/10 14:15:05.782 [pid:205] - debug: 
+17/11/10 14:15:05.884 [pid:205] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 14:15:06.114 [pid:205] - debug: ------------ client connection ------------
+17/11/10 14:15:06.114 [pid:205] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:15:06.116 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510323306286
+17/11/10 14:15:06.124 [pid:205] - debug: [STATUS 200] OK
+17/11/10 14:15:06.129 [pid:205] - debug: [runtime] 15ms
+17/11/10 14:15:06.129 [pid:205] - debug: ---------- client disconnection ------------
+17/11/10 14:15:06.130 [pid:205] - debug: 
+17/11/10 14:15:06.473 [pid:205] - debug: ------------ client connection ------------
+17/11/10 14:15:06.474 [pid:205] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:15:06.474 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 14:15:06.477 [pid:205] - debug: [runtime] 4ms
+17/11/10 14:15:06.477 [pid:205] - debug: ---------- client disconnection ------------
+17/11/10 14:15:06.478 [pid:205] - debug: 
+17/11/10 14:15:14.728 [pid:205] - debug: ------------ client connection ------------
+17/11/10 14:15:14.728 [pid:205] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:15:14.729 [pid:205] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 14:15:14.737 [pid:205] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 14:15:14.738 [pid:205] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 14:15:14.740 [pid:205] - debug: [runtime] 12ms
+17/11/10 14:15:14.740 [pid:205] - debug: ---------- client disconnection ------------
+17/11/10 14:15:14.740 [pid:205] - debug: 
+17/11/10 14:26:32.273 [pid:205] - debug: ------------ client connection ------------
+17/11/10 14:26:32.275 [pid:205] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:26:32.276 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 14:26:32.284 [pid:205] - debug: [runtime] 12ms
+17/11/10 14:26:32.284 [pid:205] - debug: ---------- client disconnection ------------
+17/11/10 14:26:32.285 [pid:205] - debug: 
+17/11/10 14:26:32.369 [pid:205] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 14:26:32.530 [pid:205] - debug: ------------ client connection ------------
+17/11/10 14:26:32.531 [pid:205] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:26:32.531 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510323992768
+17/11/10 14:26:32.533 [pid:205] - debug: [STATUS 200] OK
+17/11/10 14:26:32.535 [pid:205] - debug: [runtime] 5ms
+17/11/10 14:26:32.535 [pid:205] - debug: ---------- client disconnection ------------
+17/11/10 14:26:32.535 [pid:205] - debug: 
+17/11/10 14:26:32.986 [pid:205] - debug: ------------ client connection ------------
+17/11/10 14:26:32.987 [pid:205] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:26:32.987 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 14:26:32.995 [pid:205] - debug: [runtime] 9ms
+17/11/10 14:26:32.995 [pid:205] - debug: ---------- client disconnection ------------
+17/11/10 14:26:32.995 [pid:205] - debug: 
+17/11/10 14:26:39.899 [pid:205] - debug: ------------ client connection ------------
+17/11/10 14:26:39.900 [pid:205] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:26:39.900 [pid:205] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 14:26:39.902 [pid:205] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 14:26:39.903 [pid:205] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 14:26:39.905 [pid:205] - debug: [runtime] 6ms
+17/11/10 14:26:39.905 [pid:205] - debug: ---------- client disconnection ------------
+17/11/10 14:26:39.905 [pid:205] - debug: 
+17/11/10 14:45:16.790 [pid:220] - debug: ------------ client connection ------------
+17/11/10 14:45:16.792 [pid:220] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:45:16.793 [pid:220] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 14:45:16.887 [pid:220] - debug: [runtime] 102ms
+17/11/10 14:45:16.888 [pid:220] - debug: ---------- client disconnection ------------
+17/11/10 14:45:16.888 [pid:220] - debug: 
+17/11/10 14:45:16.964 [pid:220] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 14:45:17.288 [pid:220] - debug: ------------ client connection ------------
+17/11/10 14:45:17.289 [pid:220] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:45:17.290 [pid:220] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510325117381
+17/11/10 14:45:17.298 [pid:220] - debug: [STATUS 200] OK
+17/11/10 14:45:17.304 [pid:220] - debug: [runtime] 14ms
+17/11/10 14:45:17.304 [pid:220] - debug: ---------- client disconnection ------------
+17/11/10 14:45:17.304 [pid:220] - debug: 
+17/11/10 14:45:17.719 [pid:220] - debug: ------------ client connection ------------
+17/11/10 14:45:17.719 [pid:220] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:45:17.719 [pid:220] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 14:45:17.723 [pid:220] - debug: [runtime] 5ms
+17/11/10 14:45:17.723 [pid:220] - debug: ---------- client disconnection ------------
+17/11/10 14:45:17.724 [pid:220] - debug: 
+17/11/10 14:45:31.346 [pid:220] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 14:49:59.523 [pid:236] - debug: ------------ client connection ------------
+17/11/10 14:49:59.524 [pid:236] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:49:59.525 [pid:236] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 14:49:59.596 [pid:236] - debug: [runtime] 78ms
+17/11/10 14:49:59.596 [pid:236] - debug: ---------- client disconnection ------------
+17/11/10 14:49:59.597 [pid:236] - debug: 
+17/11/10 14:49:59.731 [pid:236] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 14:49:59.960 [pid:236] - debug: ------------ client connection ------------
+17/11/10 14:49:59.961 [pid:236] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:49:59.962 [pid:236] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510325400163
+17/11/10 14:49:59.984 [pid:236] - debug: [STATUS 200] OK
+17/11/10 14:49:59.994 [pid:236] - debug: [runtime] 33ms
+17/11/10 14:49:59.995 [pid:236] - debug: ---------- client disconnection ------------
+17/11/10 14:49:59.995 [pid:236] - debug: 
+17/11/10 14:50:00.189 [pid:236] - debug: ------------ client connection ------------
+17/11/10 14:50:00.189 [pid:236] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:50:00.190 [pid:236] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 14:50:00.193 [pid:236] - debug: [runtime] 3ms
+17/11/10 14:50:00.193 [pid:236] - debug: ---------- client disconnection ------------
+17/11/10 14:50:00.193 [pid:236] - debug: 
+17/11/10 14:50:19.071 [pid:236] - debug: ------------ client connection ------------
+17/11/10 14:50:19.072 [pid:236] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:50:19.072 [pid:236] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 14:50:19.085 [pid:236] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 14:50:19.087 [pid:236] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:32:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 14:50:19.089 [pid:236] - debug: [runtime] 17ms
+17/11/10 14:50:19.089 [pid:236] - debug: ---------- client disconnection ------------
+17/11/10 14:50:19.090 [pid:236] - debug: 
+17/11/10 14:51:36.065 [pid:250] - debug: ------------ client connection ------------
+17/11/10 14:51:36.066 [pid:250] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:51:36.067 [pid:250] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 14:51:36.090 [pid:250] - debug: [runtime] 31ms
+17/11/10 14:51:36.091 [pid:250] - debug: ---------- client disconnection ------------
+17/11/10 14:51:36.091 [pid:250] - debug: 
+17/11/10 14:51:36.205 [pid:250] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 14:51:36.490 [pid:250] - debug: ------------ client connection ------------
+17/11/10 14:51:36.492 [pid:250] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:51:36.494 [pid:250] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510325496633
+17/11/10 14:51:36.582 [pid:250] - debug: [STATUS 200] OK
+17/11/10 14:51:36.632 [pid:250] - debug: [runtime] 141ms
+17/11/10 14:51:36.633 [pid:250] - debug: ---------- client disconnection ------------
+17/11/10 14:51:36.633 [pid:250] - debug: 
+17/11/10 14:51:36.737 [pid:250] - debug: ------------ client connection ------------
+17/11/10 14:51:36.738 [pid:250] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:51:36.738 [pid:250] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 14:51:36.768 [pid:250] - debug: [runtime] 31ms
+17/11/10 14:51:36.769 [pid:250] - debug: ---------- client disconnection ------------
+17/11/10 14:51:36.769 [pid:250] - debug: 
+17/11/10 14:51:44.044 [pid:250] - debug: ------------ client connection ------------
+17/11/10 14:51:44.044 [pid:250] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:51:44.045 [pid:250] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 14:51:44.087 [pid:250] - debug: [HTTP POST PARAMS] folder=%s
+17/11/10 14:51:44.088 [pid:250] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 14:51:44.089 [pid:250] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:33:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 14:51:44.091 [pid:250] - debug: [runtime] 47ms
+17/11/10 14:51:44.091 [pid:250] - debug: ---------- client disconnection ------------
+17/11/10 14:51:44.091 [pid:250] - debug: 
+17/11/10 14:52:32.076 [pid:266] - debug: ------------ client connection ------------
+17/11/10 14:52:32.082 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:52:32.082 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 14:52:32.105 [pid:266] - debug: [runtime] 34ms
+17/11/10 14:52:32.106 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 14:52:32.106 [pid:266] - debug: 
+17/11/10 14:52:32.300 [pid:266] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 14:52:32.622 [pid:266] - debug: ------------ client connection ------------
+17/11/10 14:52:32.623 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:52:32.624 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510325552766
+17/11/10 14:52:32.686 [pid:266] - debug: [STATUS 200] OK
+17/11/10 14:52:32.692 [pid:266] - debug: [runtime] 70ms
+17/11/10 14:52:32.693 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 14:52:32.694 [pid:266] - debug: 
+17/11/10 14:52:32.806 [pid:266] - debug: ------------ client connection ------------
+17/11/10 14:52:32.807 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:52:32.807 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 14:52:32.810 [pid:266] - debug: [runtime] 3ms
+17/11/10 14:52:32.810 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 14:52:32.811 [pid:266] - debug: 
+17/11/10 14:52:40.172 [pid:266] - debug: ------------ client connection ------------
+17/11/10 14:52:40.181 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:52:40.181 [pid:266] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 14:52:40.188 [pid:266] - debug: [HTTP POST PARAMS] folder=%s
+17/11/10 14:52:40.188 [pid:266] - debug: 
+17/11/10 14:52:40.189 [pid:266] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 14:52:40.190 [pid:266] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:34:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 14:52:40.192 [pid:266] - debug: [runtime] 20ms
+17/11/10 14:52:40.192 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 14:52:40.192 [pid:266] - debug: 
+17/11/10 14:53:38.304 [pid:266] - debug: ------------ client connection ------------
+17/11/10 14:53:38.305 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:53:38.306 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 14:53:38.317 [pid:266] - debug: [runtime] 12ms
+17/11/10 14:53:38.317 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 14:53:38.317 [pid:266] - debug: 
+17/11/10 14:53:38.434 [pid:266] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 14:53:38.688 [pid:266] - debug: ------------ client connection ------------
+17/11/10 14:53:38.689 [pid:266] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:53:38.690 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510325618855
+17/11/10 14:53:38.700 [pid:266] - debug: [STATUS 200] OK
+17/11/10 14:53:38.781 [pid:266] - debug: [runtime] 16ms
+17/11/10 14:53:38.782 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 14:53:38.783 [pid:266] - debug: 
+17/11/10 14:53:38.907 [pid:266] - debug: ------------ client connection ------------
+17/11/10 14:53:38.907 [pid:266] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:53:38.907 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 14:53:38.910 [pid:266] - debug: [runtime] 3ms
+17/11/10 14:53:38.910 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 14:53:38.911 [pid:266] - debug: 
+17/11/10 14:53:49.450 [pid:266] - debug: ------------ client connection ------------
+17/11/10 14:53:49.450 [pid:266] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 14:53:49.451 [pid:266] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/fd_save
+17/11/10 14:53:49.482 [pid:266] - debug: [HTTP POST PARAMS] folder=%s
+17/11/10 14:53:49.483 [pid:266] - debug: 
+17/11/10 14:53:49.484 [pid:266] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/10 14:53:49.484 [pid:266] - error:  TypeError: Cannot read property 'array' of undefined
+    at /workspace/Assignment/server/controllers/fileManager.js:34:31
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at fd_save (/workspace/Assignment/server/controllers/fileManager.js:26:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/10 14:53:49.486 [pid:266] - debug: [runtime] 35ms
+17/11/10 14:53:49.486 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 14:53:49.486 [pid:266] - debug: 
+17/11/10 15:16:48.061 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:16:48.062 [pid:266] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:16:48.062 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 15:16:48.086 [pid:266] - debug: [runtime] 25ms
+17/11/10 15:16:48.087 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:16:48.091 [pid:266] - debug: 
+17/11/10 15:16:48.187 [pid:266] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 15:16:48.382 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:16:48.383 [pid:266] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:16:48.383 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510327008624
+17/11/10 15:16:48.384 [pid:266] - debug: [STATUS 200] OK
+17/11/10 15:16:48.386 [pid:266] - debug: [runtime] 3ms
+17/11/10 15:16:48.386 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:16:48.386 [pid:266] - debug: 
+17/11/10 15:16:48.544 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:16:48.545 [pid:266] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:16:48.545 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 15:16:48.548 [pid:266] - debug: [runtime] 3ms
+17/11/10 15:16:48.549 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:16:48.550 [pid:266] - debug: 
+17/11/10 15:19:03.866 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:19:03.866 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:19:03.867 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 15:19:03.885 [pid:266] - debug: [runtime] 18ms
+17/11/10 15:19:03.885 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:19:03.885 [pid:266] - debug: 
+17/11/10 15:19:03.982 [pid:266] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 15:19:04.174 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:19:04.175 [pid:266] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:19:04.176 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510327144412
+17/11/10 15:19:04.177 [pid:266] - debug: [STATUS 200] OK
+17/11/10 15:19:04.178 [pid:266] - debug: [runtime] 4ms
+17/11/10 15:19:04.179 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:19:04.179 [pid:266] - debug: 
+17/11/10 15:19:04.320 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:19:04.320 [pid:266] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:19:04.320 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 15:19:04.323 [pid:266] - debug: [runtime] 4ms
+17/11/10 15:19:04.323 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:19:04.323 [pid:266] - debug: 
+17/11/10 15:20:04.268 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:20:04.268 [pid:266] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:20:04.269 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 15:20:04.281 [pid:266] - debug: [runtime] 13ms
+17/11/10 15:20:04.282 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:20:04.282 [pid:266] - debug: 
+17/11/10 15:20:04.371 [pid:266] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 15:20:04.603 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:20:04.604 [pid:266] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:20:04.604 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510327204802
+17/11/10 15:20:04.605 [pid:266] - debug: [STATUS 200] OK
+17/11/10 15:20:04.606 [pid:266] - debug: [runtime] 3ms
+17/11/10 15:20:04.606 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:20:04.606 [pid:266] - debug: 
+17/11/10 15:20:04.714 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:20:04.714 [pid:266] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:20:04.714 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 15:20:04.717 [pid:266] - debug: [runtime] 3ms
+17/11/10 15:20:04.717 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:20:04.717 [pid:266] - debug: 
+17/11/10 15:22:48.393 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:22:48.393 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:22:48.394 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 15:22:48.397 [pid:266] - debug: [runtime] 3ms
+17/11/10 15:22:48.397 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:22:48.397 [pid:266] - debug: 
+17/11/10 15:22:48.468 [pid:266] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 15:22:48.703 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:22:48.704 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:22:48.705 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510327368946
+17/11/10 15:22:48.707 [pid:266] - debug: [STATUS 200] OK
+17/11/10 15:22:48.709 [pid:266] - debug: [runtime] 5ms
+17/11/10 15:22:48.710 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:22:48.710 [pid:266] - debug: 
+17/11/10 15:22:48.862 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:22:48.863 [pid:266] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:22:48.863 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 15:22:48.867 [pid:266] - debug: [runtime] 5ms
+17/11/10 15:22:48.868 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:22:48.868 [pid:266] - debug: 
+17/11/10 15:25:40.071 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:25:40.071 [pid:266] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:25:40.071 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/10 15:25:40.083 [pid:266] - debug: [runtime] 12ms
+17/11/10 15:25:40.083 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:25:40.083 [pid:266] - debug: 
+17/11/10 15:25:40.191 [pid:266] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/10 15:25:40.482 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:25:40.482 [pid:266] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:25:40.482 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1510327540612
+17/11/10 15:25:40.485 [pid:266] - debug: [STATUS 200] OK
+17/11/10 15:25:40.487 [pid:266] - debug: [runtime] 5ms
+17/11/10 15:25:40.488 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:25:40.488 [pid:266] - debug: 
+17/11/10 15:25:40.571 [pid:266] - debug: ------------ client connection ------------
+17/11/10 15:25:40.572 [pid:266] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:25:40.572 [pid:266] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/10 15:25:40.576 [pid:266] - debug: [runtime] 5ms
+17/11/10 15:25:40.577 [pid:266] - debug: ---------- client disconnection ------------
+17/11/10 15:25:40.577 [pid:266] - debug: 
+17/11/10 15:28:53.683 [pid:282] - debug: ------------ client connection ------------
+17/11/10 15:28:53.685 [pid:282] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/10 15:28:53.686 [pid:282] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/10 15:28:53.705 [pid:282] - debug: [HTTP POST PARAMS] file=%s
+17/11/10 15:28:53.705 [pid:282] - debug: 
+17/11/10 15:28:53.783 [pid:282] - debug: {"fieldname":"file","originalname":"msg.js","encoding":"7bit","mimetype":"text/javascript"}
+17/11/10 15:28:53.792 [pid:282] - debug:  
+[ { fieldname: 'file',
+    originalname: 'msg.js',
+    encoding: '7bit',
+    mimetype: 'text/javascript',
+    webpath: '/upload/1510327733783.js',
+    destination: '/workspace/Assignment/server/_files/upload',
+    filename: '1510327733783.js',
+    path: '/workspace/Assignment/server/_files/upload/1510327733783.js',
+    size: 3972 } ]
+17/11/10 15:28:53.798 [pid:282] - debug: [STATUS 200] OK
+17/11/10 15:28:53.893 [pid:282] - debug: [runtime] 254ms
+17/11/10 15:28:53.894 [pid:282] - debug: ---------- client disconnection ------------
+17/11/10 15:28:53.894 [pid:282] - debug: 

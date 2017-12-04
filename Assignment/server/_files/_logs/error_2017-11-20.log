@@ -1,0 +1,112 @@
+17/11/20 07:59:41.622 [pid:239] - error: uncaughtException: ENOTEMPTY: directory not empty, rmdir '/workspace/Assignment/server/_files/upload/hyunil/projectnew' 
+{ date: 'Mon Nov 20 2017 07:59:41 GMT+0000 (UTC)',
+  process: 
+   { pid: 239,
+     uid: 0,
+     gid: 0,
+     cwd: '/workspace/Assignment',
+     execPath: '/usr/bin/nodejs',
+     version: 'v6.11.0',
+     argv: [ '/usr/bin/nodejs', '/workspace/Assignment/server/server2.js' ],
+     memoryUsage: 
+      { rss: 62660608,
+        heapTotal: 37556224,
+        heapUsed: 31669856,
+        external: 17995341 } },
+  os: 
+   { loadavg: [ 0.38671875, 0.4130859375, 0.39111328125 ],
+     uptime: 458888 },
+  trace: 
+   [ { column: null,
+       file: null,
+       function: 'Error',
+       line: null,
+       method: null,
+       native: true } ],
+  stack: 
+   [ 'Error: ENOTEMPTY: directory not empty, rmdir \'/workspace/Assignment/server/_files/upload/hyunil/projectnew\'',
+     '    at Error (native)' ] }
+17/11/20 08:39:23.995 [pid:182] - error: uncaughtException: ENOTEMPTY: directory not empty, rmdir '/workspace/Assignment/server/_files/upload' 
+{ date: 'Mon Nov 20 2017 08:39:23 GMT+0000 (UTC)',
+  process: 
+   { pid: 182,
+     uid: 0,
+     gid: 0,
+     cwd: '/workspace/Assignment',
+     execPath: '/usr/bin/nodejs',
+     version: 'v6.11.0',
+     argv: [ '/usr/bin/nodejs', '/workspace/Assignment/server/server2.js' ],
+     memoryUsage: 
+      { rss: 64020480,
+        heapTotal: 39653376,
+        heapUsed: 31368120,
+        external: 17979994 } },
+  os: 
+   { loadavg: [ 0.7060546875, 0.7607421875, 0.6259765625 ],
+     uptime: 461270 },
+  trace: 
+   [ { column: null,
+       file: null,
+       function: 'Error',
+       line: null,
+       method: null,
+       native: true } ],
+  stack: 
+   [ 'Error: ENOTEMPTY: directory not empty, rmdir \'/workspace/Assignment/server/_files/upload\'',
+     '    at Error (native)' ] }
+17/11/20 08:40:41.472 [pid:198] - error: uncaughtException: ENOTEMPTY: directory not empty, rmdir '/workspace/Assignment/server/_files/upload/hyunil' 
+{ date: 'Mon Nov 20 2017 08:40:41 GMT+0000 (UTC)',
+  process: 
+   { pid: 198,
+     uid: 0,
+     gid: 0,
+     cwd: '/workspace/Assignment',
+     execPath: '/usr/bin/nodejs',
+     version: 'v6.11.0',
+     argv: [ '/usr/bin/nodejs', '/workspace/Assignment/server/server2.js' ],
+     memoryUsage: 
+      { rss: 92246016,
+        heapTotal: 72159232,
+        heapUsed: 45434160,
+        external: 18897453 } },
+  os: 
+   { loadavg: [ 0.47705078125, 0.66552734375, 0.60302734375 ],
+     uptime: 461348 },
+  trace: 
+   [ { column: null,
+       file: null,
+       function: 'Error',
+       line: null,
+       method: null,
+       native: true } ],
+  stack: 
+   [ 'Error: ENOTEMPTY: directory not empty, rmdir \'/workspace/Assignment/server/_files/upload/hyunil\'',
+     '    at Error (native)' ] }
+17/11/20 08:43:07.135 [pid:231] - error: uncaughtException: ENOTEMPTY: directory not empty, rmdir '/workspace/Assignment/server/_files/upload/hyunil' 
+{ date: 'Mon Nov 20 2017 08:43:07 GMT+0000 (UTC)',
+  process: 
+   { pid: 231,
+     uid: 0,
+     gid: 0,
+     cwd: '/workspace/Assignment',
+     execPath: '/usr/bin/nodejs',
+     version: 'v6.11.0',
+     argv: [ '/usr/bin/nodejs', '/workspace/Assignment/server/server2.js' ],
+     memoryUsage: 
+      { rss: 90603520,
+        heapTotal: 72159232,
+        heapUsed: 44873056,
+        external: 18872566 } },
+  os: 
+   { loadavg: [ 0.1455078125, 0.46826171875, 0.53466796875 ],
+     uptime: 461493 },
+  trace: 
+   [ { column: null,
+       file: null,
+       function: 'Error',
+       line: null,
+       method: null,
+       native: true } ],
+  stack: 
+   [ 'Error: ENOTEMPTY: directory not empty, rmdir \'/workspace/Assignment/server/_files/upload/hyunil\'',
+     '    at Error (native)' ] }

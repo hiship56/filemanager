@@ -1,0 +1,147 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset='utf-8'/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <title>Assignment</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="../assets/plugins/ajax/ajax_helper.css"/>
+    <link rel="stylesheet" href="../assets/plugins/multi-column/multi-columns-row.css"/>
+</head>
+
+<body>
+	<!-- header -->
+    <header data-include="./topbar.html"></header>
+    <!--// header -->
+
+    <!-- content -->
+    <div class='container' style="margin-top: 50px;">
+        <div class='page-header'><h1>회원가입</h1></div>
+
+        <!-- 가입폼 시작 -->
+        <form class="form-horizontal" name="myform" id="myform" method="post" action="/member/join">
+
+            <div class="form-group">
+                <label for='user_name' class="col-md-2">이름</label>
+                <div class="col-md-10">
+                    <input type="text" name="user_name" id="user_name" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for='user_id' class="col-md-2">아이디</label>
+                <div class="col-md-10">
+                    <div class='input-group'>
+                        <input type="text" name="user_id" id="user_id" class="form-control"/>
+                        <span class='input-group-btn'>
+                            <button type='button' id='id_unique_check' class='btn btn-warning'>중복검사</button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for='user_pw' class="col-md-2">비밀번호</label>
+                <div class="col-md-10">
+                    <input type="password" name="user_pw" id="user_pw" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for='user_pw' class="col-md-2">비밀번호 확인</label>
+                <div class="col-md-10">
+                    <input type="password" name="user_pw_re" id="user_pw_re" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for='email' class="col-md-2">이메일</label>
+                <div class="col-md-10">
+                    <div class='input-group'>
+                        <input type="email" name="email" id="email" class="form-control"/>
+                        <span class='input-group-btn'>
+                            <button type='button' id='email_unique_check' class='btn btn-warning'>중복검사</button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for='gender1' class="col-md-2">성별</label>
+                <div class="col-md-10">
+                    <label class='radio-inline'>
+                        <input type='radio' name='gender' value='M' id='gender1' checked/> 남자
+                    </label>
+                    <label class='radio-inline'>
+                        <input type='radio' name='gender' value='F' id='gender2' /> 여자
+                    </label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for='birthdate' class="col-md-2">생년월일</label>
+                <div class="col-md-10">
+                    <input type="date" name="birthdate" id="birthdate" class="form-control" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for='tel' class="col-md-2">연락처</label>
+                <div class="col-md-10">
+                    <input type="tel" name="tel" id="tel" class="form-control"/>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <button type="submit" class="btn btn-primary">가입하기</button>
+                    <button type="reset" class="btn btn-danger">다시작성</button>
+                </div>
+            </div>
+        </form>
+        <!-- 가입폼 끝 -->
+    </div>
+    <!--// content -->
+
+
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/handlebars/handlebars-v4.0.5.js"></script>
+    <script type="text/javascript" src="../assets/plugins/handlebars/handlebars-helper.js"></script>
+    <script type="text/javascript" src="../assets/plugins/ajaxform/jquery.form.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/ajax/ajax_helper.js"></script>
+    <script type="text/javascript" src="../assets/plugins/ajax/jquery.method-override.js"></script>
+    <script type="text/javascript" src="../assets/plugins/query-object/jquery.query-object.js"></script>
+    <script type="text/javascript" src="../assets/plugins/multi-column/ie-row-fix.js"></script>
+    <script type="text/javascript" src="../assets/js/common.js"></script>
+
+
+    <script type='text/javascript'>
+        $(function() {
+			$.get("/session", function(data) {
+				if(data.member) {
+					alert("로그인 중입니다.");
+					window.location = "./login.html";
+				}
+			});
+            $('#id_unique_check').click(function() {
+                $.post('/member/id_unique_check', {user_id: $('#user_id').val()}, function(json) {
+                    alert('사용 가능한 아이디 입니다.');
+                });
+            });
+
+            $('#email_unique_check').click(function() {
+                $.post('/member/email_unique_check', {email: $('#email').val()}, function(json) {
+                    alert('사용 가능한 이메일 입니다.');
+                });
+            });
+
+            $('#myform').ajaxForm(function(json) {
+                alert('회원가입이 완료되었습니다. 로그인 해주세요.');
+                window.location = './login.html';
+            });
+        });
+    </script>
+</body>
+</html>

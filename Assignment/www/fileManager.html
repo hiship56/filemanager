@@ -1,0 +1,507 @@
+<!doctype html>
+<html>
+	
+<head>
+    <meta charset='utf-8'/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <title>Assingment</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="../assets/plugins/ajax/ajax_helper.css"/>
+    <link rel="stylesheet" href="../assets/plugins/multi-column/multi-columns-row.css"/>
+	<link href="./lib/jqueryfiletree/jqueryFileTree.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="./lib/codemirror/codemirror.css" rel="stylesheet"/>
+	<link href="./lib/codemirror/theme/midnight.css" rel="stylesheet"/>
+	<link href="./lib/codemirror/addon/hint/show-hint.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-contextmenu/2.6.3/jquery.contextMenu.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="./css/fileManager.css" />
+    
+	
+</head>
+<style>
+</style>
+<body>
+	<!-- 상단 메뉴 바 -->
+	<div class="ui-layout-north">
+		<!-- header -->
+		<header data-include="./topbar.html"></header>
+		<!--// header -->
+		<div style="height:30px;">
+			<!--empty-->
+		</div>
+		
+	</div>
+	
+	<!-- 프로젝트 트리 -->
+	<div class="ui-layout-west">
+		<div id="file_box">
+			<!-- 프로젝트 업로드 관련 -->
+			<form class="form-horizontal" id="file_form" method="post" action="/fileManager/f_save" enctype="multipart/form-data" />
+				<label>프로젝트(zip, tar만 지원)를 업로드해주세요.</label>
+				<input type="file" name="file" id="file">
+				<button type="submit" class="btn btn-danger btn-xs">파일 업로드</button>
+			</form>
+		</div>
+		<div id="fileTree"></div>
+	</div>
+	
+	<!-- codemirror editor -->
+	<div class="ui-layout-center" id="ui-center">
+
+	</div>
+	
+	<!-- 파일 실행 결과 창 -->
+	<div class="ui-layout-south" id="ui-south">
+		<div id="terminer" style="height: 130px">
+			<div id="result">
+
+			</div>	
+		</div>
+	</div>
+	
+	<!-- 채팅창 관련 -->
+	<div class="ui-layout-east">
+		<div class="panel with-nav-tabs panel-primary" style="height: 430px;">
+			<div class="panel-heading">
+					<ul class="nav nav-tabs">
+						<li class="active"><a href="#tab1primary" data-toggle="tab" >전체</a></li>
+						<li><a href="#tab2primary" data-toggle="tab">1:1</a></li>
+					</ul>
+			</div>
+			<div class="panel-body">
+				<div class="tab-content">
+					<!-- 전체 채팅창 관련 -->
+					<div class="tab-pane fade in active" id="tab1primary">
+						<div id="everyChat" style="overflow: auto; width: 230px; height: 320px; margin: auto; border: 1px solid #ccc;">
+
+						</div>
+						<div class="clearfix" style="margin: auto; width: 230px; padding-top: 3px;">
+							<input type="text" id="everyMessage" style="width: 180px;"/>
+							<button type="button" id="everyButton" class="pull-right">전송</button>
+						</div>
+					</div>
+					<!-- 1:1 채팅창 관련 -->
+					<div class="tab-pane fade" id="tab2primary">
+						<div id="oneChat" style="overflow: auto; width: 230px; height: 290px; margin: auto; border: 1px solid #ccc; padding: 3px;">
+
+						</div>
+						<div class="clearfix" style="margin: auto; width: 230px; padding-top: 3px;">
+							<label>상대방 ID : </label>
+							<input type="text" id="you" style="width: 155px;"/>
+							<input type="text" id="oneMessage" style="width: 180px;"/>
+							<button type="button" id="oneButton" class="pull-right">전송</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+		
+		
+	
+	
+	
+	
+	<script src="http://code.jquery.com/jquery.min.js"></script>
+	<script type="text/javascript" src="../lib/jquery-ui-layout/jquery.layout.js"></script>
+	<script src="./lib/jqueryfiletree/jquery.easing.js" type="text/javascript"></script>	
+	<script src="./lib/jqueryfiletree/jqueryFileTree.js" type="text/javascript"></script>
+	<script src="./lib/codemirror/codemirror.js" type="text/javascript"></script>
+	<script src="./lib/codemirror/mode/javascript/javascript.js" type="text/javascript"></script>
+	<script src="./lib/codemirror/mode/clike/clike.js" type="text/javascript"></script>
+	<script src="./lib/codemirror/mode/python/python.js" type="text/javascript"></script>
+	<script src="./lib/codemirror/addon/hint/show-hint.js" type="text/javascript"></script>
+	<script src="./lib/codemirror/addon/hint/javascript-hint.js" type="text/javascript"></script>
+	<script src="./lib/codemirror/keymap/sublime.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/ajaxform/jquery.form.min.js"></script>
+    <script type="text/javascript" src="../assets/plugins/ajax/jquery.method-override.js"></script>
+    <script type="text/javascript" src="../assets/plugins/query-object/jquery.query-object.js"></script>
+	<script type="text/javascript" src="../assets/plugins/ajax/ajax_helper.js"></script>
+    <script type="text/javascript" src="../assets/js/common.js"></script>
+	<script type="text/javascript" src="./lib/jquery-context/jquery.ui.position.js"></script>
+    <script type="text/javascript" src="./lib/jquery-context/jquery.contextMenu.js"></script>
+
+	
+	<script type='text/javascript'>
+		
+		//에디터 파일 창 열기 시 해당 인스턴스를 배열로 담음
+		var editorArray = [];
+		//에디터 배열 체크 변수
+		var eNum = 0;
+		//에디터 파일 열기 함수
+		function createEditor(path, data) {
+			var check = document.getElementById(path);
+			if (check) {
+				alert("이미 창이 열려있습니다.");
+			} else {
+				var extension = path.substring(path.lastIndexOf('.')+1);
+				var fileName = path.substring(path.lastIndexOf('/')+1);
+				//editor 상단 파일이름 및 실행, 저장, 닫기 버튼 관련
+				var plus = "<div class='clearfix save'><h5 class='pull-left'>"+ fileName +"</h5><a class='pull-right'><span class='glyphicon glyphicon-remove-circle remove' style='font-size: 25px'></span></a><a class='pull-right'><span class='glyphicon glyphicon-ok-circle circle' id='"+eNum+"' style='font-size: 25px'></span></a><a class='pull-right'><span class='glyphicon glyphicon-play-circle play' style='font-size: 25px'></span></a></div><div id='codeeditor"+path+"'></div>";
+				var div = document.createElement('div');
+				div.setAttribute("id", path);
+				div.setAttribute("class", "delete");
+				div.setAttribute("style", "border: 1px solid #333; padding: 5px;");
+				div.innerHTML = plus;
+				document.getElementById('ui-center').prepend(div);
+				
+				//확장자에 따라 codemirror mode 변경
+				if (extension === "js") {
+					extension = "javascript";
+				} else if (extension === "c") {
+					extension = "text/x-csrc"
+				} else if (extension === "cpp") {
+					extension = "text/x-c++src"
+				} else if (extension === "py") {
+					extension = "python"
+				} else {
+					extension = "javascript";
+				}
+				
+				//codemirror editor 창 생성
+				var editor = CodeMirror(document.getElementById("codeeditor"+path), {
+					value: data,
+					lineNumbers: true,
+					mode: extension,
+					keyMap: "sublime",
+					theme: "midnight",
+					tabSize: 2,
+				});
+				// 파일 저장 단축키 관련
+				var map = {"Ctrl-S": function() {
+					var num = document.getElementById("codeeditor"+path).parentNode.children[0].children[2].children[0].id;
+					var data = editorArray[num].getValue();
+					if(confirm("저장하시겠습니까?")) {
+
+						$.ajax({
+						   type: "POST",
+						   data: {path: path, data: data},
+						   url: "/fileManager/save",
+						   success: function(req){
+							   alert("저장되었습니다.");
+						   }
+						});
+					}
+				}};
+				editor.addKeyMap(map);
+				editorArray.push(editor);
+				eNum++;
+			}	
+		}
+		
+        $(function() {
+			
+			//jquery-ui layout 불러오기 
+			$("body").layout({ applyDemoStyles: true });
+			
+			// socket 전역변수 선언 
+			var socket = io();
+			
+			//업로드 파일 확장자 확인
+			$("#file").change(function() {
+				var thumbext = document.getElementById('file').value; //파일을 추가한 input 박스의 값
+				thumbext = thumbext.slice(thumbext.indexOf(".") + 1).toLowerCase(); //파일 확장자를 잘라내고, 비교를 위해 소문자로 만듭니다.
+				if(thumbext != "zip" && thumbext != "tar"){ //확장자를 확인합니다.
+					alert('zip, taz만 지원합니다.');
+					$("#file").val("");
+					return;
+				}
+			});
+			
+			//로그인 확인
+            $.get("/session", function(data) {
+				var _id = "";
+				if (!data.member) {
+					alert("로그인 중이 아닙니다.");
+					window.location = "./login.html";
+				} else {
+					_id = data.member._id;
+					//사용자가 업로드한 파일 유무 확인
+					$.get('/fileManager/f_read', {_id: _id}, function(req) {
+						var url = req.result.project;
+						if (url) {
+							var newurl = url.substring(0, url.lastIndexOf('/'))+"/";
+							$('#fileTree').fileTree({ root: newurl, script: '/connectors/jqueryFileTree' }, function(file) { 
+								//클릭 시 해당 파일 열기
+								$.get('/fileManager/read',{file: file}, function(req) {
+									createEditor(file, req.result);
+								});
+							});
+							//프로젝트 업로드창 제거
+							$("#file_box").remove();
+						}
+					});
+					
+					//socket.io 채팅 관련 사용자 id
+					var name = data.member.user_id;
+					
+					//전체 채팅 메세지 보내기
+					$('#everyButton').click(function() {
+						var data = $('#everyMessage').val();
+						if (data !== '') {
+							socket.emit('every', name , data );
+							$('#everyMessage').val('').focus();
+						} else {
+							alert("내용을 입력해주세요.");
+						}
+					});
+					
+					//전체 채팅 메세지 보내기(enter)
+					$("#everyMessage").on('keyup', function (e) {
+						if (e.keyCode == 13) {
+							var data = $('#everyMessage').val();
+							if (data !== '') {
+								socket.emit('every', name , data );
+								$('#everyMessage').val('').focus();
+							} else {
+								alert("내용을 입력해주세요.");
+							}
+						}
+					});
+
+					//전체 채팅 메세지 받아서 페이지에 추가
+					socket.on('every', function(user, data){
+						var html = "<div style='margin-left: 3px; width: auto; word-break:break-all;'>{MESSAGE}</div>";
+						var printName = user + ' : '
+						var msg = printName + data;
+						html = html.replace('{MESSAGE}', msg);
+						$(html).appendTo('#everyChat');
+						$('#everyChat').scrollTop($('#everyChat').prop('scrollHeight'));
+					});
+					
+					//귓속말 메세지 보내기
+					$('#oneButton').click(function() {
+						var data = $('#oneMessage').val();
+						var you = $('#you').val();
+						if (data !== '' && you !== '') {
+							socket.emit('one', name , you, data );
+							$('#oneMessage').val('').focus();
+						} else if (data == '') {
+							alert("내용을 입력해주세요.");
+						} else {
+							alert("상대방 ID를 입력해주세요.");
+						}
+					});
+					
+					//귓속말 메세지 보내기(enter)
+					$("#oneMessage").on('keyup', function (e) {
+						if (e.keyCode == 13) {
+							var data = $('#oneMessage').val();
+							var you = $('#you').val();
+							if (data !== '' && you !== '') {
+								socket.emit('one', name , you, data );
+								$('#oneMessage').val('').focus();
+							} else if (data == '') {
+								alert("내용을 입력해주세요.");
+							} else {
+								alert("상대방 ID를 입력해주세요.");
+							}
+						}
+					});
+					
+					// 귓속말 메세지 받아서 페이지에 추가
+					socket.on('one', function(me, you, data, check){
+						var html = "<div style='margin-top: 3px; width: auto; word-break:break-all; border : 1px solid #eee; padding:2px;'>{MESSAGE}</div>";
+						var printName = '';
+						var msg = "";
+						if (check == "check") {
+							printName = "";
+							msg = printName + data;
+						} else {
+							printName = me + ' : ';
+							msg = printName + data + "(to : "+ you +")";
+						}
+						
+						html = html.replace('{MESSAGE}', msg);
+						$(html).appendTo('#oneChat');
+						$('#oneChat').scrollTop($('#oneChat').prop('scrollHeight'));
+					});
+					
+					//귓속말 관련 데이터 불러오기
+					socket.emit('readOne', name);
+				}
+			});
+			
+			//전체 채팅 관련 데이터 불러오기
+			socket.emit('readEvery');
+
+			//프로젝트 업로드 
+			$("#file_form").ajaxForm(function() {
+				alert("프로젝트가 업로드 되었습니다..");
+				window.location= "./fileManager.html";
+			});
+			
+			//파일 에디터 저장
+			$(document).on("click", ".circle", function() {
+				var path = $(this).parents(".delete").attr("id");
+				var num = $(this).attr("id");
+				var data = editorArray[num].getValue();
+				if(confirm("저장하시겠습니까?")) {
+
+					$.ajax({
+					   type: "POST",
+					   data: {path: path, data: data},
+					   url: "/fileManager/save",
+					   success: function(req){
+						   alert("저장되었습니다.");
+					   }
+					});
+				}
+			});
+			
+			//파일 에디터 닫기
+			$(document).on("click", ".remove", function() {
+				if (confirm("현재 창을 닫으시겠습니까?")) {
+					$(this).parents(".delete").remove();	
+				}
+				
+			});
+			
+			//파일 에디터 python 실행 함수
+			function playF (path) {
+				$.get("/fileManager/checkInput", {path: path},function(req) {
+					var countC = parseInt(req.count);
+					var inputData = [];
+					for (var i = 0; i < countC; i++) {
+						inputData.push(prompt("필요한 입력값을 입력해주세요", i+1+"번째 값"));
+					}
+					$.get('/fileManager/buildF', {path:path, inputData: inputData}, function(c) {
+						var plus = "";
+						if (c.result !== "") {
+							var text = c.result;
+							var re = /\n/g;
+							var result = text.replace(re, "<br>");
+							plus = "<div style='word-wrap: break-word;'>"+result+"</div>";
+						} else if (c.error !== "") {
+							plus = "<div style='word-wrap: break-word;'>"+c.error+"</div>";
+						} else {
+							plus = "<div style='word-wrap: break-word;'>hello</div>";
+						}
+						
+						var div = document.createElement('div');
+						div.setAttribute("id", "newResult");
+						div.innerHTML = plus; 
+						document.getElementById('result').prepend(div);
+					});
+				});
+			}
+			
+			//파일 에디터 c 실행 함수
+			function playC (path) {
+				$.get("/fileManager/checkInput", {path: path},function(req) {
+					var countC = parseInt(req.count);
+					var inputData = [];
+					for (var i = 0; i < countC; i++) {
+						inputData.push(prompt("필요한 입력값을 입력해주세요", i+1+"번째 값"));
+					}
+					$.get('/fileManager/buildC', {path:path, inputData: inputData}, function(c) {
+						var plus = "";
+						if (c.result !== "") {
+							var text = c.result;
+							var re = /\n/g;
+							var result = text.replace(re, "<br>");
+							plus = "<div style='word-wrap: break-word;'>"+result+"</div>";
+						} else if (c.error !== "") {
+							plus = "<div style='word-wrap: break-word;'>"+c.error+"</div>";
+						} else {
+							plus = "<div style='word-wrap: break-word;'>comlpile error : "+c.compileErr+"</div>";
+						}
+						
+						var div = document.createElement('div');
+						div.setAttribute("id", "newResult");
+						div.innerHTML = plus; 
+						document.getElementById('result').prepend(div);
+					});
+				});
+			}
+			
+			//파일 에디터 c++ 실행 함수
+			function playCpp (path) {
+				$.get("/fileManager/checkInput", {path: path},function(req) {
+					var countC = parseInt(req.count);
+					var inputData = [];
+					for (var i = 0; i < countC; i++) {
+						inputData.push(prompt("필요한 입력값을 입력해주세요", i+1+"번째 값"));
+					}
+					$.get('/fileManager/buildCpp', {path:path, inputData: inputData}, function(c) {
+						var plus = "";
+						if (c.result !== "") {
+							var text = c.result;
+							var re = /\n/g;
+							var result = text.replace(re, "<br>");
+							plus = "<div style='word-wrap: break-word;'>"+result+"</div>";
+						} else if (c.error !== "") {
+							plus = "<div style='word-wrap: break-word;'>"+c.error+"</div>";
+						} else {
+							plus = "<div style='word-wrap: break-word;'>comlpile error : "+c.compileErr+"</div>";
+						}
+						
+						var div = document.createElement('div');
+						div.setAttribute("id", "newResult");
+						div.innerHTML = plus; 
+						document.getElementById('result').prepend(div);
+					});
+				});
+			}
+			
+			//파일 에디터 실행
+			$(document).on("click", ".play", function() {
+				var path = $(this).parents(".delete").attr("id");
+				var extension = path.substring(path.lastIndexOf('.')+1);
+				var check = document.getElementById("newResult");
+				if (check) {
+					check.remove();
+					if (extension === 'c') {
+						playC(path);
+					} else if (extension === 'cpp') {
+						playCpp(path);
+					} else {
+						playF(path);
+					}
+				} else {
+					if (extension === 'c') {
+						playC(path);
+					} else if (extension === 'cpp') {
+						playCpp(path);
+					} else {
+						playF(path);
+					}
+				}
+			});
+			
+			// 파일생성 및 프로젝트 삭제 context-menu 관련
+			$.contextMenu({
+				selector: '.ui-layout-west', 
+				callback: function(key, options) {
+					if (key === 'newFile') {
+						var filename = prompt("새 파일명을 입력해주세요.", "파일명");
+						if (filename) {
+							$.get("/fileManager/newFile", {filename : filename}, function() {
+								alert("새 파일이 생성되었습니다.");
+							});
+						}
+					} else {
+						if(confirm("업로드한 프로젝트를 삭제하시겠습니까?")) {
+							$.get("/fileManager/deleteP", function() {
+								alert("프로젝트가 삭제되었습니다.");
+								window.location = "./fileManager.html"
+							});
+						}
+					}
+				},
+				items: {
+					"newFile": {name: "newFile"},
+					"projectDelete": {name: "projectDelete"}
+				}
+			}); 
+        });
+		
+    </script>
+    
+</body>
+
+</html>
+

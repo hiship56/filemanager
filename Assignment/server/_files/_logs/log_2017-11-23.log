@@ -1,0 +1,1396 @@
+17/11/23 05:19:29.973 [pid:69] - debug: ----------------------
+17/11/23 05:19:29.975 [pid:69] - debug: |Start Express Server|
+17/11/23 05:19:29.975 [pid:69] - debug: ----------------------
+17/11/23 05:19:29.976 [pid:69] - debug: Socket IO server has been started
+17/11/23 05:26:47.487 [pid:169] - debug: ----------------------
+17/11/23 05:26:47.489 [pid:169] - debug: |Start Express Server|
+17/11/23 05:26:47.489 [pid:169] - debug: ----------------------
+17/11/23 05:26:47.489 [pid:169] - debug: Socket IO server has been started
+17/11/23 05:26:47.552 [pid:169] - debug: Connected to mongod server
+17/11/23 05:27:03.550 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:27:03.554 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:27:03.556 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/
+17/11/23 05:27:03.583 [pid:169] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/23 05:27:03.641 [pid:169] - debug: [runtime] 95ms
+17/11/23 05:27:03.648 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:27:03.649 [pid:169] - debug: 
+17/11/23 05:29:24.743 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:29:24.744 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:29:24.744 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/
+17/11/23 05:29:24.751 [pid:169] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/23 05:29:24.752 [pid:169] - debug: [runtime] 10ms
+17/11/23 05:29:24.753 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:29:24.753 [pid:169] - debug: 
+17/11/23 05:29:39.200 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:29:39.200 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:29:39.201 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/login
+17/11/23 05:29:39.203 [pid:169] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/23 05:29:39.204 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:29:39.204 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:29:39.206 [pid:169] - debug: 
+17/11/23 05:29:51.765 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:29:51.765 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:29:51.766 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session
+17/11/23 05:29:51.767 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:29:51.769 [pid:169] - debug: [runtime] 5ms
+17/11/23 05:29:51.838 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:29:51.842 [pid:169] - debug: 
+17/11/23 05:34:12.990 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:34:12.991 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:34:12.991 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/23 05:34:12.997 [pid:169] - debug: [runtime] 7ms
+17/11/23 05:34:12.997 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:34:12.997 [pid:169] - debug: 
+17/11/23 05:34:13.940 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:34:13.940 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:34:13.941 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415253683
+17/11/23 05:34:13.942 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:34:13.943 [pid:169] - debug: [runtime] 3ms
+17/11/23 05:34:13.943 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:34:13.944 [pid:169] - debug: 
+17/11/23 05:34:14.016 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:34:14.016 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:34:14.016 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:34:14.019 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:34:14.019 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:34:14.020 [pid:169] - debug: 
+17/11/23 05:34:28.472 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:34:28.472 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:34:28.472 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/23 05:34:28.572 [pid:169] - debug: [HTTP POST PARAMS] user_id=aaa
+17/11/23 05:34:28.654 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:34:28.658 [pid:169] - debug: [runtime] 183ms
+17/11/23 05:34:28.658 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:34:28.658 [pid:169] - debug: 
+17/11/23 05:34:37.895 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:34:37.896 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:34:37.896 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/member/email_unique_check
+17/11/23 05:34:37.898 [pid:169] - debug: [HTTP POST PARAMS] email=aaa@aaa.aaa
+17/11/23 05:34:37.902 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:34:37.939 [pid:169] - debug: [runtime] 9ms
+17/11/23 05:34:37.940 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:34:37.940 [pid:169] - debug: 
+17/11/23 05:34:45.160 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:34:45.160 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:34:45.160 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/23 05:34:45.165 [pid:169] - debug: [HTTP POST PARAMS] user_name=aaa
+17/11/23 05:34:45.241 [pid:169] - debug: [HTTP POST PARAMS] user_id=aaa
+17/11/23 05:34:45.244 [pid:169] - debug: [HTTP POST PARAMS] user_pw=aaa
+17/11/23 05:34:45.244 [pid:169] - debug: [HTTP POST PARAMS] user_pw_re=aaa
+17/11/23 05:34:45.244 [pid:169] - debug: [HTTP POST PARAMS] email=aaa@aaa.aaa
+17/11/23 05:34:45.245 [pid:169] - debug: [HTTP POST PARAMS] gender=M
+17/11/23 05:34:45.245 [pid:169] - debug: [HTTP POST PARAMS] birthdate=%s
+17/11/23 05:34:45.245 [pid:169] - debug: [HTTP POST PARAMS] tel=%s
+17/11/23 05:34:45.247 [pid:169] - error: [STATUS 400-Bad Request] 생년월일을 입력하세요.
+17/11/23 05:34:45.248 [pid:169] - debug: [runtime] 88ms
+17/11/23 05:34:45.248 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:34:45.249 [pid:169] - debug: 
+17/11/23 05:34:55.907 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:34:55.907 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:34:55.908 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/23 05:34:55.909 [pid:169] - debug: [HTTP POST PARAMS] user_name=aaa
+17/11/23 05:34:55.909 [pid:169] - debug: [HTTP POST PARAMS] user_id=aaa
+17/11/23 05:34:55.910 [pid:169] - debug: [HTTP POST PARAMS] user_pw=aaa
+17/11/23 05:34:55.910 [pid:169] - debug: [HTTP POST PARAMS] user_pw_re=aaa
+17/11/23 05:34:55.911 [pid:169] - debug: [HTTP POST PARAMS] email=aaa@aaa.aaa
+17/11/23 05:34:55.911 [pid:169] - debug: [HTTP POST PARAMS] gender=M
+17/11/23 05:34:55.911 [pid:169] - debug: [HTTP POST PARAMS] birthdate=0003-03-03
+17/11/23 05:34:55.911 [pid:169] - debug: [HTTP POST PARAMS] tel=%s
+17/11/23 05:34:55.912 [pid:169] - error: [STATUS 400-Bad Request] 연락처를 입력하세요.
+17/11/23 05:34:55.912 [pid:169] - debug: [runtime] 6ms
+17/11/23 05:34:55.913 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:34:55.913 [pid:169] - debug: 
+17/11/23 05:34:59.112 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:34:59.112 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:34:59.113 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/23 05:34:59.114 [pid:169] - debug: [HTTP POST PARAMS] user_name=aaa
+17/11/23 05:34:59.115 [pid:169] - debug: [HTTP POST PARAMS] user_id=aaa
+17/11/23 05:34:59.115 [pid:169] - debug: [HTTP POST PARAMS] user_pw=aaa
+17/11/23 05:34:59.115 [pid:169] - debug: [HTTP POST PARAMS] user_pw_re=aaa
+17/11/23 05:34:59.118 [pid:169] - debug: [HTTP POST PARAMS] email=aaa@aaa.aaa
+17/11/23 05:34:59.118 [pid:169] - debug: [HTTP POST PARAMS] gender=M
+17/11/23 05:34:59.118 [pid:169] - debug: [HTTP POST PARAMS] birthdate=0003-03-03
+17/11/23 05:34:59.119 [pid:169] - debug: [HTTP POST PARAMS] tel=333
+17/11/23 05:34:59.119 [pid:169] - error: [STATUS 400-Bad Request] 이름은 한글로만 최대 10글자까지 입력 가능합니다.
+17/11/23 05:34:59.120 [pid:169] - debug: [runtime] 8ms
+17/11/23 05:34:59.120 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:34:59.120 [pid:169] - debug: 
+17/11/23 05:35:42.811 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:42.811 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:42.811 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/23 05:35:42.840 [pid:169] - debug: [HTTP POST PARAMS] user_name=에이에이에이
+17/11/23 05:35:42.841 [pid:169] - debug: [HTTP POST PARAMS] user_id=aaa
+17/11/23 05:35:42.841 [pid:169] - debug: [HTTP POST PARAMS] user_pw=aaa
+17/11/23 05:35:42.841 [pid:169] - debug: [HTTP POST PARAMS] user_pw_re=aaa
+17/11/23 05:35:42.841 [pid:169] - debug: [HTTP POST PARAMS] email=aaa@aaa.aaa
+17/11/23 05:35:42.841 [pid:169] - debug: [HTTP POST PARAMS] gender=M
+17/11/23 05:35:42.842 [pid:169] - debug: [HTTP POST PARAMS] birthdate=0003-03-03
+17/11/23 05:35:42.842 [pid:169] - debug: [HTTP POST PARAMS] tel=333
+17/11/23 05:35:42.843 [pid:169] - error: [STATUS 400-Bad Request] 연락처 형식이 잘못되었습니다.
+17/11/23 05:35:42.844 [pid:169] - debug: [runtime] 34ms
+17/11/23 05:35:42.844 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:42.844 [pid:169] - debug: 
+17/11/23 05:35:48.071 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:48.072 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:48.073 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/23 05:35:48.075 [pid:169] - debug: [HTTP POST PARAMS] user_name=에이에이에이
+17/11/23 05:35:48.079 [pid:169] - debug: [HTTP POST PARAMS] user_id=aaa
+17/11/23 05:35:48.079 [pid:169] - debug: [HTTP POST PARAMS] user_pw=aaa
+17/11/23 05:35:48.080 [pid:169] - debug: [HTTP POST PARAMS] user_pw_re=aaa
+17/11/23 05:35:48.080 [pid:169] - debug: [HTTP POST PARAMS] email=aaa@aaa.aaa
+17/11/23 05:35:48.080 [pid:169] - debug: [HTTP POST PARAMS] gender=M
+17/11/23 05:35:48.081 [pid:169] - debug: [HTTP POST PARAMS] birthdate=0003-03-03
+17/11/23 05:35:48.081 [pid:169] - debug: [HTTP POST PARAMS] tel=333-333-3333
+17/11/23 05:35:48.089 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:35:48.091 [pid:169] - debug: [runtime] 19ms
+17/11/23 05:35:48.091 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:48.091 [pid:169] - debug: 
+17/11/23 05:35:49.534 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:49.534 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:49.534 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:35:49.540 [pid:169] - debug: [runtime] 6ms
+17/11/23 05:35:49.540 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:49.541 [pid:169] - debug: 
+17/11/23 05:35:49.879 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:49.880 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:49.880 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415349692
+17/11/23 05:35:49.881 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:35:49.881 [pid:169] - debug: [runtime] 2ms
+17/11/23 05:35:49.883 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:49.883 [pid:169] - debug: 
+17/11/23 05:35:49.937 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:49.938 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:49.938 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:35:49.939 [pid:169] - debug: [runtime] 2ms
+17/11/23 05:35:49.940 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:49.940 [pid:169] - debug: 
+17/11/23 05:35:57.813 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:57.813 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:57.813 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/23 05:35:57.815 [pid:169] - debug: [HTTP POST PARAMS] user_id=aaa
+17/11/23 05:35:57.815 [pid:169] - debug: [HTTP POST PARAMS] user_pw=aaa
+17/11/23 05:35:57.825 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:35:57.831 [pid:169] - debug: [runtime] 19ms
+17/11/23 05:35:57.831 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:57.831 [pid:169] - debug: 
+17/11/23 05:35:59.279 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:59.280 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:59.280 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:35:59.294 [pid:169] - debug: [runtime] 15ms
+17/11/23 05:35:59.295 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:59.296 [pid:169] - debug: 
+17/11/23 05:35:59.648 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:59.649 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:59.650 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415359403
+17/11/23 05:35:59.652 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:35:59.660 [pid:169] - debug: [runtime] 10ms
+17/11/23 05:35:59.660 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:59.661 [pid:169] - debug: 
+17/11/23 05:35:59.693 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:35:59.694 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:35:59.694 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:35:59.697 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:35:59.697 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:35:59.697 [pid:169] - debug: 
+17/11/23 05:36:05.258 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:05.258 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:05.258 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:36:05.265 [pid:169] - debug: [runtime] 7ms
+17/11/23 05:36:05.265 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:05.265 [pid:169] - debug: 
+17/11/23 05:36:06.041 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:06.045 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:06.045 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415365485
+17/11/23 05:36:06.053 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:36:06.143 [pid:169] - debug: [runtime] 165ms
+17/11/23 05:36:06.144 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:06.144 [pid:169] - debug: 
+17/11/23 05:36:06.147 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:06.147 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:06.147 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:36:06.151 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:36:06.151 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:06.151 [pid:169] - debug: 
+17/11/23 05:36:06.253 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:06.253 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:06.253 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511415365486
+17/11/23 05:36:06.255 [pid:169] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:36:06.259 [pid:169] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276 }
+17/11/23 05:36:06.261 [pid:169] - debug: [runtime] 9ms
+17/11/23 05:36:06.261 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:06.261 [pid:169] - debug: 
+17/11/23 05:36:35.618 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:35.618 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:35.618 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/23 05:36:35.646 [pid:169] - debug: {"fieldname":"file","originalname":"Archive.zip","encoding":"7bit","mimetype":"application/zip"}
+17/11/23 05:36:35.661 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:36:35.739 [pid:169] - debug: [runtime] 121ms
+17/11/23 05:36:35.739 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:35.739 [pid:169] - debug: 
+17/11/23 05:36:37.486 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:37.486 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:37.487 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:36:37.489 [pid:169] - debug: [runtime] 3ms
+17/11/23 05:36:37.490 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:37.490 [pid:169] - debug: 
+17/11/23 05:36:37.948 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:37.948 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:37.948 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415397691
+17/11/23 05:36:37.952 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:36:37.956 [pid:169] - debug: [runtime] 9ms
+17/11/23 05:36:37.956 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:37.956 [pid:169] - debug: 
+17/11/23 05:36:38.007 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:38.007 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:38.007 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:36:38.010 [pid:169] - debug: [runtime] 3ms
+17/11/23 05:36:38.010 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:38.010 [pid:169] - debug: 
+17/11/23 05:36:38.053 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:38.053 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:38.053 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511415397692
+17/11/23 05:36:38.056 [pid:169] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:36:38.058 [pid:169] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276,
+  project: '/workspace/Assignment/server/_files/upload/aaa/Archive.zip' }
+17/11/23 05:36:38.061 [pid:169] - debug: [runtime] 8ms
+17/11/23 05:36:38.062 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:38.062 [pid:169] - debug: 
+17/11/23 05:36:38.176 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:38.177 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:38.177 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:36:38.181 [pid:169] - debug: [runtime] 5ms
+17/11/23 05:36:38.182 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:38.182 [pid:169] - debug: 
+17/11/23 05:36:39.603 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:39.603 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:39.603 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:36:39.610 [pid:169] - debug: [runtime] 7ms
+17/11/23 05:36:39.610 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:39.610 [pid:169] - debug: 
+17/11/23 05:36:41.209 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:41.212 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:41.212 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:36:41.215 [pid:169] - debug: [runtime] 6ms
+17/11/23 05:36:41.215 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:41.215 [pid:169] - debug: 
+17/11/23 05:36:41.889 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:41.890 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:41.890 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/read?file=/workspace/Assignment/server/_files/upload/aaa/Archive/input1.txt&_=1511415397693
+17/11/23 05:36:41.892 [pid:169] - debug: [HTTP GET PARAMS] file=/workspace/Assignment/server/_files/upload/aaa/Archive/input1.txt
+17/11/23 05:36:41.893 [pid:169] - debug: [STATUS 200] 1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+17/11/23 05:36:41.895 [pid:169] - debug: [runtime] 6ms
+17/11/23 05:36:41.895 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:41.896 [pid:169] - debug: 
+17/11/23 05:36:44.909 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:44.910 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:44.910 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/read?file=/workspace/Assignment/server/_files/upload/aaa/Archive/output1.txt&_=1511415397694
+17/11/23 05:36:44.912 [pid:169] - debug: [HTTP GET PARAMS] file=/workspace/Assignment/server/_files/upload/aaa/Archive/output1.txt
+17/11/23 05:36:44.912 [pid:169] - debug: [STATUS 200] 55
+
+17/11/23 05:36:44.913 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:36:44.914 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:44.914 [pid:169] - debug: 
+17/11/23 05:36:47.584 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:47.584 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:47.585 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/read?file=/workspace/Assignment/server/_files/upload/aaa/Archive/output1.txt&_=1511415397695
+17/11/23 05:36:47.587 [pid:169] - debug: [HTTP GET PARAMS] file=/workspace/Assignment/server/_files/upload/aaa/Archive/output1.txt
+17/11/23 05:36:47.587 [pid:169] - debug: [STATUS 200] 55
+
+17/11/23 05:36:47.588 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:36:47.589 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:47.589 [pid:169] - debug: 
+17/11/23 05:36:59.035 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:59.035 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:59.035 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:36:59.039 [pid:169] - debug: [runtime] 5ms
+17/11/23 05:36:59.039 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:59.040 [pid:169] - debug: 
+17/11/23 05:36:59.503 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:59.503 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:59.504 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415419207
+17/11/23 05:36:59.506 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:36:59.509 [pid:169] - debug: [runtime] 6ms
+17/11/23 05:36:59.509 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:59.509 [pid:169] - debug: 
+17/11/23 05:36:59.516 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:59.516 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:59.516 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:36:59.519 [pid:169] - debug: [runtime] 2ms
+17/11/23 05:36:59.519 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:59.519 [pid:169] - debug: 
+17/11/23 05:36:59.588 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:59.589 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:59.589 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511415419208
+17/11/23 05:36:59.593 [pid:169] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:36:59.594 [pid:169] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276,
+  project: '/workspace/Assignment/server/_files/upload/aaa/Archive.zip' }
+17/11/23 05:36:59.596 [pid:169] - debug: [runtime] 8ms
+17/11/23 05:36:59.597 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:59.597 [pid:169] - debug: 
+17/11/23 05:36:59.682 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:36:59.682 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:36:59.682 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:36:59.686 [pid:169] - debug: [runtime] 5ms
+17/11/23 05:36:59.686 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:36:59.686 [pid:169] - debug: 
+17/11/23 05:37:03.817 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:37:03.818 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:37:03.818 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:37:03.821 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:37:03.821 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:37:03.822 [pid:169] - debug: 
+17/11/23 05:37:07.184 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:37:07.184 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:37:07.184 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/deleteP?_=1511415419209
+17/11/23 05:37:07.187 [pid:169] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:37:07.188 [pid:169] - error:  TypeError: Cannot read property 'substr' of undefined
+    at deleteP (/workspace/Assignment/server/controllers/fileManager.js:660:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:37:07.191 [pid:169] - debug: [runtime] 7ms
+17/11/23 05:37:07.191 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:37:07.191 [pid:169] - debug: 
+17/11/23 05:37:15.037 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:37:15.038 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:37:15.039 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/deleteP?_=1511415419210
+17/11/23 05:37:15.048 [pid:169] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:37:15.049 [pid:169] - error:  TypeError: Cannot read property 'substr' of undefined
+    at deleteP (/workspace/Assignment/server/controllers/fileManager.js:660:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:37:15.058 [pid:169] - debug: [runtime] 20ms
+17/11/23 05:37:15.058 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:37:15.059 [pid:169] - debug: 
+17/11/23 05:37:24.155 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:37:24.156 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:37:24.156 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/deleteP?_=1511415419210
+17/11/23 05:37:24.239 [pid:169] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:37:24.239 [pid:169] - error:  TypeError: Cannot read property 'substr' of undefined
+    at deleteP (/workspace/Assignment/server/controllers/fileManager.js:660:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:37:24.242 [pid:169] - debug: [runtime] 87ms
+17/11/23 05:37:24.242 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:37:24.242 [pid:169] - debug: 
+17/11/23 05:42:51.306 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:51.307 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:51.308 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:42:51.317 [pid:169] - debug: [runtime] 13ms
+17/11/23 05:42:51.317 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:51.318 [pid:169] - debug: 
+17/11/23 05:42:54.362 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:54.362 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:54.362 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:42:54.366 [pid:169] - debug: [runtime] 5ms
+17/11/23 05:42:54.367 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:54.368 [pid:169] - debug: 
+17/11/23 05:42:54.676 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:54.677 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:54.677 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415774503
+17/11/23 05:42:54.678 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:42:54.681 [pid:169] - debug: [runtime] 5ms
+17/11/23 05:42:54.681 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:54.682 [pid:169] - debug: 
+17/11/23 05:42:54.783 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:54.784 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:54.784 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:42:54.786 [pid:169] - debug: [runtime] 3ms
+17/11/23 05:42:54.786 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:54.786 [pid:169] - debug: 
+17/11/23 05:42:56.219 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:56.219 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:56.219 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:42:56.222 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:42:56.222 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:56.222 [pid:169] - debug: 
+17/11/23 05:42:56.540 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:56.540 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:56.541 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415776351
+17/11/23 05:42:56.543 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:42:56.544 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:42:56.547 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:56.547 [pid:169] - debug: 
+17/11/23 05:42:56.585 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:56.585 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:56.587 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:42:56.589 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:42:56.590 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:56.590 [pid:169] - debug: 
+17/11/23 05:42:57.349 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:57.349 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:57.349 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:42:57.352 [pid:169] - debug: [runtime] 3ms
+17/11/23 05:42:57.353 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:57.353 [pid:169] - debug: 
+17/11/23 05:42:57.646 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:57.647 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:57.647 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415777475
+17/11/23 05:42:57.648 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:42:57.650 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:42:57.651 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:57.651 [pid:169] - debug: 
+17/11/23 05:42:57.718 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:42:57.718 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:42:57.718 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:42:57.721 [pid:169] - debug: [runtime] 3ms
+17/11/23 05:42:57.722 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:42:57.722 [pid:169] - debug: 
+17/11/23 05:43:00.808 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:00.808 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:00.840 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:43:00.844 [pid:169] - debug: [runtime] 35ms
+17/11/23 05:43:00.844 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:00.844 [pid:169] - debug: 
+17/11/23 05:43:01.256 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:01.256 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:01.256 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:43:01.259 [pid:169] - debug: [runtime] 2ms
+17/11/23 05:43:01.259 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:01.259 [pid:169] - debug: 
+17/11/23 05:43:01.267 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:01.268 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:01.268 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415781030
+17/11/23 05:43:01.270 [pid:169] - debug: [STATUS 200] OK
+17/11/23 05:43:01.271 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:43:01.271 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:01.271 [pid:169] - debug: 
+17/11/23 05:43:01.395 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:01.395 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:01.395 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511415781031
+17/11/23 05:43:01.397 [pid:169] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:43:01.399 [pid:169] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276,
+  project: '/workspace/Assignment/server/_files/upload/aaa/Archive.zip' }
+17/11/23 05:43:01.400 [pid:169] - debug: [runtime] 5ms
+17/11/23 05:43:01.401 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:01.401 [pid:169] - debug: 
+17/11/23 05:43:01.498 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:01.498 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:01.499 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:43:01.502 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:43:01.502 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:01.502 [pid:169] - debug: 
+17/11/23 05:43:04.444 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:04.444 [pid:169] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:04.445 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:43:04.448 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:43:04.448 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:04.449 [pid:169] - debug: 
+17/11/23 05:43:05.235 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:05.235 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:05.236 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/read?file=/workspace/Assignment/server/_files/upload/aaa/Archive/input1.txt&_=1511415781032
+17/11/23 05:43:05.237 [pid:169] - debug: [HTTP GET PARAMS] file=/workspace/Assignment/server/_files/upload/aaa/Archive/input1.txt
+17/11/23 05:43:05.237 [pid:169] - debug: [STATUS 200] 1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+17/11/23 05:43:05.239 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:43:05.247 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:05.247 [pid:169] - debug: 
+17/11/23 05:43:06.540 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:06.540 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:06.540 [pid:169] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:43:06.544 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:43:06.544 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:06.544 [pid:169] - debug: 
+17/11/23 05:43:07.391 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:07.391 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:07.391 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/read?file=/workspace/Assignment/server/_files/upload/aaa/Archive/input1.txt&_=1511415781033
+17/11/23 05:43:07.392 [pid:169] - debug: [HTTP GET PARAMS] file=/workspace/Assignment/server/_files/upload/aaa/Archive/input1.txt
+17/11/23 05:43:07.393 [pid:169] - debug: [STATUS 200] 1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+17/11/23 05:43:07.394 [pid:169] - debug: [runtime] 4ms
+17/11/23 05:43:07.394 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:07.394 [pid:169] - debug: 
+17/11/23 05:43:14.716 [pid:169] - debug: ------------ client connection ------------
+17/11/23 05:43:14.716 [pid:169] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:43:14.716 [pid:169] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/newFile?filename=main.c&_=1511415781034
+17/11/23 05:43:14.718 [pid:169] - debug: [HTTP GET PARAMS] filename=main.c
+17/11/23 05:43:14.719 [pid:169] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:43:14.719 [pid:169] - error:  TypeError: Cannot read property 'substr' of undefined
+    at newFile (/workspace/Assignment/server/controllers/fileManager.js:624:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:43:14.738 [pid:169] - debug: [runtime] 22ms
+17/11/23 05:43:14.739 [pid:169] - debug: ---------- client disconnection ------------
+17/11/23 05:43:14.739 [pid:169] - debug: 
+17/11/23 05:44:34.243 [pid:184] - debug: ----------------------
+17/11/23 05:44:34.253 [pid:184] - debug: |Start Express Server|
+17/11/23 05:44:34.254 [pid:184] - debug: ----------------------
+17/11/23 05:44:34.254 [pid:184] - debug: Socket IO server has been started
+17/11/23 05:44:34.339 [pid:184] - debug: Connected to mongod server
+17/11/23 05:44:35.742 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:44:35.743 [pid:184] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:44:35.744 [pid:184] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:44:35.840 [pid:184] - debug: [runtime] 99ms
+17/11/23 05:44:35.842 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:44:35.843 [pid:184] - debug: 
+17/11/23 05:44:36.739 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:44:36.739 [pid:184] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:44:36.740 [pid:184] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:44:36.742 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:44:36.742 [pid:184] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:44:36.742 [pid:184] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511415876179
+17/11/23 05:44:36.763 [pid:184] - debug: [STATUS 200] OK
+17/11/23 05:44:36.842 [pid:184] - debug: [runtime] 181ms
+17/11/23 05:44:36.842 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:44:36.844 [pid:184] - debug: 
+17/11/23 05:44:36.845 [pid:184] - debug: [runtime] 103ms
+17/11/23 05:44:36.845 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:44:36.846 [pid:184] - debug: 
+17/11/23 05:44:36.918 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:44:36.919 [pid:184] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:44:36.919 [pid:184] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511415876180
+17/11/23 05:44:36.926 [pid:184] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:44:36.938 [pid:184] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276,
+  project: '/workspace/Assignment/server/_files/upload/aaa/Archive.zip' }
+17/11/23 05:44:36.940 [pid:184] - debug: [runtime] 22ms
+17/11/23 05:44:36.941 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:44:36.941 [pid:184] - debug: 
+17/11/23 05:44:37.021 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:44:37.021 [pid:184] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:44:37.021 [pid:184] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:44:37.041 [pid:184] - debug: [runtime] 21ms
+17/11/23 05:44:37.042 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:44:37.042 [pid:184] - debug: 
+17/11/23 05:45:04.340 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:45:04.341 [pid:184] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:45:04.341 [pid:184] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:45:04.346 [pid:184] - debug: [runtime] 5ms
+17/11/23 05:45:04.346 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:45:04.346 [pid:184] - debug: 
+17/11/23 05:45:08.827 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:45:08.827 [pid:184] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:45:08.827 [pid:184] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/newFile?filename=main.c&_=1511415876181
+17/11/23 05:45:08.835 [pid:184] - debug: [HTTP GET PARAMS] filename=main.c
+17/11/23 05:45:08.836 [pid:184] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:45:08.837 [pid:184] - error:  TypeError: Cannot read property 'substr' of undefined
+    at newFile (/workspace/Assignment/server/controllers/fileManager.js:624:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:45:08.840 [pid:184] - debug: [runtime] 13ms
+17/11/23 05:45:08.840 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:45:08.841 [pid:184] - debug: 
+17/11/23 05:45:14.682 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:45:14.744 [pid:184] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:45:14.749 [pid:184] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/newFile?filename=main.c&_=1511415876182
+17/11/23 05:45:14.754 [pid:184] - debug: [HTTP GET PARAMS] filename=main.c
+17/11/23 05:45:14.754 [pid:184] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:45:14.755 [pid:184] - error:  TypeError: Cannot read property 'substr' of undefined
+    at newFile (/workspace/Assignment/server/controllers/fileManager.js:624:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:45:14.758 [pid:184] - debug: [runtime] 76ms
+17/11/23 05:45:14.758 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:45:14.759 [pid:184] - debug: 
+17/11/23 05:47:50.021 [pid:184] - debug: ------------ client connection ------------
+17/11/23 05:47:50.022 [pid:184] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:47:50.022 [pid:184] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/newFile?filename=main.c&_=1511415876183
+17/11/23 05:47:50.041 [pid:184] - debug: [HTTP GET PARAMS] filename=main.c
+17/11/23 05:47:50.045 [pid:184] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:47:50.046 [pid:184] - error:  TypeError: Cannot read property 'substr' of undefined
+    at newFile (/workspace/Assignment/server/controllers/fileManager.js:624:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:47:50.048 [pid:184] - debug: [runtime] 27ms
+17/11/23 05:47:50.048 [pid:184] - debug: ---------- client disconnection ------------
+17/11/23 05:47:50.049 [pid:184] - debug: 
+17/11/23 05:48:13.348 [pid:199] - debug: ----------------------
+17/11/23 05:48:13.350 [pid:199] - debug: |Start Express Server|
+17/11/23 05:48:13.351 [pid:199] - debug: ----------------------
+17/11/23 05:48:13.351 [pid:199] - debug: Socket IO server has been started
+17/11/23 05:48:13.445 [pid:199] - debug: Connected to mongod server
+17/11/23 05:48:14.880 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:14.880 [pid:199] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:14.882 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:48:14.957 [pid:199] - debug: [runtime] 78ms
+17/11/23 05:48:14.958 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:14.959 [pid:199] - debug: 
+17/11/23 05:48:15.678 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:15.679 [pid:199] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:15.680 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416095375
+17/11/23 05:48:15.684 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:48:15.687 [pid:199] - debug: [runtime] 9ms
+17/11/23 05:48:15.687 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:15.688 [pid:199] - debug: 
+17/11/23 05:48:15.710 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:15.711 [pid:199] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:15.712 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:48:15.716 [pid:199] - debug: [runtime] 5ms
+17/11/23 05:48:15.716 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:15.716 [pid:199] - debug: 
+17/11/23 05:48:15.775 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:15.775 [pid:199] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:15.775 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511416095376
+17/11/23 05:48:15.778 [pid:199] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:48:15.785 [pid:199] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276,
+  project: '/workspace/Assignment/server/_files/upload/aaa/Archive.zip' }
+17/11/23 05:48:15.838 [pid:199] - debug: [runtime] 13ms
+17/11/23 05:48:15.838 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:15.838 [pid:199] - debug: 
+17/11/23 05:48:15.885 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:15.885 [pid:199] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:15.886 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:48:15.905 [pid:199] - debug: [runtime] 20ms
+17/11/23 05:48:15.905 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:15.906 [pid:199] - debug: 
+17/11/23 05:48:19.295 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:19.295 [pid:199] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:19.295 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/newFile?filename=main.c&_=1511416095377
+17/11/23 05:48:19.339 [pid:199] - debug: [HTTP GET PARAMS] filename=main.c
+17/11/23 05:48:19.340 [pid:199] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:48:19.341 [pid:199] - error:  TypeError: Cannot read property 'substr' of undefined
+    at newFile (/workspace/Assignment/server/controllers/fileManager.js:624:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:48:19.343 [pid:199] - debug: [runtime] 48ms
+17/11/23 05:48:19.343 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:19.344 [pid:199] - debug: 
+17/11/23 05:48:39.056 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:39.138 [pid:199] - debug: [client] 10.1.21.224, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:39.139 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:48:39.148 [pid:199] - debug: [runtime] 93ms
+17/11/23 05:48:39.149 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:39.149 [pid:199] - debug: 
+17/11/23 05:48:39.873 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:39.874 [pid:199] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:39.874 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:48:39.877 [pid:199] - debug: [runtime] 3ms
+17/11/23 05:48:39.877 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:39.878 [pid:199] - debug: 
+17/11/23 05:48:39.884 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:39.892 [pid:199] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:39.893 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416119580
+17/11/23 05:48:39.895 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:48:39.897 [pid:199] - debug: [runtime] 14ms
+17/11/23 05:48:39.897 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:39.903 [pid:199] - debug: 
+17/11/23 05:48:40.013 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:40.013 [pid:199] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:40.014 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511416119581
+17/11/23 05:48:40.018 [pid:199] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:48:40.025 [pid:199] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276,
+  project: '/workspace/Assignment/server/_files/upload/aaa/Archive.zip' }
+17/11/23 05:48:40.026 [pid:199] - debug: [runtime] 13ms
+17/11/23 05:48:40.027 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:40.038 [pid:199] - debug: 
+17/11/23 05:48:40.083 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:48:40.083 [pid:199] - debug: [client] 10.1.21.224, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:48:40.083 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:48:40.092 [pid:199] - debug: [runtime] 10ms
+17/11/23 05:48:40.092 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:48:40.093 [pid:199] - debug: 
+17/11/23 05:55:46.743 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:46.838 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:46.839 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:55:46.855 [pid:199] - debug: [runtime] 113ms
+17/11/23 05:55:46.856 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:46.856 [pid:199] - debug: 
+17/11/23 05:55:47.395 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:47.396 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:47.396 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416547022
+17/11/23 05:55:47.399 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:47.399 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:47.399 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:55:47.403 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:55:47.405 [pid:199] - debug: [runtime] 9ms
+17/11/23 05:55:47.405 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:47.405 [pid:199] - debug: 
+17/11/23 05:55:47.407 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:55:47.407 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:47.407 [pid:199] - debug: 
+17/11/23 05:55:47.495 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:47.496 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:47.497 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511416547023
+17/11/23 05:55:47.501 [pid:199] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:55:47.503 [pid:199] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276,
+  project: '/workspace/Assignment/server/_files/upload/aaa/Archive.zip' }
+17/11/23 05:55:47.506 [pid:199] - debug: [runtime] 11ms
+17/11/23 05:55:47.506 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:47.506 [pid:199] - debug: 
+17/11/23 05:55:47.567 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:47.567 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:47.568 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:55:47.573 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:55:47.573 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:47.574 [pid:199] - debug: 
+17/11/23 05:55:58.300 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:58.301 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:58.301 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:55:58.304 [pid:199] - debug: [runtime] 4ms
+17/11/23 05:55:58.305 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:58.305 [pid:199] - debug: 
+17/11/23 05:55:58.747 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:58.747 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:58.747 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416558492
+17/11/23 05:55:58.749 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:55:58.750 [pid:199] - debug: [runtime] 4ms
+17/11/23 05:55:58.750 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:58.750 [pid:199] - debug: 
+17/11/23 05:55:58.766 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:58.766 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:58.767 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:55:58.769 [pid:199] - debug: [runtime] 3ms
+17/11/23 05:55:58.769 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:58.771 [pid:199] - debug: 
+17/11/23 05:55:58.809 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:58.809 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:58.809 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a165e343b240b00a9e8c276&_=1511416558493
+17/11/23 05:55:58.811 [pid:199] - debug: [HTTP GET PARAMS] _id=5a165e343b240b00a9e8c276
+17/11/23 05:55:58.813 [pid:199] - debug: [STATUS 200] { _id: 5a165e343b240b00a9e8c276,
+  project: '/workspace/Assignment/server/_files/upload/aaa/Archive.zip' }
+17/11/23 05:55:58.814 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:55:58.814 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:58.814 [pid:199] - debug: 
+17/11/23 05:55:58.919 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:55:58.920 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:55:58.920 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:55:58.928 [pid:199] - debug: [runtime] 9ms
+17/11/23 05:55:58.928 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:55:58.932 [pid:199] - debug: 
+17/11/23 05:56:09.638 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:09.638 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:09.639 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:56:09.658 [pid:199] - debug: [runtime] 104ms
+17/11/23 05:56:09.660 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:09.661 [pid:199] - debug: 
+17/11/23 05:56:09.937 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:09.938 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:09.938 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:56:09.940 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:09.941 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:09.941 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416569763
+17/11/23 05:56:09.956 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:09.959 [pid:199] - debug: [runtime] 23ms
+17/11/23 05:56:09.962 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:09.963 [pid:199] - debug: 
+17/11/23 05:56:09.963 [pid:199] - debug: [runtime] 23ms
+17/11/23 05:56:09.964 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:09.964 [pid:199] - debug: 
+17/11/23 05:56:11.602 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:11.603 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:11.603 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/member/logout?_=1511416569764
+17/11/23 05:56:11.607 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:11.608 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:56:11.609 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:11.609 [pid:199] - debug: 
+17/11/23 05:56:12.879 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:12.880 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:12.880 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:56:12.884 [pid:199] - debug: [runtime] 5ms
+17/11/23 05:56:12.884 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:12.885 [pid:199] - debug: 
+17/11/23 05:56:13.163 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:13.163 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:13.164 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:56:13.170 [pid:199] - debug: [runtime] 5ms
+17/11/23 05:56:13.170 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:13.171 [pid:199] - debug: 
+17/11/23 05:56:13.172 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:13.172 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:13.173 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416573022
+17/11/23 05:56:13.174 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:13.175 [pid:199] - debug: [runtime] 3ms
+17/11/23 05:56:13.175 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:13.175 [pid:199] - debug: 
+17/11/23 05:56:15.838 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:15.838 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:15.840 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/23 05:56:15.854 [pid:199] - debug: [runtime] 16ms
+17/11/23 05:56:15.855 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:15.857 [pid:199] - debug: 
+17/11/23 05:56:16.126 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:16.127 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:16.127 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416575977
+17/11/23 05:56:16.128 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:16.129 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:16.129 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:56:16.130 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:16.131 [pid:199] - debug: [runtime] 5ms
+17/11/23 05:56:16.131 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:16.131 [pid:199] - debug: 
+17/11/23 05:56:16.132 [pid:199] - debug: [runtime] 4ms
+17/11/23 05:56:16.133 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:16.133 [pid:199] - debug: 
+17/11/23 05:56:23.947 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:24.038 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:24.039 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/23 05:56:24.042 [pid:199] - debug: [HTTP POST PARAMS] user_id=bbb
+17/11/23 05:56:24.050 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:24.051 [pid:199] - debug: [runtime] 104ms
+17/11/23 05:56:24.053 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:24.054 [pid:199] - debug: 
+17/11/23 05:56:36.153 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:36.153 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:36.154 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/member/email_unique_check
+17/11/23 05:56:36.156 [pid:199] - debug: [HTTP POST PARAMS] email=bbb@bbb.bbb
+17/11/23 05:56:36.158 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:36.165 [pid:199] - debug: [runtime] 12ms
+17/11/23 05:56:36.165 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:36.169 [pid:199] - debug: 
+17/11/23 05:56:45.298 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:45.298 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:45.298 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/23 05:56:45.359 [pid:199] - debug: [HTTP POST PARAMS] user_name=비비비
+17/11/23 05:56:45.359 [pid:199] - debug: [HTTP POST PARAMS] user_id=bbb
+17/11/23 05:56:45.359 [pid:199] - debug: [HTTP POST PARAMS] user_pw=bbb
+17/11/23 05:56:45.360 [pid:199] - debug: [HTTP POST PARAMS] user_pw_re=bbb
+17/11/23 05:56:45.360 [pid:199] - debug: [HTTP POST PARAMS] email=bbb@bbb.bbb
+17/11/23 05:56:45.360 [pid:199] - debug: [HTTP POST PARAMS] gender=M
+17/11/23 05:56:45.361 [pid:199] - debug: [HTTP POST PARAMS] birthdate=0001-01-01
+17/11/23 05:56:45.361 [pid:199] - debug: [HTTP POST PARAMS] tel=111-111-1111
+17/11/23 05:56:45.373 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:45.377 [pid:199] - debug: [runtime] 79ms
+17/11/23 05:56:45.378 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:45.378 [pid:199] - debug: 
+17/11/23 05:56:46.651 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:46.652 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:46.652 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:56:46.659 [pid:199] - debug: [runtime] 8ms
+17/11/23 05:56:46.659 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:46.660 [pid:199] - debug: 
+17/11/23 05:56:46.926 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:46.927 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:46.927 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416606770
+17/11/23 05:56:46.929 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:46.930 [pid:199] - debug: [runtime] 3ms
+17/11/23 05:56:46.931 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:46.931 [pid:199] - debug: 
+17/11/23 05:56:46.984 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:46.984 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:46.984 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:56:46.986 [pid:199] - debug: [runtime] 2ms
+17/11/23 05:56:46.986 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:46.986 [pid:199] - debug: 
+17/11/23 05:56:51.276 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:51.276 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:51.281 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/23 05:56:51.283 [pid:199] - debug: [HTTP POST PARAMS] user_id=bbb
+17/11/23 05:56:51.284 [pid:199] - debug: [HTTP POST PARAMS] user_pw=bbb
+17/11/23 05:56:51.290 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:51.295 [pid:199] - debug: [runtime] 19ms
+17/11/23 05:56:51.295 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:51.296 [pid:199] - debug: 
+17/11/23 05:56:52.849 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:52.849 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:52.939 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/23 05:56:52.942 [pid:199] - debug: [runtime] 94ms
+17/11/23 05:56:52.942 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:52.943 [pid:199] - debug: 
+17/11/23 05:56:53.198 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:53.198 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:53.198 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:56:53.200 [pid:199] - debug: [runtime] 3ms
+17/11/23 05:56:53.200 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:53.200 [pid:199] - debug: 
+17/11/23 05:56:53.212 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:53.212 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:53.212 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416613051
+17/11/23 05:56:53.214 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:53.215 [pid:199] - debug: [runtime] 4ms
+17/11/23 05:56:53.215 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:53.216 [pid:199] - debug: 
+17/11/23 05:56:54.514 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:54.514 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:54.514 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:56:54.538 [pid:199] - debug: [runtime] 24ms
+17/11/23 05:56:54.539 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:54.539 [pid:199] - debug: 
+17/11/23 05:56:54.985 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:54.985 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:54.985 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416614706
+17/11/23 05:56:54.989 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:54.989 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:54.989 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:56:54.992 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:56:54.994 [pid:199] - debug: [runtime] 9ms
+17/11/23 05:56:54.994 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:54.995 [pid:199] - debug: 
+17/11/23 05:56:54.995 [pid:199] - debug: [runtime] 7ms
+17/11/23 05:56:54.996 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:54.996 [pid:199] - debug: 
+17/11/23 05:56:55.070 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:56:55.071 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:56:55.071 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a16631d293f8700c725b8d2&_=1511416614707
+17/11/23 05:56:55.075 [pid:199] - debug: [HTTP GET PARAMS] _id=5a16631d293f8700c725b8d2
+17/11/23 05:56:55.078 [pid:199] - debug: [STATUS 200] { _id: 5a16631d293f8700c725b8d2 }
+17/11/23 05:56:55.089 [pid:199] - debug: [runtime] 18ms
+17/11/23 05:56:55.090 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:56:55.090 [pid:199] - debug: 
+17/11/23 05:57:47.755 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:47.755 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:47.755 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/f_save
+17/11/23 05:57:47.769 [pid:199] - debug: {"fieldname":"file","originalname":"backup.zip","encoding":"7bit","mimetype":"application/zip"}
+17/11/23 05:57:47.841 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:57:47.846 [pid:199] - debug: [runtime] 90ms
+17/11/23 05:57:47.846 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:47.846 [pid:199] - debug: 
+17/11/23 05:57:49.087 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:49.087 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:49.087 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:57:49.139 [pid:199] - debug: [runtime] 51ms
+17/11/23 05:57:49.139 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:49.139 [pid:199] - debug: 
+17/11/23 05:57:49.611 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:49.611 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:49.611 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416669321
+17/11/23 05:57:49.615 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:57:49.616 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:57:49.617 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:49.617 [pid:199] - debug: 
+17/11/23 05:57:49.619 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:49.619 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:49.619 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:57:49.622 [pid:199] - debug: [runtime] 3ms
+17/11/23 05:57:49.622 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:49.622 [pid:199] - debug: 
+17/11/23 05:57:49.716 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:49.717 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:49.717 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a16631d293f8700c725b8d2&_=1511416669322
+17/11/23 05:57:49.719 [pid:199] - debug: [HTTP GET PARAMS] _id=5a16631d293f8700c725b8d2
+17/11/23 05:57:49.720 [pid:199] - debug: [STATUS 200] { _id: 5a16631d293f8700c725b8d2,
+  project: '/workspace/Assignment/server/_files/upload/bbb/backup.zip' }
+17/11/23 05:57:49.722 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:57:49.723 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:49.723 [pid:199] - debug: 
+17/11/23 05:57:49.842 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:49.843 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:49.843 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:57:49.846 [pid:199] - debug: [runtime] 4ms
+17/11/23 05:57:49.846 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:49.846 [pid:199] - debug: 
+17/11/23 05:57:51.836 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:51.837 [pid:199] - debug: [client] 10.1.20.243, 10.1.20.90 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:51.837 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:57:51.839 [pid:199] - debug: [runtime] 3ms
+17/11/23 05:57:51.840 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:51.840 [pid:199] - debug: 
+17/11/23 05:57:52.967 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:52.967 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:52.968 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:57:52.972 [pid:199] - debug: [runtime] 5ms
+17/11/23 05:57:52.973 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:52.973 [pid:199] - debug: 
+17/11/23 05:57:54.276 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:54.276 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:54.276 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:57:54.280 [pid:199] - debug: [runtime] 4ms
+17/11/23 05:57:54.281 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:54.281 [pid:199] - debug: 
+17/11/23 05:57:55.561 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:57:55.561 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:57:55.562 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:57:55.567 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:57:55.568 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:57:55.568 [pid:199] - debug: 
+17/11/23 05:58:01.567 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:58:01.567 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:58:01.568 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/newFile?filename=bb.c&_=1511416669323
+17/11/23 05:58:01.571 [pid:199] - debug: [HTTP GET PARAMS] filename=bb.c
+17/11/23 05:58:01.571 [pid:199] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/23 05:58:01.584 [pid:199] - error:  TypeError: Cannot read property 'substr' of undefined
+    at newFile (/workspace/Assignment/server/controllers/fileManager.js:624:19)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/23 05:58:01.586 [pid:199] - debug: [runtime] 19ms
+17/11/23 05:58:01.586 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:58:01.587 [pid:199] - debug: 
+17/11/23 05:58:07.406 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:58:07.406 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:58:07.406 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:58:07.411 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:58:07.413 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:58:07.413 [pid:199] - debug: 
+17/11/23 05:58:09.666 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:58:09.666 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:58:09.667 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/read?file=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416669324
+17/11/23 05:58:09.670 [pid:199] - debug: [HTTP GET PARAMS] file=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:58:09.681 [pid:199] - debug: [STATUS 200] #include <iostream>
+
+using namespace std;
+
+#define MAP_WIDTH 16
+#define MAP_HEIGHT 8
+
+struct Pos {
+	int x;
+	int y;
+};
+
+int deltaX[2][6] = {
+	{ -1, -1, -1,  0,  0,  1 },
+	{ -1,  0,  0,  1,  1,  1 }
+};
+int deltaY[2][6] = {
+	{ -1,  0,  1, -1,  1,  0 },
+	{  0, -1,  1, -1,  0,  1 }
+};
+
+// 0: 평지, 2: 늪, 3: 암석, 4: 호수
+int8_t game_map[MAP_HEIGHT][MAP_WIDTH] =  {
+        { 0, 0, 0, 0, 0, 0, 2, 2, 0, 2, 0, 0, 0, 0, 0, 0 },
+        { 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0 },
+        { 0, 0, 0, 0, 0, 0, 3, 0, 0, 2, 0, 0, 0, 0, 0, 0 },
+        { 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 4, 0, 0 },
+        { 0, 0, 3, 3, 3, 3, 3, 0, 0, 0, 0, 3, 0, 4, 4, 0 },
+        { 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 4, 4, 0 },
+        { 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 4, 4, 0 },
+        { 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 4, 4, 0 }
+};
+
+int main(int argc, char* argv[]) {
+	cout << "Hello, goorm!" << endl;
+	
+	return 0;
+}
+
+class Game{
+private:
+	int type;
+	int unit_x;
+	int unit_y;
+	int target_x;
+	int target_y;
+public:
+	Game(int type, int unit_x, int unit_y, int target_x, int target_y): type(type), unit_x(unit_x), unit_y(unit_y), target_x(target_x), target_y(target_y) {};
+	
+	void start() {
+		Army *unit;
+		if (type==1) ;
+		else if (type==2) unit = new Tank(Pos{unit_x, unit_y});
+	;
+}
+17/11/23 05:58:09.683 [pid:199] - debug: [runtime] 17ms
+17/11/23 05:58:09.683 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:58:09.683 [pid:199] - debug: 
+17/11/23 05:58:11.988 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:58:11.988 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:58:11.989 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/checkInput?path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416669325
+17/11/23 05:58:11.991 [pid:199] - debug: [HTTP GET PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:58:11.993 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:58:11.995 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:58:11.995 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:58:11.995 [pid:199] - debug: 
+17/11/23 05:58:12.069 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:58:12.070 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:58:12.070 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/buildCpp?path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416669326
+17/11/23 05:58:12.072 [pid:199] - debug: [HTTP GET PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:58:12.072 [pid:199] - debug: [HTTP GET PARAMS] inputData=%s
+17/11/23 05:58:14.621 [pid:199] - debug: [STATUS 200] 
+17/11/23 05:58:14.629 [pid:199] - debug: [runtime] 2560ms
+17/11/23 05:58:14.630 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:58:14.630 [pid:199] - debug: 
+17/11/23 05:58:42.636 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:58:42.636 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:58:42.636 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/save
+17/11/23 05:58:42.638 [pid:199] - debug: [HTTP POST PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:58:42.639 [pid:199] - debug: [HTTP POST PARAMS] data=#include <stdio.h>
+
+int main() {
+  return 0;
+}
+17/11/23 05:58:42.640 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:58:42.643 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:58:42.643 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:58:42.643 [pid:199] - debug: 
+17/11/23 05:58:44.685 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:58:44.685 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:58:44.686 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/checkInput?path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416669327
+17/11/23 05:58:44.738 [pid:199] - debug: [HTTP GET PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:58:44.739 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:58:44.741 [pid:199] - debug: [runtime] 56ms
+17/11/23 05:58:44.741 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:58:44.741 [pid:199] - debug: 
+17/11/23 05:58:44.794 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:58:44.794 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:58:44.794 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/buildCpp?path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416669328
+17/11/23 05:58:44.796 [pid:199] - debug: [HTTP GET PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:58:44.796 [pid:199] - debug: [HTTP GET PARAMS] inputData=%s
+17/11/23 05:58:47.305 [pid:199] - debug: [STATUS 200] 
+17/11/23 05:58:47.307 [pid:199] - debug: [runtime] 2513ms
+17/11/23 05:58:47.308 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:58:47.308 [pid:199] - debug: 
+17/11/23 05:59:13.723 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:13.723 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:13.724 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/save
+17/11/23 05:59:13.726 [pid:199] - debug: [HTTP POST PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:59:13.726 [pid:199] - debug: [HTTP POST PARAMS] data=#include <stdio.h>
+
+int main() {
+  printf("1");
+  return 0;
+}
+17/11/23 05:59:13.727 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:59:13.730 [pid:199] - debug: [runtime] 7ms
+17/11/23 05:59:13.730 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:13.730 [pid:199] - debug: 
+17/11/23 05:59:16.976 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:17.042 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:17.042 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager.html
+17/11/23 05:59:17.046 [pid:199] - debug: [runtime] 70ms
+17/11/23 05:59:17.046 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:17.046 [pid:199] - debug: 
+17/11/23 05:59:17.575 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:17.576 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:17.576 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/topbar.html
+17/11/23 05:59:17.579 [pid:199] - debug: [runtime] 4ms
+17/11/23 05:59:17.579 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:17.580 [pid:199] - debug: 
+17/11/23 05:59:17.581 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:17.581 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:17.582 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/session?_=1511416757240
+17/11/23 05:59:17.590 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:59:17.598 [pid:199] - debug: [runtime] 17ms
+17/11/23 05:59:17.598 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:17.598 [pid:199] - debug: 
+17/11/23 05:59:17.715 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:17.715 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:17.716 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/f_read?_id=5a16631d293f8700c725b8d2&_=1511416757241
+17/11/23 05:59:17.718 [pid:199] - debug: [HTTP GET PARAMS] _id=5a16631d293f8700c725b8d2
+17/11/23 05:59:17.720 [pid:199] - debug: [STATUS 200] { _id: 5a16631d293f8700c725b8d2,
+  project: '/workspace/Assignment/server/_files/upload/bbb/backup.zip' }
+17/11/23 05:59:17.722 [pid:199] - debug: [runtime] 6ms
+17/11/23 05:59:17.722 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:17.722 [pid:199] - debug: 
+17/11/23 05:59:17.846 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:17.846 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:17.846 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:59:18.008 [pid:199] - debug: [runtime] 103ms
+17/11/23 05:59:18.008 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:18.008 [pid:199] - debug: 
+17/11/23 05:59:18.787 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:18.788 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:18.788 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:59:18.795 [pid:199] - debug: [runtime] 8ms
+17/11/23 05:59:18.795 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:18.796 [pid:199] - debug: 
+17/11/23 05:59:19.686 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:19.687 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:19.693 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:59:19.713 [pid:199] - debug: [runtime] 28ms
+17/11/23 05:59:19.713 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:19.714 [pid:199] - debug: 
+17/11/23 05:59:21.279 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:21.279 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:21.279 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/connectors/jqueryFileTree
+17/11/23 05:59:21.288 [pid:199] - debug: [runtime] 10ms
+17/11/23 05:59:21.289 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:21.290 [pid:199] - debug: 
+17/11/23 05:59:24.743 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:24.744 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:24.744 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/read?file=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416757242
+17/11/23 05:59:24.912 [pid:199] - debug: [HTTP GET PARAMS] file=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:59:24.938 [pid:199] - debug: [STATUS 200] #include <stdio.h>
+
+int main() {
+  printf("1");
+  return 0;
+}
+17/11/23 05:59:24.971 [pid:199] - debug: [runtime] 258ms
+17/11/23 05:59:24.972 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:24.972 [pid:199] - debug: 
+17/11/23 05:59:26.847 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:26.848 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:26.848 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/checkInput?path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416757243
+17/11/23 05:59:26.850 [pid:199] - debug: [HTTP GET PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:59:26.851 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:59:26.869 [pid:199] - debug: [runtime] 22ms
+17/11/23 05:59:26.870 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:26.870 [pid:199] - debug: 
+17/11/23 05:59:26.936 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:26.936 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:26.936 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/buildCpp?path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416757244
+17/11/23 05:59:26.938 [pid:199] - debug: [HTTP GET PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:59:26.938 [pid:199] - debug: [HTTP GET PARAMS] inputData=%s
+17/11/23 05:59:29.520 [pid:199] - debug: [STATUS 200] 1
+17/11/23 05:59:29.522 [pid:199] - debug: [runtime] 2585ms
+17/11/23 05:59:29.522 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:29.522 [pid:199] - debug: 
+17/11/23 05:59:38.999 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:39.000 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:39.001 [pid:199] - debug: [http POST] http://jobinterview.run.goorm.io/fileManager/save
+17/11/23 05:59:39.003 [pid:199] - debug: [HTTP POST PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:59:39.004 [pid:199] - debug: [HTTP POST PARAMS] data=#include <stdio.h>
+
+int main() {
+  printf("1\n2\n3");
+  return 0;
+}
+17/11/23 05:59:39.004 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:59:39.007 [pid:199] - debug: [runtime] 7ms
+17/11/23 05:59:39.007 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:39.007 [pid:199] - debug: 
+17/11/23 05:59:41.407 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:41.407 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:41.408 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/checkInput?path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416757245
+17/11/23 05:59:41.410 [pid:199] - debug: [HTTP GET PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:59:41.411 [pid:199] - debug: [STATUS 200] OK
+17/11/23 05:59:41.415 [pid:199] - debug: [runtime] 7ms
+17/11/23 05:59:41.415 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:41.415 [pid:199] - debug: 
+17/11/23 05:59:41.461 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:41.461 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:41.461 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/buildCpp?path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp&_=1511416757246
+17/11/23 05:59:41.463 [pid:199] - debug: [HTTP GET PARAMS] path=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/main.cpp
+17/11/23 05:59:41.464 [pid:199] - debug: [HTTP GET PARAMS] inputData=%s
+17/11/23 05:59:44.038 [pid:199] - debug: [STATUS 200] 1
+2
+3
+17/11/23 05:59:44.042 [pid:199] - debug: [runtime] 2581ms
+17/11/23 05:59:44.044 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:44.045 [pid:199] - debug: 
+17/11/23 05:59:51.640 [pid:199] - debug: ------------ client connection ------------
+17/11/23 05:59:51.641 [pid:199] - debug: [client] 10.1.20.243, 10.1.21.16 / OS X / Chrome (62.0.3202.94) / Apple Mac
+17/11/23 05:59:51.641 [pid:199] - debug: [http GET] http://jobinterview.run.goorm.io/fileManager/read?file=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/maincpp&_=1511416757247
+17/11/23 05:59:51.643 [pid:199] - debug: [HTTP GET PARAMS] file=/workspace/Assignment/server/_files/upload/bbb/backup/backup/src/maincpp
+17/11/23 05:59:51.644 [pid:199] - debug: [STATUS 200] ELF          >    @@     @       x          @ 8 	 @         @       @ @     @ @     �      �                   8      8@     8@                                          @       @                                     `     `     0      8                    (      (`     (`     �      �                   T      T@     T@     D       D              P�td   �      �@     �@     4       4              Q�td                                                  R�td         `     `     �      �             /lib64/ld-linux-x86-64.so.2          GNU                       GNU Ũ�C:w����"��C                                                                                                 $                        libc.so.6 printf __libc_start_main __gmon_start__ GLIBC_2.2.5                    ui	   3       �`                   `                    `                   (`                   H��H�  H��t�;   H���      �5  �%  @ �%  h    ������%�  h   ������%�  h   �����1�I��^H��H���PTI���@ H��P@ H��-@ ������fD  �G` UH-@` H��H��w]ø    H��t�]�@` ���    �@` UH-@` H��H��H��H��?H�H��u]ú    H��t�]H�ƿ@` ���    �=Y   uUH���~���]�F  ��@ H�=	   t�    H��tU� ` H����]�{��� �s���UH����@ �    ������    ]�f�     AWA��AVI��AUI��ATL�%�  UH�-�  SL)�1�H��H���]���H��t�     L��L��D��A��H��H9�u�H��[]A\A]A^A_�ff.�     ��  H��H���     1
+2
+3   ;0      $���|   d���L   Q����   t����   ����         zR x�      ���*                  zR x�  $      ����@    FJw� ?;*3$"       D   ����    A�CU   D   d   ����e    B�E�E �E(�H0�H8�M@l8A0A(B BBB    �   ����                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            @     �@                                  �@            �@            `                          `                   ���o    �@            @            �@     
+       ?                                            `            H                            �@            �@                   	              ���o    `@     ���o           ���o    X@                                                                                                             (`                     @     &@     6@                     GCC: (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4  .symtab .strtab .shstrtab .interp .note.ABI-tag .note.gnu.build-id .gnu.hash .dynsym .dynstr .gnu.version .gnu.version_r .rela.dyn .rela.plt .init .text .fini .rodata .eh_frame_hdr .eh_frame .init_array .fini_array .jcr .dynamic .got .got.plt .data .bss .comment                                                                                   8@     8                                    #             T@     T                                     1             t@     t      $                              D   ���o       �@     �                                   N             �@     �      `                           V             @           ?                              ^   ���o       X@     X                                  k   ���o       `@     `                                   z             �@     �                                  �             �@     �      H                           �             �@     �                                    �              @            @                             �             @@     @      �                             �             �@     �      	                              �             �@     �      
+                              �             �@     �      4                              �             @           �                              �             `                                         �             `                                         �              `                                          �             (`     (      �                           �             �`     �                                   �              `            0                             �             0`     0                                    �             @`     @                                    �      0               @      +                                                   k                                                         �               -                 	                            :                                                           8@                   T@                   t@                   �@                   �@                   @                   X@                   `@                  	 �@                  
+ �@                   �@                    @                   @@                   �@                   �@                   �@                   @                   `                   `                    `                   (`                   �`                    `                   0`                   @`                                       ��                      `                  p@             .     �@             A     �@             W     @`            f     `             �      @             �     `             �    ��                    ��                �      @             �      `                  ��                �      `             �     (`             �      `                  `                 �@            .                      J     0`             U    @`             \    �@             b                     v                     �    0`             �                      �   8`             �    �@            �    P@     e       �    H`             �    @@             �    @`             �    -@            �                         @`                                   4    �@              crtstuff.c __JCR_LIST__ deregister_tm_clones register_tm_clones __do_global_dtors_aux completed.6973 __do_global_dtors_aux_fini_array_entry frame_dummy __frame_dummy_init_array_entry main.cpp __FRAME_END__ __JCR_END__ __init_array_end _DYNAMIC __init_array_start _GLOBAL_OFFSET_TABLE_ __libc_csu_fini _ITM_deregisterTMCloneTable data_start _edata _fini printf@@GLIBC_2.2.5 __libc_start_main@@GLIBC_2.2.5 __data_start __gmon_start__ __dso_handle _IO_stdin_used __libc_csu_init _end _start __bss_start main _Jv_RegisterClasses __TMC_END__ _ITM_registerTMCloneTable _init 
+17/11/23 05:59:51.652 [pid:199] - debug: [runtime] 11ms
+17/11/23 05:59:51.652 [pid:199] - debug: ---------- client disconnection ------------
+17/11/23 05:59:51.652 [pid:199] - debug: 

@@ -1,0 +1,1224 @@
+17/11/09 09:40:01.488 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 09:40:01.489 [pid:1743] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 09:40:01.490 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/socket.html
+17/11/09 09:40:01.581 [pid:1743] - debug: [runtime] 24ms
+17/11/09 09:40:01.582 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 09:40:01.584 [pid:1743] - debug: 
+17/11/09 09:41:30.743 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 09:41:30.744 [pid:1743] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 09:41:30.745 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/socket.html
+17/11/09 09:41:30.748 [pid:1743] - debug: [runtime] 4ms
+17/11/09 09:41:30.748 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 09:41:30.749 [pid:1743] - debug: 
+17/11/09 09:42:16.235 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 09:42:16.235 [pid:1743] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 09:42:16.236 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/socket.html
+17/11/09 09:42:16.237 [pid:1743] - debug: [runtime] 2ms
+17/11/09 09:42:16.238 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 09:42:16.239 [pid:1743] - debug: 
+17/11/09 10:01:37.493 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:01:37.493 [pid:1743] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:01:37.494 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:01:37.583 [pid:1743] - debug: [runtime] 90ms
+17/11/09 10:01:37.583 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:01:37.583 [pid:1743] - debug: 
+17/11/09 10:01:37.686 [pid:1743] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 10:01:37.828 [pid:1743] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 10:05:15.262 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:05:15.262 [pid:1743] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:05:15.263 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:05:15.264 [pid:1743] - debug: [runtime] 2ms
+17/11/09 10:05:15.264 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:05:15.265 [pid:1743] - debug: 
+17/11/09 10:06:41.407 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:06:41.481 [pid:1743] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:06:41.482 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:06:41.483 [pid:1743] - debug: [runtime] 77ms
+17/11/09 10:06:41.483 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:06:41.484 [pid:1743] - debug: 
+17/11/09 10:07:09.362 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:07:09.362 [pid:1743] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:07:09.363 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:07:09.365 [pid:1743] - debug: [runtime] 3ms
+17/11/09 10:07:09.382 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:07:09.382 [pid:1743] - debug: 
+17/11/09 10:08:24.582 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:08:24.582 [pid:1743] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:08:24.583 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:08:24.584 [pid:1743] - debug: [runtime] 2ms
+17/11/09 10:08:24.584 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:08:24.584 [pid:1743] - debug: 
+17/11/09 10:08:53.919 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:08:53.919 [pid:1743] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:08:53.920 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:08:53.982 [pid:1743] - debug: [runtime] 62ms
+17/11/09 10:08:53.982 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:08:53.982 [pid:1743] - debug: 
+17/11/09 10:09:49.223 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:09:49.223 [pid:1743] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:09:49.281 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:09:49.283 [pid:1743] - debug: [runtime] 60ms
+17/11/09 10:09:49.284 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:09:49.284 [pid:1743] - debug: 
+17/11/09 10:09:58.516 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:09:58.517 [pid:1743] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:09:58.517 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:09:58.587 [pid:1743] - debug: [runtime] 66ms
+17/11/09 10:09:58.590 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:09:58.590 [pid:1743] - debug: 
+17/11/09 10:10:46.025 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:10:46.026 [pid:1743] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:10:46.026 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:10:46.031 [pid:1743] - debug: [runtime] 6ms
+17/11/09 10:10:46.031 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:10:46.032 [pid:1743] - debug: 
+17/11/09 10:10:47.832 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:10:47.832 [pid:1743] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:10:47.832 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:10:47.833 [pid:1743] - debug: [runtime] 1ms
+17/11/09 10:10:47.834 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:10:47.834 [pid:1743] - debug: 
+17/11/09 10:10:52.452 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:10:52.452 [pid:1743] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:10:52.453 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:10:52.455 [pid:1743] - debug: [runtime] 3ms
+17/11/09 10:10:52.455 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:10:52.456 [pid:1743] - debug: 
+17/11/09 10:11:18.323 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:11:18.324 [pid:1743] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:11:18.324 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:11:18.325 [pid:1743] - debug: [runtime] 1ms
+17/11/09 10:11:18.325 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:11:18.325 [pid:1743] - debug: 
+17/11/09 10:11:19.955 [pid:1743] - debug: ------------ client connection ------------
+17/11/09 10:11:19.955 [pid:1743] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 10:11:19.956 [pid:1743] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 10:11:19.982 [pid:1743] - debug: [runtime] 27ms
+17/11/09 10:11:19.982 [pid:1743] - debug: ---------- client disconnection ------------
+17/11/09 10:11:19.982 [pid:1743] - debug: 
+17/11/09 11:00:27.861 [pid:207] - debug: ------------ client connection ------------
+17/11/09 11:00:27.863 [pid:207] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 11:00:27.864 [pid:207] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 11:00:27.883 [pid:207] - debug: [runtime] 26ms
+17/11/09 11:00:27.883 [pid:207] - debug: ---------- client disconnection ------------
+17/11/09 11:00:27.884 [pid:207] - debug: 
+17/11/09 11:00:27.970 [pid:207] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 11:37:44.066 [pid:231] - debug: ------------ client connection ------------
+17/11/09 11:37:44.067 [pid:231] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 11:37:44.068 [pid:231] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 11:37:44.085 [pid:231] - debug: [runtime] 24ms
+17/11/09 11:37:44.085 [pid:231] - debug: ---------- client disconnection ------------
+17/11/09 11:37:44.086 [pid:231] - debug: 
+17/11/09 11:37:44.181 [pid:231] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 11:38:18.393 [pid:231] - debug: ------------ client connection ------------
+17/11/09 11:38:18.393 [pid:231] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 11:38:18.394 [pid:231] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 11:38:18.431 [pid:231] - debug: [HTTP POST PARAMS] user_name=%s
+17/11/09 11:38:18.433 [pid:231] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 11:38:18.434 [pid:231] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 11:38:18.434 [pid:231] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 11:38:18.434 [pid:231] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 11:38:18.435 [pid:231] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 11:38:18.459 [pid:231] - debug: [HTTP POST PARAMS] tel=01066070000
+17/11/09 11:38:18.461 [pid:231] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 11:38:18.462 [pid:231] - error:  ReferenceError: name is not defined
+    at /workspace/Assignment/server/controllers/member.js:36:11
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at join (/workspace/Assignment/server/controllers/member.js:24:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/09 11:38:18.465 [pid:231] - debug: [runtime] 72ms
+17/11/09 11:38:18.465 [pid:231] - debug: ---------- client disconnection ------------
+17/11/09 11:38:18.465 [pid:231] - debug: 
+17/11/09 11:38:24.166 [pid:231] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 11:58:18.610 [pid:504] - debug: ------------ client connection ------------
+17/11/09 11:58:18.612 [pid:504] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 11:58:18.613 [pid:504] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 11:58:18.671 [pid:504] - debug: [runtime] 66ms
+17/11/09 11:58:18.672 [pid:504] - debug: ---------- client disconnection ------------
+17/11/09 11:58:18.672 [pid:504] - debug: 
+17/11/09 11:58:18.765 [pid:504] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 11:59:12.332 [pid:504] - debug: ------------ client connection ------------
+17/11/09 11:59:12.332 [pid:504] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 11:59:12.333 [pid:504] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 11:59:12.340 [pid:504] - debug: [runtime] 8ms
+17/11/09 11:59:12.340 [pid:504] - debug: ---------- client disconnection ------------
+17/11/09 11:59:12.341 [pid:504] - debug: 
+17/11/09 11:59:46.855 [pid:504] - debug: ------------ client connection ------------
+17/11/09 11:59:46.855 [pid:504] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 11:59:46.856 [pid:504] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 11:59:46.911 [pid:504] - debug: [HTTP POST PARAMS] user_name=%s
+17/11/09 11:59:46.913 [pid:504] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 11:59:46.914 [pid:504] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 11:59:46.914 [pid:504] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 11:59:46.914 [pid:504] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 11:59:46.963 [pid:504] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 11:59:46.964 [pid:504] - debug: [HTTP POST PARAMS] tel=01066070000
+17/11/09 11:59:46.967 [pid:504] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 11:59:46.971 [pid:504] - error:  ReferenceError: name is not defined
+    at /workspace/Assignment/server/controllers/member.js:36:11
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at join (/workspace/Assignment/server/controllers/member.js:24:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/09 11:59:46.975 [pid:504] - debug: [runtime] 121ms
+17/11/09 11:59:46.976 [pid:504] - debug: ---------- client disconnection ------------
+17/11/09 11:59:46.976 [pid:504] - debug: 
+17/11/09 12:02:47.493 [pid:504] - debug: ------------ client connection ------------
+17/11/09 12:02:47.494 [pid:504] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:02:47.494 [pid:504] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:02:47.560 [pid:504] - debug: [runtime] 67ms
+17/11/09 12:02:47.560 [pid:504] - debug: ---------- client disconnection ------------
+17/11/09 12:02:47.561 [pid:504] - debug: 
+17/11/09 12:03:23.704 [pid:504] - debug: ------------ client connection ------------
+17/11/09 12:03:23.704 [pid:504] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:03:23.704 [pid:504] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 12:03:23.706 [pid:504] - debug: [HTTP POST PARAMS] user_name=%s
+17/11/09 12:03:23.706 [pid:504] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 12:03:23.708 [pid:504] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 12:03:23.709 [pid:504] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 12:03:23.709 [pid:504] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 12:03:23.709 [pid:504] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 12:03:23.709 [pid:504] - debug: [HTTP POST PARAMS] tel=01066070000
+17/11/09 12:03:23.710 [pid:504] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 12:03:23.711 [pid:504] - error:  ReferenceError: name is not defined
+    at /workspace/Assignment/server/controllers/member.js:36:11
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at join (/workspace/Assignment/server/controllers/member.js:24:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/09 12:03:23.712 [pid:504] - debug: [runtime] 8ms
+17/11/09 12:03:23.712 [pid:504] - debug: ---------- client disconnection ------------
+17/11/09 12:03:23.712 [pid:504] - debug: 
+17/11/09 12:11:48.459 [pid:516] - debug: ------------ client connection ------------
+17/11/09 12:11:48.461 [pid:516] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:11:48.462 [pid:516] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:11:48.475 [pid:516] - debug: [runtime] 37ms
+17/11/09 12:11:48.475 [pid:516] - debug: ---------- client disconnection ------------
+17/11/09 12:11:48.476 [pid:516] - debug: 
+17/11/09 12:12:01.922 [pid:516] - debug: ------------ client connection ------------
+17/11/09 12:12:01.923 [pid:516] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:12:01.924 [pid:516] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:12:01.927 [pid:516] - debug: [runtime] 5ms
+17/11/09 12:12:01.927 [pid:516] - debug: ---------- client disconnection ------------
+17/11/09 12:12:01.928 [pid:516] - debug: 
+17/11/09 12:12:26.023 [pid:516] - debug: ------------ client connection ------------
+17/11/09 12:12:26.024 [pid:516] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:12:26.024 [pid:516] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 12:12:26.162 [pid:516] - debug: [HTTP POST PARAMS] user_name=%s
+17/11/09 12:12:26.167 [pid:516] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 12:12:26.168 [pid:516] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 12:12:26.168 [pid:516] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 12:12:26.169 [pid:516] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 12:12:26.173 [pid:516] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 12:12:26.173 [pid:516] - debug: [HTTP POST PARAMS] tel=01066070000
+17/11/09 12:12:26.178 [pid:516] - error: [STATUS 400-Bad Request] 이름을 입력하세요.
+17/11/09 12:12:26.189 [pid:516] - debug: [runtime] 165ms
+17/11/09 12:12:26.190 [pid:516] - debug: ---------- client disconnection ------------
+17/11/09 12:12:26.190 [pid:516] - debug: 
+17/11/09 12:16:00.494 [pid:516] - debug: ------------ client connection ------------
+17/11/09 12:16:00.495 [pid:516] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:16:00.495 [pid:516] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:16:00.501 [pid:516] - debug: [runtime] 8ms
+17/11/09 12:16:00.501 [pid:516] - debug: ---------- client disconnection ------------
+17/11/09 12:16:00.502 [pid:516] - debug: 
+17/11/09 12:16:43.748 [pid:516] - debug: ------------ client connection ------------
+17/11/09 12:16:43.760 [pid:516] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:16:43.761 [pid:516] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 12:16:43.765 [pid:516] - debug: [HTTP POST PARAMS] user_name=장현일
+17/11/09 12:16:43.766 [pid:516] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 12:16:43.766 [pid:516] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 12:16:43.767 [pid:516] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 12:16:43.768 [pid:516] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 12:16:43.771 [pid:516] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 12:16:43.779 [pid:516] - debug: [HTTP POST PARAMS] tel=01066070000
+17/11/09 12:16:43.792 [pid:516] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 12:16:43.808 [pid:516] - error:  ReferenceError: name is not defined
+    at async.waterfall.member.user_name (/workspace/Assignment/server/controllers/member.js:52:26)
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at join (/workspace/Assignment/server/controllers/member.js:31:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/09 12:16:43.822 [pid:516] - debug: [runtime] 73ms
+17/11/09 12:16:43.826 [pid:516] - debug: ---------- client disconnection ------------
+17/11/09 12:16:43.831 [pid:516] - debug: 
+17/11/09 12:17:32.305 [pid:528] - debug: ------------ client connection ------------
+17/11/09 12:17:32.307 [pid:528] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:17:32.308 [pid:528] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:17:32.362 [pid:528] - debug: [runtime] 61ms
+17/11/09 12:17:32.362 [pid:528] - debug: ---------- client disconnection ------------
+17/11/09 12:17:32.363 [pid:528] - debug: 
+17/11/09 12:18:03.757 [pid:528] - debug: ------------ client connection ------------
+17/11/09 12:18:03.758 [pid:528] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:18:03.758 [pid:528] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 12:18:03.794 [pid:528] - debug: [HTTP POST PARAMS] user_name=장현일
+17/11/09 12:18:03.795 [pid:528] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 12:18:03.795 [pid:528] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 12:18:03.796 [pid:528] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 12:18:03.796 [pid:528] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 12:18:03.797 [pid:528] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 12:18:03.797 [pid:528] - debug: [HTTP POST PARAMS] tel=01066070000
+17/11/09 12:18:03.797 [pid:528] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 12:18:03.863 [pid:528] - error:  ReferenceError: name is not defined
+    at async.waterfall.member.user_name (/workspace/Assignment/server/controllers/member.js:52:26)
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at join (/workspace/Assignment/server/controllers/member.js:31:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/09 12:18:03.870 [pid:528] - debug: [runtime] 113ms
+17/11/09 12:18:03.870 [pid:528] - debug: ---------- client disconnection ------------
+17/11/09 12:18:03.875 [pid:528] - debug: 
+17/11/09 12:18:57.977 [pid:540] - debug: ------------ client connection ------------
+17/11/09 12:18:57.981 [pid:540] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:18:57.983 [pid:540] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:18:57.995 [pid:540] - debug: [runtime] 27ms
+17/11/09 12:18:57.996 [pid:540] - debug: ---------- client disconnection ------------
+17/11/09 12:18:57.996 [pid:540] - debug: 
+17/11/09 12:19:03.953 [pid:540] - debug: ------------ client connection ------------
+17/11/09 12:19:03.954 [pid:540] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:19:03.955 [pid:540] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:19:03.957 [pid:540] - debug: [runtime] 3ms
+17/11/09 12:19:03.958 [pid:540] - debug: ---------- client disconnection ------------
+17/11/09 12:19:03.958 [pid:540] - debug: 
+17/11/09 12:19:39.653 [pid:540] - debug: ------------ client connection ------------
+17/11/09 12:19:39.653 [pid:540] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:19:39.654 [pid:540] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 12:19:39.695 [pid:540] - debug: [HTTP POST PARAMS] user_name=장현일
+17/11/09 12:19:39.696 [pid:540] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 12:19:39.696 [pid:540] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 12:19:39.759 [pid:540] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 12:19:39.759 [pid:540] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 12:19:39.760 [pid:540] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 12:19:39.760 [pid:540] - debug: [HTTP POST PARAMS] tel=01066070000
+17/11/09 12:19:39.761 [pid:540] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 12:19:39.763 [pid:540] - error:  ReferenceError: name is not defined
+    at async.waterfall.member.user_name (/workspace/Assignment/server/controllers/member.js:52:26)
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at join (/workspace/Assignment/server/controllers/member.js:31:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/09 12:19:39.766 [pid:540] - debug: [runtime] 114ms
+17/11/09 12:19:39.766 [pid:540] - debug: ---------- client disconnection ------------
+17/11/09 12:19:39.767 [pid:540] - debug: 
+17/11/09 12:20:45.542 [pid:552] - debug: ------------ client connection ------------
+17/11/09 12:20:45.545 [pid:552] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:20:45.546 [pid:552] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:20:45.614 [pid:552] - debug: [runtime] 90ms
+17/11/09 12:20:45.614 [pid:552] - debug: ---------- client disconnection ------------
+17/11/09 12:20:45.615 [pid:552] - debug: 
+17/11/09 12:21:06.939 [pid:552] - debug: ------------ client connection ------------
+17/11/09 12:21:06.940 [pid:552] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:21:06.941 [pid:552] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 12:21:06.979 [pid:552] - debug: [HTTP POST PARAMS] user_name=장현일
+17/11/09 12:21:06.980 [pid:552] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 12:21:06.980 [pid:552] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 12:21:06.981 [pid:552] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 12:21:06.982 [pid:552] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 12:21:06.982 [pid:552] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 12:21:06.982 [pid:552] - debug: [HTTP POST PARAMS] tel=01066071078
+17/11/09 12:21:06.984 [pid:552] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 12:21:06.992 [pid:552] - error:  ReferenceError: user_pw_re is not defined
+    at async.waterfall.member.user_name (/workspace/Assignment/server/controllers/member.js:67:36)
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at join (/workspace/Assignment/server/controllers/member.js:31:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+17/11/09 12:21:06.996 [pid:552] - debug: [runtime] 56ms
+17/11/09 12:21:06.997 [pid:552] - debug: ---------- client disconnection ------------
+17/11/09 12:21:07.001 [pid:552] - debug: 
+17/11/09 12:23:02.633 [pid:564] - debug: ------------ client connection ------------
+17/11/09 12:23:02.636 [pid:564] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:23:02.638 [pid:564] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:23:02.676 [pid:564] - debug: [runtime] 52ms
+17/11/09 12:23:02.677 [pid:564] - debug: ---------- client disconnection ------------
+17/11/09 12:23:02.677 [pid:564] - debug: 
+17/11/09 12:23:20.991 [pid:564] - debug: ------------ client connection ------------
+17/11/09 12:23:20.992 [pid:564] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:23:20.993 [pid:564] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 12:23:21.159 [pid:564] - debug: [HTTP POST PARAMS] user_name=장현일
+17/11/09 12:23:21.160 [pid:564] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 12:23:21.161 [pid:564] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 12:23:21.161 [pid:564] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 12:23:21.162 [pid:564] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 12:23:21.162 [pid:564] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 12:23:21.163 [pid:564] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 12:23:21.163 [pid:564] - debug: [HTTP POST PARAMS] tel=01066070000
+17/11/09 12:23:21.172 [pid:564] - debug: [STATUS 200] 1
+17/11/09 12:23:21.178 [pid:564] - debug: [runtime] 186ms
+17/11/09 12:23:21.178 [pid:564] - debug: ---------- client disconnection ------------
+17/11/09 12:23:21.180 [pid:564] - debug: 
+17/11/09 12:23:23.672 [pid:564] - debug: ------------ client connection ------------
+17/11/09 12:23:23.673 [pid:564] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:23:23.673 [pid:564] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 12:23:23.703 [pid:564] - debug: [runtime] 31ms
+17/11/09 12:23:23.703 [pid:564] - debug: ---------- client disconnection ------------
+17/11/09 12:23:23.703 [pid:564] - debug: 
+17/11/09 12:41:37.907 [pid:612] - debug: ------------ client connection ------------
+17/11/09 12:41:37.969 [pid:612] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:41:37.970 [pid:612] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:41:38.003 [pid:612] - debug: [runtime] 99ms
+17/11/09 12:41:38.003 [pid:612] - debug: ---------- client disconnection ------------
+17/11/09 12:41:38.004 [pid:612] - debug: 
+17/11/09 12:42:25.876 [pid:612] - debug: ------------ client connection ------------
+17/11/09 12:42:25.879 [pid:612] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:42:25.879 [pid:612] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:42:25.881 [pid:612] - debug: [runtime] 5ms
+17/11/09 12:42:25.883 [pid:612] - debug: ---------- client disconnection ------------
+17/11/09 12:42:25.883 [pid:612] - debug: 
+17/11/09 12:45:44.027 [pid:612] - debug: ------------ client connection ------------
+17/11/09 12:45:44.027 [pid:612] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:45:44.028 [pid:612] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:45:44.032 [pid:612] - debug: [runtime] 5ms
+17/11/09 12:45:44.032 [pid:612] - debug: ---------- client disconnection ------------
+17/11/09 12:45:44.032 [pid:612] - debug: 
+17/11/09 12:48:15.851 [pid:612] - debug: ------------ client connection ------------
+17/11/09 12:48:15.852 [pid:612] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:48:15.853 [pid:612] - debug: [http POST] http://jobinterview.run.goorm.io/id_unique_check
+17/11/09 12:48:15.870 [pid:612] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 12:48:15.873 [pid:612] - debug: [runtime] 21ms
+17/11/09 12:48:15.873 [pid:612] - debug: ---------- client disconnection ------------
+17/11/09 12:48:15.873 [pid:612] - debug: 
+17/11/09 12:49:00.515 [pid:612] - debug: ------------ client connection ------------
+17/11/09 12:49:00.516 [pid:612] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:49:00.516 [pid:612] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 12:49:00.519 [pid:612] - debug: [HTTP POST PARAMS] user_id=%s
+17/11/09 12:49:00.560 [pid:612] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 12:49:00.562 [pid:612] - error:  ReferenceError: dbcon is not defined
+    at /workspace/Assignment/server/controllers/member.js:48:21
+    at /workspace/Assignment/server/node_modules/async/dist/async.js:473:16
+    at next (/workspace/Assignment/server/node_modules/async/dist/async.js:5315:29)
+    at /workspace/Assignment/server/node_modules/async/dist/async.js:958:16
+    at async.waterfall.Book.find.user_id (/workspace/Assignment/server/controllers/member.js:33:44)
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at id_unique_check (/workspace/Assignment/server/controllers/member.js:27:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+17/11/09 12:49:00.564 [pid:612] - debug: [runtime] 50ms
+17/11/09 12:49:00.566 [pid:612] - debug: ---------- client disconnection ------------
+17/11/09 12:49:00.567 [pid:612] - debug: 
+17/11/09 12:49:37.083 [pid:624] - debug: ------------ client connection ------------
+17/11/09 12:49:37.086 [pid:624] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:49:37.087 [pid:624] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 12:49:37.176 [pid:624] - debug: [runtime] 101ms
+17/11/09 12:49:37.176 [pid:624] - debug: ---------- client disconnection ------------
+17/11/09 12:49:37.177 [pid:624] - debug: 
+17/11/09 12:49:49.127 [pid:624] - debug: ------------ client connection ------------
+17/11/09 12:49:49.128 [pid:624] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:49:49.129 [pid:624] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 12:49:49.146 [pid:624] - debug: [HTTP POST PARAMS] user_id=%s
+17/11/09 12:49:49.147 [pid:624] - error: [STATUS 400-Bad Request] 아이디를 입력하세요.
+17/11/09 12:49:49.151 [pid:624] - debug: [runtime] 24ms
+17/11/09 12:49:49.151 [pid:624] - debug: ---------- client disconnection ------------
+17/11/09 12:49:49.152 [pid:624] - debug: 
+17/11/09 12:50:02.447 [pid:624] - debug: ------------ client connection ------------
+17/11/09 12:50:02.448 [pid:624] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:50:02.448 [pid:624] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 12:50:02.450 [pid:624] - debug: [HTTP POST PARAMS] user_id=hello
+17/11/09 12:50:02.450 [pid:624] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 12:50:02.452 [pid:624] - error:  ReferenceError: Book is not defined
+    at /workspace/Assignment/server/controllers/member.js:39:21
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at next (/workspace/Assignment/server/node_modules/async/dist/async.js:5317:9)
+    at /workspace/Assignment/server/node_modules/async/dist/async.js:958:16
+    at async.waterfall.Book.find.user_id (/workspace/Assignment/server/controllers/member.js:34:21)
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at id_unique_check (/workspace/Assignment/server/controllers/member.js:27:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+17/11/09 12:50:02.454 [pid:624] - debug: [runtime] 7ms
+17/11/09 12:50:02.455 [pid:624] - debug: ---------- client disconnection ------------
+17/11/09 12:50:02.455 [pid:624] - debug: 
+17/11/09 12:50:59.473 [pid:636] - debug: ------------ client connection ------------
+17/11/09 12:50:59.476 [pid:636] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:50:59.477 [pid:636] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 12:50:59.598 [pid:636] - debug: [HTTP POST PARAMS] user_id=hello
+17/11/09 12:50:59.600 [pid:636] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 12:50:59.604 [pid:636] - error:  ReferenceError: member is not defined
+    at /workspace/Assignment/server/controllers/member.js:39:21
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at next (/workspace/Assignment/server/node_modules/async/dist/async.js:5317:9)
+    at /workspace/Assignment/server/node_modules/async/dist/async.js:958:16
+    at async.waterfall.member.find.user_id (/workspace/Assignment/server/controllers/member.js:34:21)
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at id_unique_check (/workspace/Assignment/server/controllers/member.js:27:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+17/11/09 12:50:59.676 [pid:636] - debug: [runtime] 211ms
+17/11/09 12:50:59.677 [pid:636] - debug: ---------- client disconnection ------------
+17/11/09 12:50:59.678 [pid:636] - debug: 
+17/11/09 12:51:29.788 [pid:648] - debug: ------------ client connection ------------
+17/11/09 12:51:29.797 [pid:648] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:51:29.799 [pid:648] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 12:51:29.890 [pid:648] - debug: [HTTP POST PARAMS] user_id=hello
+17/11/09 12:57:57.345 [pid:685] - debug: ------------ client connection ------------
+17/11/09 12:57:57.347 [pid:685] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:57:57.348 [pid:685] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 12:57:57.369 [pid:685] - debug: [HTTP POST PARAMS] user_id=hello
+17/11/09 12:59:49.975 [pid:697] - debug: ------------ client connection ------------
+17/11/09 12:59:49.977 [pid:697] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 12:59:49.978 [pid:697] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 12:59:50.069 [pid:697] - debug: [HTTP POST PARAMS] user_id=hello
+17/11/09 12:59:50.081 [pid:697] - debug: [STATUS 200] OK
+17/11/09 12:59:50.159 [pid:697] - debug: [runtime] 116ms
+17/11/09 12:59:50.159 [pid:697] - debug: ---------- client disconnection ------------
+17/11/09 12:59:50.160 [pid:697] - debug: 
+17/11/09 13:07:14.931 [pid:721] - debug: ------------ client connection ------------
+17/11/09 13:07:14.933 [pid:721] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:07:14.934 [pid:721] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 13:07:14.959 [pid:721] - debug: [runtime] 33ms
+17/11/09 13:07:14.960 [pid:721] - debug: ---------- client disconnection ------------
+17/11/09 13:07:14.960 [pid:721] - debug: 
+17/11/09 13:07:20.325 [pid:721] - debug: ------------ client connection ------------
+17/11/09 13:07:20.395 [pid:721] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:07:20.396 [pid:721] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 13:07:20.413 [pid:721] - debug: [HTTP POST PARAMS] user_id=%s
+17/11/09 13:07:20.414 [pid:721] - error: [STATUS 400-Bad Request] 아이디를 입력하세요.
+17/11/09 13:07:20.417 [pid:721] - debug: [runtime] 92ms
+17/11/09 13:07:20.418 [pid:721] - debug: ---------- client disconnection ------------
+17/11/09 13:07:20.418 [pid:721] - debug: 
+17/11/09 13:10:32.791 [pid:721] - debug: ------------ client connection ------------
+17/11/09 13:10:32.792 [pid:721] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:10:32.792 [pid:721] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 13:10:32.795 [pid:721] - debug: [runtime] 3ms
+17/11/09 13:10:32.796 [pid:721] - debug: ---------- client disconnection ------------
+17/11/09 13:10:32.797 [pid:721] - debug: 
+17/11/09 13:11:17.320 [pid:733] - debug: ------------ client connection ------------
+17/11/09 13:11:17.322 [pid:733] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:11:17.323 [pid:733] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 13:11:17.380 [pid:733] - debug: [HTTP POST PARAMS] user_id=%s
+17/11/09 13:11:17.381 [pid:733] - error: [STATUS 400-Bad Request] 아이디를 입력하세요.
+17/11/09 13:11:17.387 [pid:733] - debug: [runtime] 72ms
+17/11/09 13:11:17.387 [pid:733] - debug: ---------- client disconnection ------------
+17/11/09 13:11:17.388 [pid:733] - debug: 
+17/11/09 13:11:29.041 [pid:733] - debug: ------------ client connection ------------
+17/11/09 13:11:29.042 [pid:733] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:11:29.042 [pid:733] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 13:11:29.064 [pid:733] - debug: [runtime] 24ms
+17/11/09 13:11:29.065 [pid:733] - debug: ---------- client disconnection ------------
+17/11/09 13:11:29.065 [pid:733] - debug: 
+17/11/09 13:11:31.625 [pid:733] - debug: ------------ client connection ------------
+17/11/09 13:11:31.625 [pid:733] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:11:31.626 [pid:733] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 13:11:31.628 [pid:733] - debug: [HTTP POST PARAMS] user_id=%s
+17/11/09 13:11:31.629 [pid:733] - error: [STATUS 400-Bad Request] 아이디를 입력하세요.
+17/11/09 13:11:31.630 [pid:733] - debug: [runtime] 5ms
+17/11/09 13:11:31.631 [pid:733] - debug: ---------- client disconnection ------------
+17/11/09 13:11:31.631 [pid:733] - debug: 
+17/11/09 13:11:46.808 [pid:733] - debug: ------------ client connection ------------
+17/11/09 13:11:46.809 [pid:733] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:11:46.809 [pid:733] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 13:11:46.811 [pid:733] - debug: [HTTP POST PARAMS] user_id=hello
+17/11/09 13:11:46.822 [pid:733] - debug: [STATUS 200] OK
+17/11/09 13:11:46.824 [pid:733] - debug: [runtime] 17ms
+17/11/09 13:11:46.824 [pid:733] - debug: ---------- client disconnection ------------
+17/11/09 13:11:46.825 [pid:733] - debug: 
+17/11/09 13:11:52.151 [pid:733] - debug: ------------ client connection ------------
+17/11/09 13:11:52.152 [pid:733] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:11:52.152 [pid:733] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 13:11:52.154 [pid:733] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 13:11:52.162 [pid:733] - debug: [runtime] 14ms
+17/11/09 13:11:52.162 [pid:733] - debug: ---------- client disconnection ------------
+17/11/09 13:11:52.163 [pid:733] - debug: 
+17/11/09 13:12:59.242 [pid:745] - debug: ------------ client connection ------------
+17/11/09 13:12:59.244 [pid:745] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:12:59.244 [pid:745] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 13:12:59.258 [pid:745] - debug: [runtime] 20ms
+17/11/09 13:12:59.258 [pid:745] - debug: ---------- client disconnection ------------
+17/11/09 13:12:59.258 [pid:745] - debug: 
+17/11/09 13:13:07.874 [pid:745] - debug: ------------ client connection ------------
+17/11/09 13:13:07.874 [pid:745] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:13:07.875 [pid:745] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 13:13:07.892 [pid:745] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 13:13:07.964 [pid:745] - error: [STATUS 400-Bad Request] 사용가능한 아이디입니다.
+17/11/09 13:13:07.967 [pid:745] - debug: [runtime] 93ms
+17/11/09 13:13:07.967 [pid:745] - debug: ---------- client disconnection ------------
+17/11/09 13:13:07.968 [pid:745] - debug: 
+17/11/09 13:18:19.467 [pid:757] - debug: ------------ client connection ------------
+17/11/09 13:18:19.469 [pid:757] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:18:19.470 [pid:757] - debug: [http POST] http://jobinterview.run.goorm.io/member/email_unique_check
+17/11/09 13:18:19.561 [pid:757] - debug: [HTTP POST PARAMS] email=%s
+17/11/09 13:18:19.561 [pid:757] - error: [STATUS 400-Bad Request] 이메일을 입력하세요.
+17/11/09 13:18:19.566 [pid:757] - debug: [runtime] 104ms
+17/11/09 13:18:19.567 [pid:757] - debug: ---------- client disconnection ------------
+17/11/09 13:18:19.567 [pid:757] - debug: 
+17/11/09 13:18:26.744 [pid:757] - debug: ------------ client connection ------------
+17/11/09 13:18:26.745 [pid:757] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:18:26.746 [pid:757] - debug: [http POST] http://jobinterview.run.goorm.io/member/email_unique_check
+17/11/09 13:18:26.749 [pid:757] - debug: [HTTP POST PARAMS] email=nyuhj
+17/11/09 13:18:26.762 [pid:757] - debug: [STATUS 200] OK
+17/11/09 13:18:26.764 [pid:757] - debug: [runtime] 21ms
+17/11/09 13:18:26.765 [pid:757] - debug: ---------- client disconnection ------------
+17/11/09 13:18:26.765 [pid:757] - debug: 
+17/11/09 13:19:31.159 [pid:769] - debug: ------------ client connection ------------
+17/11/09 13:19:31.161 [pid:769] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:19:31.162 [pid:769] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 13:19:31.175 [pid:769] - debug: [runtime] 65ms
+17/11/09 13:19:31.176 [pid:769] - debug: ---------- client disconnection ------------
+17/11/09 13:19:31.176 [pid:769] - debug: 
+17/11/09 13:19:33.298 [pid:769] - debug: ------------ client connection ------------
+17/11/09 13:19:33.299 [pid:769] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:19:33.299 [pid:769] - debug: [http POST] http://jobinterview.run.goorm.io/member/email_unique_check
+17/11/09 13:19:33.317 [pid:769] - debug: [HTTP POST PARAMS] email=dsfasdf
+17/11/09 13:19:33.318 [pid:769] - error: [STATUS 400-Bad Request] 이메일의 형식이 잘못되었습니다.
+17/11/09 13:19:33.359 [pid:769] - debug: [runtime] 24ms
+17/11/09 13:19:33.359 [pid:769] - debug: ---------- client disconnection ------------
+17/11/09 13:19:33.359 [pid:769] - debug: 
+17/11/09 13:19:39.147 [pid:769] - debug: ------------ client connection ------------
+17/11/09 13:19:39.147 [pid:769] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:19:39.148 [pid:769] - debug: [http POST] http://jobinterview.run.goorm.io/member/email_unique_check
+17/11/09 13:19:39.149 [pid:769] - debug: [HTTP POST PARAMS] email=hyunil@naver.com
+17/11/09 13:19:39.163 [pid:769] - error: [STATUS 400-Bad Request] 이미 사용중인 이메일입니다.
+17/11/09 13:19:39.164 [pid:769] - debug: [runtime] 17ms
+17/11/09 13:19:39.165 [pid:769] - debug: ---------- client disconnection ------------
+17/11/09 13:19:39.165 [pid:769] - debug: 
+17/11/09 13:19:43.961 [pid:769] - debug: ------------ client connection ------------
+17/11/09 13:19:43.962 [pid:769] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:19:43.962 [pid:769] - debug: [http POST] http://jobinterview.run.goorm.io/member/email_unique_check
+17/11/09 13:19:43.964 [pid:769] - debug: [HTTP POST PARAMS] email=hyunil5@naver.com
+17/11/09 13:19:44.060 [pid:769] - debug: [STATUS 200] OK
+17/11/09 13:19:44.061 [pid:769] - debug: [runtime] 101ms
+17/11/09 13:19:44.062 [pid:769] - debug: ---------- client disconnection ------------
+17/11/09 13:19:44.063 [pid:769] - debug: 
+17/11/09 13:19:57.438 [pid:769] - debug: ------------ client connection ------------
+17/11/09 13:19:57.438 [pid:769] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:19:57.439 [pid:769] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 13:19:57.442 [pid:769] - debug: [runtime] 4ms
+17/11/09 13:19:57.442 [pid:769] - debug: ---------- client disconnection ------------
+17/11/09 13:19:57.442 [pid:769] - debug: 
+17/11/09 13:56:26.398 [pid:833] - debug: ------------ client connection ------------
+17/11/09 13:56:26.400 [pid:833] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:56:26.401 [pid:833] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 13:56:26.459 [pid:833] - debug: [runtime] 21ms
+17/11/09 13:56:26.459 [pid:833] - debug: ---------- client disconnection ------------
+17/11/09 13:56:26.459 [pid:833] - debug: 
+17/11/09 13:56:37.527 [pid:833] - debug: ------------ client connection ------------
+17/11/09 13:56:37.528 [pid:833] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:56:37.528 [pid:833] - debug: [http POST] http://jobinterview.run.goorm.io/member/id_unique_check
+17/11/09 13:56:37.558 [pid:833] - debug: [HTTP POST PARAMS] user_id=hyun
+17/11/09 13:56:37.569 [pid:833] - debug: [STATUS 200] OK
+17/11/09 13:56:37.573 [pid:833] - debug: [runtime] 45ms
+17/11/09 13:56:37.573 [pid:833] - debug: ---------- client disconnection ------------
+17/11/09 13:56:37.573 [pid:833] - debug: 
+17/11/09 13:56:47.222 [pid:833] - debug: ------------ client connection ------------
+17/11/09 13:56:47.231 [pid:833] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:56:47.232 [pid:833] - debug: [http POST] http://jobinterview.run.goorm.io/member/email_unique_check
+17/11/09 13:56:47.234 [pid:833] - debug: [HTTP POST PARAMS] email=hyyy@naver.com
+17/11/09 13:56:47.237 [pid:833] - debug: [STATUS 200] OK
+17/11/09 13:56:47.238 [pid:833] - debug: [runtime] 16ms
+17/11/09 13:56:47.238 [pid:833] - debug: ---------- client disconnection ------------
+17/11/09 13:56:47.239 [pid:833] - debug: 
+17/11/09 13:57:01.465 [pid:833] - debug: ------------ client connection ------------
+17/11/09 13:57:01.466 [pid:833] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:57:01.466 [pid:833] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 13:57:01.473 [pid:833] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 13:57:01.474 [pid:833] - error:  TypeError: Member.pre is not a function
+    at join (/workspace/Assignment/server/controllers/member.js:218:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/09 13:57:01.475 [pid:833] - debug: [runtime] 10ms
+17/11/09 13:57:01.476 [pid:833] - debug: ---------- client disconnection ------------
+17/11/09 13:57:01.476 [pid:833] - debug: 
+17/11/09 13:59:57.296 [pid:845] - debug: ------------ client connection ------------
+17/11/09 13:59:57.298 [pid:845] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 13:59:57.299 [pid:845] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 13:59:57.364 [pid:845] - debug: [runtime] 73ms
+17/11/09 13:59:57.365 [pid:845] - debug: ---------- client disconnection ------------
+17/11/09 13:59:57.365 [pid:845] - debug: 
+17/11/09 14:00:21.240 [pid:845] - debug: ------------ client connection ------------
+17/11/09 14:00:21.241 [pid:845] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:00:21.241 [pid:845] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 14:00:21.280 [pid:845] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 14:00:21.281 [pid:845] - error:  TypeError: Member.pre is not a function
+    at join (/workspace/Assignment/server/controllers/member.js:219:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/09 14:00:21.284 [pid:845] - debug: [runtime] 43ms
+17/11/09 14:00:21.285 [pid:845] - debug: ---------- client disconnection ------------
+17/11/09 14:00:21.285 [pid:845] - debug: 
+17/11/09 14:04:18.059 [pid:857] - debug: ------------ client connection ------------
+17/11/09 14:04:18.061 [pid:857] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:04:18.062 [pid:857] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 14:04:18.075 [pid:857] - debug: [runtime] 61ms
+17/11/09 14:04:18.076 [pid:857] - debug: ---------- client disconnection ------------
+17/11/09 14:04:18.076 [pid:857] - debug: 
+17/11/09 14:04:43.063 [pid:857] - debug: ------------ client connection ------------
+17/11/09 14:04:43.072 [pid:857] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:04:43.073 [pid:857] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 14:04:43.175 [pid:857] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 14:04:43.177 [pid:857] - error:  ReferenceError: memberSchema is not defined
+    at join (/workspace/Assignment/server/controllers/member.js:219:5)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/workspace/Assignment/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/workspace/Assignment/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/workspace/Assignment/server/node_modules/express/lib/router/index.js:317:13)
+    at /workspace/Assignment/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/workspace/Assignment/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/index.js:275:10)
+    at favicon (/workspace/Assignment/server/node_modules/serve-favicon/index.js:68:7)
+17/11/09 14:04:43.180 [pid:857] - debug: [runtime] 117ms
+17/11/09 14:04:43.180 [pid:857] - debug: ---------- client disconnection ------------
+17/11/09 14:04:43.181 [pid:857] - debug: 
+17/11/09 14:08:15.944 [pid:869] - debug: ------------ client connection ------------
+17/11/09 14:08:15.959 [pid:869] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:08:15.960 [pid:869] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 14:08:15.974 [pid:869] - debug: [runtime] 34ms
+17/11/09 14:08:15.974 [pid:869] - debug: ---------- client disconnection ------------
+17/11/09 14:08:15.974 [pid:869] - debug: 
+17/11/09 14:08:38.771 [pid:869] - debug: ------------ client connection ------------
+17/11/09 14:08:38.772 [pid:869] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:08:38.773 [pid:869] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 14:08:38.795 [pid:869] - debug: [HTTP POST PARAMS] user_name=김수형
+17/11/09 14:08:38.796 [pid:869] - debug: [HTTP POST PARAMS] user_id=hyun
+17/11/09 14:08:38.796 [pid:869] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 14:08:38.797 [pid:869] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 14:08:38.797 [pid:869] - debug: [HTTP POST PARAMS] email=hyun@naver.com
+17/11/09 14:08:38.797 [pid:869] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 14:08:38.797 [pid:869] - debug: [HTTP POST PARAMS] birthdate=1991-01-05
+17/11/09 14:08:38.797 [pid:869] - debug: [HTTP POST PARAMS] tel=01033003300
+17/11/09 14:10:14.260 [pid:881] - debug: ------------ client connection ------------
+17/11/09 14:10:14.261 [pid:881] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:10:14.262 [pid:881] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 14:10:14.276 [pid:881] - debug: [runtime] 22ms
+17/11/09 14:10:14.276 [pid:881] - debug: ---------- client disconnection ------------
+17/11/09 14:10:14.277 [pid:881] - debug: 
+17/11/09 14:10:38.806 [pid:881] - debug: ------------ client connection ------------
+17/11/09 14:10:38.807 [pid:881] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:10:38.808 [pid:881] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 14:10:38.875 [pid:881] - debug: [HTTP POST PARAMS] user_name=김수형
+17/11/09 14:10:38.876 [pid:881] - debug: [HTTP POST PARAMS] user_id=hyun
+17/11/09 14:10:38.877 [pid:881] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 14:10:38.878 [pid:881] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 14:10:38.878 [pid:881] - debug: [HTTP POST PARAMS] email=HAH@naver.com
+17/11/09 14:10:38.878 [pid:881] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 14:10:38.879 [pid:881] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 14:10:38.879 [pid:881] - debug: [HTTP POST PARAMS] tel=01033003300
+17/11/09 14:10:38.972 [pid:881] - debug: [STATUS 200] OK
+17/11/09 14:10:38.976 [pid:881] - debug: [runtime] 169ms
+17/11/09 14:10:38.976 [pid:881] - debug: ---------- client disconnection ------------
+17/11/09 14:10:38.978 [pid:881] - debug: 
+17/11/09 14:10:40.659 [pid:881] - debug: ------------ client connection ------------
+17/11/09 14:10:40.659 [pid:881] - debug: [client] 10.1.21.224, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:10:40.660 [pid:881] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 14:10:40.663 [pid:881] - debug: [runtime] 17ms
+17/11/09 14:10:40.663 [pid:881] - debug: ---------- client disconnection ------------
+17/11/09 14:10:40.664 [pid:881] - debug: 
+17/11/09 14:12:01.498 [pid:895] - debug: ------------ client connection ------------
+17/11/09 14:12:01.500 [pid:895] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:12:01.501 [pid:895] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 14:12:01.559 [pid:895] - debug: [runtime] 21ms
+17/11/09 14:12:01.559 [pid:895] - debug: ---------- client disconnection ------------
+17/11/09 14:12:01.560 [pid:895] - debug: 
+17/11/09 14:12:30.459 [pid:895] - debug: ------------ client connection ------------
+17/11/09 14:12:30.461 [pid:895] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:12:30.461 [pid:895] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 14:12:30.483 [pid:895] - debug: [HTTP POST PARAMS] user_name=장영철
+17/11/09 14:12:30.484 [pid:895] - debug: [HTTP POST PARAMS] user_id=yung
+17/11/09 14:12:30.559 [pid:895] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 14:12:30.560 [pid:895] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 14:12:30.560 [pid:895] - debug: [HTTP POST PARAMS] email=hyund@naver.com
+17/11/09 14:12:30.560 [pid:895] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 14:12:30.561 [pid:895] - debug: [HTTP POST PARAMS] birthdate=0199-12-03
+17/11/09 14:12:30.561 [pid:895] - debug: [HTTP POST PARAMS] tel=01055061010
+17/11/09 14:12:30.578 [pid:895] - debug: [STATUS 200] OK
+17/11/09 14:12:30.582 [pid:895] - debug: [runtime] 122ms
+17/11/09 14:12:30.582 [pid:895] - debug: ---------- client disconnection ------------
+17/11/09 14:12:30.583 [pid:895] - debug: 
+17/11/09 14:12:32.104 [pid:895] - debug: ------------ client connection ------------
+17/11/09 14:12:32.104 [pid:895] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:12:32.105 [pid:895] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 14:12:32.107 [pid:895] - debug: [runtime] 4ms
+17/11/09 14:12:32.107 [pid:895] - debug: ---------- client disconnection ------------
+17/11/09 14:12:32.107 [pid:895] - debug: 
+17/11/09 14:14:36.383 [pid:907] - debug: ------------ client connection ------------
+17/11/09 14:14:36.385 [pid:907] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:14:36.386 [pid:907] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 14:14:36.459 [pid:907] - debug: [runtime] 81ms
+17/11/09 14:14:36.460 [pid:907] - debug: ---------- client disconnection ------------
+17/11/09 14:14:36.460 [pid:907] - debug: 
+17/11/09 14:15:09.554 [pid:907] - debug: ------------ client connection ------------
+17/11/09 14:15:09.555 [pid:907] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:15:09.556 [pid:907] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 14:15:09.599 [pid:907] - debug: [HTTP POST PARAMS] user_name=최민관
+17/11/09 14:15:09.599 [pid:907] - debug: [HTTP POST PARAMS] user_id=min
+17/11/09 14:15:09.659 [pid:907] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 14:15:09.660 [pid:907] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 14:15:09.660 [pid:907] - debug: [HTTP POST PARAMS] email=min@naver.com
+17/11/09 14:15:09.661 [pid:907] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 14:15:09.661 [pid:907] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 14:15:09.661 [pid:907] - debug: [HTTP POST PARAMS] tel=01055061010
+17/11/09 14:15:09.682 [pid:907] - debug: [STATUS 200] OK
+17/11/09 14:15:09.760 [pid:907] - debug: [runtime] 206ms
+17/11/09 14:15:09.760 [pid:907] - debug: ---------- client disconnection ------------
+17/11/09 14:15:09.761 [pid:907] - debug: 
+17/11/09 14:15:11.226 [pid:907] - debug: ------------ client connection ------------
+17/11/09 14:15:11.227 [pid:907] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:15:11.228 [pid:907] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 14:15:11.231 [pid:907] - debug: [runtime] 5ms
+17/11/09 14:15:11.231 [pid:907] - debug: ---------- client disconnection ------------
+17/11/09 14:15:11.231 [pid:907] - debug: 
+17/11/09 14:17:57.337 [pid:919] - debug: ------------ client connection ------------
+17/11/09 14:17:57.339 [pid:919] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:17:57.341 [pid:919] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 14:17:57.367 [pid:919] - debug: [runtime] 35ms
+17/11/09 14:17:57.367 [pid:919] - debug: ---------- client disconnection ------------
+17/11/09 14:17:57.368 [pid:919] - debug: 
+17/11/09 14:18:38.575 [pid:919] - debug: ------------ client connection ------------
+17/11/09 14:18:38.576 [pid:919] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:18:38.577 [pid:919] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 14:18:38.680 [pid:919] - debug: [HTTP POST PARAMS] user_name=조민성
+17/11/09 14:18:38.681 [pid:919] - debug: [HTTP POST PARAMS] user_id=sung
+17/11/09 14:18:38.682 [pid:919] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 14:18:38.682 [pid:919] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 14:18:38.683 [pid:919] - debug: [HTTP POST PARAMS] email=huuun@naver.com
+17/11/09 14:18:38.683 [pid:919] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 14:18:38.683 [pid:919] - debug: [HTTP POST PARAMS] birthdate=1991-05-09
+17/11/09 14:18:38.683 [pid:919] - debug: [HTTP POST PARAMS] tel=01055061010
+17/11/09 14:18:38.873 [pid:919] - debug: [STATUS 200] OK
+17/11/09 14:18:38.877 [pid:919] - debug: [runtime] 301ms
+17/11/09 14:18:38.877 [pid:919] - debug: ---------- client disconnection ------------
+17/11/09 14:18:38.877 [pid:919] - debug: 
+17/11/09 14:18:40.463 [pid:919] - debug: ------------ client connection ------------
+17/11/09 14:18:40.464 [pid:919] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:18:40.464 [pid:919] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 14:18:40.560 [pid:919] - debug: [runtime] 97ms
+17/11/09 14:18:40.561 [pid:919] - debug: ---------- client disconnection ------------
+17/11/09 14:18:40.561 [pid:919] - debug: 
+17/11/09 14:21:31.065 [pid:932] - debug: ------------ client connection ------------
+17/11/09 14:21:31.067 [pid:932] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:21:31.067 [pid:932] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 14:21:31.080 [pid:932] - debug: [runtime] 20ms
+17/11/09 14:21:31.081 [pid:932] - debug: ---------- client disconnection ------------
+17/11/09 14:21:31.081 [pid:932] - debug: 
+17/11/09 14:22:05.856 [pid:932] - debug: ------------ client connection ------------
+17/11/09 14:22:05.857 [pid:932] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:22:05.858 [pid:932] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 14:22:05.879 [pid:932] - debug: [HTTP POST PARAMS] user_name=윤민근
+17/11/09 14:22:05.881 [pid:932] - debug: [HTTP POST PARAMS] user_id=hhhhyyy
+17/11/09 14:22:05.881 [pid:932] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 14:22:05.882 [pid:932] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 14:22:05.883 [pid:932] - debug: [HTTP POST PARAMS] email=ahsh@naver.com
+17/11/09 14:22:05.883 [pid:932] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 14:22:05.883 [pid:932] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 14:22:05.883 [pid:932] - debug: [HTTP POST PARAMS] tel=01033003300
+17/11/09 14:22:05.968 [pid:932] - debug: [STATUS 200] OK
+17/11/09 14:22:05.971 [pid:932] - debug: [runtime] 115ms
+17/11/09 14:22:05.972 [pid:932] - debug: ---------- client disconnection ------------
+17/11/09 14:22:05.973 [pid:932] - debug: 
+17/11/09 14:22:07.294 [pid:932] - debug: ------------ client connection ------------
+17/11/09 14:22:07.294 [pid:932] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 14:22:07.294 [pid:932] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 14:22:07.296 [pid:932] - debug: [runtime] 3ms
+17/11/09 14:22:07.297 [pid:932] - debug: ---------- client disconnection ------------
+17/11/09 14:22:07.297 [pid:932] - debug: 
+17/11/09 15:23:01.652 [pid:123] - debug: ------------ client connection ------------
+17/11/09 15:23:01.654 [pid:123] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 15:23:01.655 [pid:123] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 15:23:01.674 [pid:123] - debug: [runtime] 26ms
+17/11/09 15:23:01.674 [pid:123] - debug: ---------- client disconnection ------------
+17/11/09 15:23:01.674 [pid:123] - debug: 
+17/11/09 15:23:44.932 [pid:123] - debug: ------------ client connection ------------
+17/11/09 15:23:44.933 [pid:123] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 15:23:44.934 [pid:123] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 15:23:44.972 [pid:123] - debug: [HTTP POST PARAMS] user_name=장현일
+17/11/09 15:23:44.973 [pid:123] - debug: [HTTP POST PARAMS] user_id=hjyyy
+17/11/09 15:23:44.974 [pid:123] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 15:23:44.974 [pid:123] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 15:23:44.974 [pid:123] - debug: [HTTP POST PARAMS] email=dfdf@naver.com
+17/11/09 15:23:44.975 [pid:123] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 15:23:44.975 [pid:123] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 15:23:44.975 [pid:123] - debug: [HTTP POST PARAMS] tel=01033003300
+17/11/09 15:23:45.067 [pid:123] - debug: [STATUS 200] OK
+17/11/09 15:23:45.071 [pid:123] - debug: [runtime] 139ms
+17/11/09 15:23:45.071 [pid:123] - debug: ---------- client disconnection ------------
+17/11/09 15:23:45.072 [pid:123] - debug: 
+17/11/09 15:23:46.513 [pid:123] - debug: ------------ client connection ------------
+17/11/09 15:23:46.513 [pid:123] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 15:23:46.514 [pid:123] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 15:23:46.517 [pid:123] - debug: [runtime] 5ms
+17/11/09 15:23:46.517 [pid:123] - debug: ---------- client disconnection ------------
+17/11/09 15:23:46.518 [pid:123] - debug: 
+17/11/09 16:08:50.862 [pid:188] - debug: ------------ client connection ------------
+17/11/09 16:08:50.864 [pid:188] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:08:50.865 [pid:188] - debug: [http GET] http://jobinterview.run.goorm.io/join.html
+17/11/09 16:08:50.879 [pid:188] - debug: [runtime] 22ms
+17/11/09 16:08:50.879 [pid:188] - debug: ---------- client disconnection ------------
+17/11/09 16:08:50.880 [pid:188] - debug: 
+17/11/09 16:09:19.247 [pid:188] - debug: ------------ client connection ------------
+17/11/09 16:09:19.248 [pid:188] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:09:19.249 [pid:188] - debug: [http POST] http://jobinterview.run.goorm.io/member/join
+17/11/09 16:09:19.272 [pid:188] - debug: [HTTP POST PARAMS] user_name=현일
+17/11/09 16:09:19.273 [pid:188] - debug: [HTTP POST PARAMS] user_id=hh123
+17/11/09 16:09:19.274 [pid:188] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 16:09:19.274 [pid:188] - debug: [HTTP POST PARAMS] user_pw_re=123123
+17/11/09 16:09:19.275 [pid:188] - debug: [HTTP POST PARAMS] email=hkhk@naver.com
+17/11/09 16:09:19.275 [pid:188] - debug: [HTTP POST PARAMS] gender=M
+17/11/09 16:09:19.275 [pid:188] - debug: [HTTP POST PARAMS] birthdate=1991-05-06
+17/11/09 16:09:19.276 [pid:188] - debug: [HTTP POST PARAMS] tel=01055061010
+17/11/09 16:09:19.365 [pid:188] - debug: [STATUS 200] OK
+17/11/09 16:09:19.369 [pid:188] - debug: [runtime] 122ms
+17/11/09 16:09:19.369 [pid:188] - debug: ---------- client disconnection ------------
+17/11/09 16:09:19.370 [pid:188] - debug: 
+17/11/09 16:09:20.781 [pid:188] - debug: ------------ client connection ------------
+17/11/09 16:09:20.781 [pid:188] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:09:20.781 [pid:188] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:09:20.785 [pid:188] - debug: [runtime] 5ms
+17/11/09 16:09:20.786 [pid:188] - debug: ---------- client disconnection ------------
+17/11/09 16:09:20.786 [pid:188] - debug: 
+17/11/09 16:45:31.058 [pid:205] - debug: ------------ client connection ------------
+17/11/09 16:45:31.059 [pid:205] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:45:31.060 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:45:31.074 [pid:205] - debug: [runtime] 20ms
+17/11/09 16:45:31.074 [pid:205] - debug: ---------- client disconnection ------------
+17/11/09 16:45:31.074 [pid:205] - debug: 
+17/11/09 16:45:39.111 [pid:205] - debug: ------------ client connection ------------
+17/11/09 16:45:39.113 [pid:205] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:45:39.113 [pid:205] - debug: [http POST] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:45:39.130 [pid:205] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 16:45:39.135 [pid:205] - debug: [runtime] 22ms
+17/11/09 16:45:39.135 [pid:205] - debug: ---------- client disconnection ------------
+17/11/09 16:45:39.136 [pid:205] - debug: 
+17/11/09 16:46:01.492 [pid:205] - debug: ------------ client connection ------------
+17/11/09 16:46:01.492 [pid:205] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:46:01.492 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:46:01.559 [pid:205] - debug: [runtime] 67ms
+17/11/09 16:46:01.560 [pid:205] - debug: ---------- client disconnection ------------
+17/11/09 16:46:01.560 [pid:205] - debug: 
+17/11/09 16:48:12.959 [pid:205] - debug: ------------ client connection ------------
+17/11/09 16:48:12.960 [pid:205] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:48:12.960 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:48:12.966 [pid:205] - debug: [runtime] 7ms
+17/11/09 16:48:12.966 [pid:205] - debug: ---------- client disconnection ------------
+17/11/09 16:48:12.966 [pid:205] - debug: 
+17/11/09 16:48:55.640 [pid:205] - debug: ------------ client connection ------------
+17/11/09 16:48:55.640 [pid:205] - debug: [client] 10.1.21.224, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:48:55.641 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:48:55.644 [pid:205] - debug: [runtime] 3ms
+17/11/09 16:48:55.644 [pid:205] - debug: ---------- client disconnection ------------
+17/11/09 16:48:55.644 [pid:205] - debug: 
+17/11/09 16:51:22.549 [pid:205] - debug: ------------ client connection ------------
+17/11/09 16:51:22.550 [pid:205] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:51:22.561 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:51:22.568 [pid:205] - debug: [runtime] 18ms
+17/11/09 16:51:22.568 [pid:205] - debug: ---------- client disconnection ------------
+17/11/09 16:51:22.568 [pid:205] - debug: 
+17/11/09 16:51:28.914 [pid:205] - debug: ------------ client connection ------------
+17/11/09 16:51:28.915 [pid:205] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:51:28.960 [pid:205] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:51:28.972 [pid:205] - debug: [runtime] 58ms
+17/11/09 16:51:28.972 [pid:205] - debug: ---------- client disconnection ------------
+17/11/09 16:51:28.973 [pid:205] - debug: 
+17/11/09 16:51:32.761 [pid:205] - debug: ------------ client connection ------------
+17/11/09 16:51:32.761 [pid:205] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:51:32.761 [pid:205] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/09 16:51:32.764 [pid:205] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 16:51:32.765 [pid:205] - debug: [runtime] 5ms
+17/11/09 16:51:32.766 [pid:205] - debug: ---------- client disconnection ------------
+17/11/09 16:51:32.766 [pid:205] - debug: 
+17/11/09 16:52:20.226 [pid:217] - debug: ------------ client connection ------------
+17/11/09 16:52:20.228 [pid:217] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:52:20.229 [pid:217] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:52:20.264 [pid:217] - debug: [runtime] 43ms
+17/11/09 16:52:20.264 [pid:217] - debug: ---------- client disconnection ------------
+17/11/09 16:52:20.265 [pid:217] - debug: 
+17/11/09 16:52:25.553 [pid:217] - debug: ------------ client connection ------------
+17/11/09 16:52:25.554 [pid:217] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:52:25.554 [pid:217] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/09 16:52:25.572 [pid:217] - debug: [HTTP POST PARAMS] user_id=%s
+17/11/09 16:52:25.573 [pid:217] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 16:52:25.574 [pid:217] - error: [STATUS 500-Server Error] 서버의 응답이 잘못되었습니다. 관리자에게 문의하세요.
+17/11/09 16:52:25.576 [pid:217] - error:  ReferenceError: dbcon is not defined
+    at /workspace/Assignment/server/controllers/member.js:288:21
+    at /workspace/Assignment/server/node_modules/async/dist/async.js:473:16
+    at next (/workspace/Assignment/server/node_modules/async/dist/async.js:5315:29)
+    at /workspace/Assignment/server/node_modules/async/dist/async.js:958:16
+    at async.waterfall.Member.findOne.user_id (/workspace/Assignment/server/controllers/member.js:265:44)
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at next (/workspace/Assignment/server/node_modules/async/dist/async.js:5317:9)
+    at /workspace/Assignment/server/node_modules/async/dist/async.js:958:16
+    at /workspace/Assignment/server/controllers/member.js:257:21
+    at nextTask (/workspace/Assignment/server/node_modules/async/dist/async.js:5310:14)
+    at Object.waterfall (/workspace/Assignment/server/node_modules/async/dist/async.js:5320:5)
+    at login (/workspace/Assignment/server/controllers/member.js:248:15)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/workspace/Assignment/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/workspace/Assignment/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/workspace/Assignment/server/node_modules/express/lib/router/layer.js:95:5)
+17/11/09 16:52:25.579 [pid:217] - debug: [runtime] 26ms
+17/11/09 16:52:25.579 [pid:217] - debug: ---------- client disconnection ------------
+17/11/09 16:52:25.579 [pid:217] - debug: 
+17/11/09 16:52:44.359 [pid:229] - debug: ------------ client connection ------------
+17/11/09 16:52:44.361 [pid:229] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:52:44.362 [pid:229] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:52:44.376 [pid:229] - debug: [runtime] 103ms
+17/11/09 16:52:44.376 [pid:229] - debug: ---------- client disconnection ------------
+17/11/09 16:52:44.376 [pid:229] - debug: 
+17/11/09 16:52:50.164 [pid:229] - debug: ------------ client connection ------------
+17/11/09 16:52:50.166 [pid:229] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:52:50.166 [pid:229] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/09 16:52:50.185 [pid:229] - debug: [HTTP POST PARAMS] user_id=%s
+17/11/09 16:52:50.186 [pid:229] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 16:52:50.187 [pid:229] - error: [STATUS 400-Bad Request] 아이디를 입력하세요.
+17/11/09 16:52:50.190 [pid:229] - debug: [runtime] 25ms
+17/11/09 16:52:50.190 [pid:229] - debug: ---------- client disconnection ------------
+17/11/09 16:52:50.190 [pid:229] - debug: 
+17/11/09 16:53:53.432 [pid:229] - debug: ------------ client connection ------------
+17/11/09 16:53:53.434 [pid:229] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:53:53.435 [pid:229] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:53:53.442 [pid:229] - debug: [runtime] 11ms
+17/11/09 16:53:53.443 [pid:229] - debug: ---------- client disconnection ------------
+17/11/09 16:53:53.443 [pid:229] - debug: 
+17/11/09 16:53:58.286 [pid:229] - debug: ------------ client connection ------------
+17/11/09 16:53:58.286 [pid:229] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:53:58.286 [pid:229] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/09 16:53:58.289 [pid:229] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 16:53:58.289 [pid:229] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 16:54:34.541 [pid:242] - debug: ------------ client connection ------------
+17/11/09 16:54:34.543 [pid:242] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:54:34.543 [pid:242] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:54:34.557 [pid:242] - debug: [runtime] 20ms
+17/11/09 16:54:34.557 [pid:242] - debug: ---------- client disconnection ------------
+17/11/09 16:54:34.557 [pid:242] - debug: 
+17/11/09 16:54:39.638 [pid:242] - debug: ------------ client connection ------------
+17/11/09 16:54:39.639 [pid:242] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:54:39.640 [pid:242] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/09 16:54:39.670 [pid:242] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 16:54:39.671 [pid:242] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 16:54:39.685 [pid:242] - debug: [STATUS 200] OK
+17/11/09 16:54:39.762 [pid:242] - debug: [runtime] 123ms
+17/11/09 16:54:39.762 [pid:242] - debug: ---------- client disconnection ------------
+17/11/09 16:54:39.762 [pid:242] - debug: 
+17/11/09 16:54:41.740 [pid:242] - debug: ------------ client connection ------------
+17/11/09 16:54:41.759 [pid:242] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:54:41.759 [pid:242] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:54:41.764 [pid:242] - debug: [runtime] 25ms
+17/11/09 16:54:41.765 [pid:242] - debug: ---------- client disconnection ------------
+17/11/09 16:54:41.766 [pid:242] - debug: 
+17/11/09 16:58:26.965 [pid:256] - debug: ------------ client connection ------------
+17/11/09 16:58:26.967 [pid:256] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:58:26.967 [pid:256] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:58:27.063 [pid:256] - debug: [runtime] 103ms
+17/11/09 16:58:27.063 [pid:256] - debug: ---------- client disconnection ------------
+17/11/09 16:58:27.064 [pid:256] - debug: 
+17/11/09 16:58:30.356 [pid:256] - debug: ------------ client connection ------------
+17/11/09 16:58:30.357 [pid:256] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:58:30.358 [pid:256] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:58:30.362 [pid:256] - debug: [runtime] 6ms
+17/11/09 16:58:30.363 [pid:256] - debug: ---------- client disconnection ------------
+17/11/09 16:58:30.363 [pid:256] - debug: 
+17/11/09 16:58:42.338 [pid:256] - debug: ------------ client connection ------------
+17/11/09 16:58:42.338 [pid:256] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:58:42.338 [pid:256] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:58:42.361 [pid:256] - debug: [runtime] 24ms
+17/11/09 16:58:42.362 [pid:256] - debug: ---------- client disconnection ------------
+17/11/09 16:58:42.362 [pid:256] - debug: 
+17/11/09 16:59:22.040 [pid:256] - debug: ------------ client connection ------------
+17/11/09 16:59:22.040 [pid:256] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:59:22.041 [pid:256] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/09 16:59:22.077 [pid:256] - error: [STATUS 400-Bad Request] 이미 로그인 중입니다.
+17/11/09 16:59:22.082 [pid:256] - debug: [runtime] 43ms
+17/11/09 16:59:22.083 [pid:256] - debug: ---------- client disconnection ------------
+17/11/09 16:59:22.083 [pid:256] - debug: 
+17/11/09 16:59:26.377 [pid:256] - debug: ------------ client connection ------------
+17/11/09 16:59:26.377 [pid:256] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:59:26.378 [pid:256] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:59:26.460 [pid:256] - debug: [runtime] 83ms
+17/11/09 16:59:26.461 [pid:256] - debug: ---------- client disconnection ------------
+17/11/09 16:59:26.461 [pid:256] - debug: 
+17/11/09 16:59:39.941 [pid:256] - debug: ------------ client connection ------------
+17/11/09 16:59:39.941 [pid:256] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 16:59:39.959 [pid:256] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 16:59:39.964 [pid:256] - debug: [runtime] 24ms
+17/11/09 16:59:39.964 [pid:256] - debug: ---------- client disconnection ------------
+17/11/09 16:59:39.965 [pid:256] - debug: 
+17/11/09 17:01:23.242 [pid:256] - debug: ------------ client connection ------------
+17/11/09 17:01:23.243 [pid:256] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:01:23.243 [pid:256] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 17:01:23.261 [pid:256] - debug: [runtime] 19ms
+17/11/09 17:01:23.262 [pid:256] - debug: ---------- client disconnection ------------
+17/11/09 17:01:23.262 [pid:256] - debug: 
+17/11/09 17:01:24.304 [pid:256] - debug: ------------ client connection ------------
+17/11/09 17:01:24.304 [pid:256] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:01:24.359 [pid:256] - debug: [http GET] http://jobinterview.run.goorm.io/member/logout?_=1510246883356
+17/11/09 17:01:24.362 [pid:256] - error: [STATUS 404-Page Not Found] 페이지를 찾을 수 없습니다.
+17/11/09 17:01:24.364 [pid:256] - debug: [runtime] 59ms
+17/11/09 17:01:24.364 [pid:256] - debug: ---------- client disconnection ------------
+17/11/09 17:01:24.364 [pid:256] - debug: 
+17/11/09 17:01:38.424 [pid:272] - debug: ------------ client connection ------------
+17/11/09 17:01:38.425 [pid:272] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:01:38.426 [pid:272] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/09 17:01:38.476 [pid:272] - error: [STATUS 400-Bad Request] 이미 로그인 중입니다.
+17/11/09 17:01:38.485 [pid:272] - debug: [runtime] 65ms
+17/11/09 17:01:38.485 [pid:272] - debug: ---------- client disconnection ------------
+17/11/09 17:01:38.485 [pid:272] - debug: 
+17/11/09 17:01:41.091 [pid:272] - debug: ------------ client connection ------------
+17/11/09 17:01:41.159 [pid:272] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:01:41.160 [pid:272] - debug: [http GET] http://jobinterview.run.goorm.io/member/logout?_=1510246883357
+17/11/09 17:01:41.168 [pid:272] - debug: [STATUS 200] OK
+17/11/09 17:01:41.170 [pid:272] - debug: [runtime] 80ms
+17/11/09 17:01:41.171 [pid:272] - debug: ---------- client disconnection ------------
+17/11/09 17:01:41.171 [pid:272] - debug: 
+17/11/09 17:01:42.577 [pid:272] - debug: ------------ client connection ------------
+17/11/09 17:01:42.578 [pid:272] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:01:42.578 [pid:272] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 17:01:42.659 [pid:272] - debug: [runtime] 6ms
+17/11/09 17:01:42.659 [pid:272] - debug: ---------- client disconnection ------------
+17/11/09 17:01:42.659 [pid:272] - debug: 
+17/11/09 17:01:57.491 [pid:272] - debug: ------------ client connection ------------
+17/11/09 17:01:57.492 [pid:272] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:01:57.492 [pid:272] - debug: [http POST] http://jobinterview.run.goorm.io/member/login
+17/11/09 17:01:57.559 [pid:272] - debug: [HTTP POST PARAMS] user_id=hyunil
+17/11/09 17:01:57.559 [pid:272] - debug: [HTTP POST PARAMS] user_pw=123123
+17/11/09 17:01:57.570 [pid:272] - debug: [STATUS 200] OK
+17/11/09 17:01:57.575 [pid:272] - debug: [runtime] 84ms
+17/11/09 17:01:57.575 [pid:272] - debug: ---------- client disconnection ------------
+17/11/09 17:01:57.575 [pid:272] - debug: 
+17/11/09 17:01:59.520 [pid:272] - debug: ------------ client connection ------------
+17/11/09 17:01:59.520 [pid:272] - debug: [client] 10.1.20.243, 10.1.20.90 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:01:59.520 [pid:272] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 17:01:59.523 [pid:272] - debug: [runtime] 4ms
+17/11/09 17:01:59.524 [pid:272] - debug: ---------- client disconnection ------------
+17/11/09 17:01:59.524 [pid:272] - debug: 
+17/11/09 17:02:05.033 [pid:272] - debug: ------------ client connection ------------
+17/11/09 17:02:05.033 [pid:272] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:02:05.033 [pid:272] - debug: [http GET] http://jobinterview.run.goorm.io/member/logout?_=1510246919604
+17/11/09 17:02:05.037 [pid:272] - debug: [STATUS 200] OK
+17/11/09 17:02:05.038 [pid:272] - debug: [runtime] 5ms
+17/11/09 17:02:05.038 [pid:272] - debug: ---------- client disconnection ------------
+17/11/09 17:02:05.038 [pid:272] - debug: 
+17/11/09 17:02:06.105 [pid:272] - debug: ------------ client connection ------------
+17/11/09 17:02:06.106 [pid:272] - debug: [client] 10.1.20.243, 10.1.21.16 / macOS Sierra / Chrome (61.0.3163.100) / Apple Mac
+17/11/09 17:02:06.159 [pid:272] - debug: [http GET] http://jobinterview.run.goorm.io/login.html
+17/11/09 17:02:06.162 [pid:272] - debug: [runtime] 57ms
+17/11/09 17:02:06.163 [pid:272] - debug: ---------- client disconnection ------------
+17/11/09 17:02:06.163 [pid:272] - debug: 
